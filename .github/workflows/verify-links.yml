@@ -1,0 +1,21 @@
+name: Verify Internal Links
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+    branches: [main]
+  pull_request:
+    paths:
+      - '**/*.md'
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check internal markdown links
+        run: |
+          chmod +x scripts/verify-links.sh
+          bash scripts/verify-links.sh

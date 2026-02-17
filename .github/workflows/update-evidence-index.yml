@@ -1,0 +1,26 @@
+name: Update Evidence Index
+
+on:
+  push:
+    paths:
+      - 'whitepaper/**/evidence/**/*.md'
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count evidence items
+        id: count
+        run: |
+          total=$(find whitepaper -path "*/evidence/*.md" ! -name ".gitkeep" | wc -l)
+          philosophy=$(find whitepaper -path "*/evidence/philosophy/*.md" | wc -l)
+          history=$(find whitepaper -path "*/evidence/history/*.md" | wc -l)
+          mathematics=$(find whitepaper -path "*/evidence/mathematics/*.md" | wc -l)
+          empirical=$(find whitepaper -path "*/evidence/empirical/*.md" | wc -l)
+          technical=$(find whitepaper -path "*/evidence/technical/*.md" | wc -l)
+          echo "total=$total" >> $GITHUB_OUTPUT
+          echo "Evidence items: $total (phi:$philosophy his:$history math:$mathematics emp:$empirical tech:$technical)"

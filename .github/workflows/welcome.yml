@@ -1,0 +1,37 @@
+name: Welcome New Contributors
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            Welcome to CED-AH! Thank you for opening your first issue.
+
+            This project is built on the principle that every claim should be
+            challengeable and every contribution strengthens the framework.
+
+            A maintainer will review your submission. In the meantime:
+            - 📖 [Read the contributing guide](CONTRIBUTING.md)
+            - 🔍 [Browse the evidence index](evidence-index.md)
+            - 💬 [Join the discussion](../../discussions)
+          pr-message: |
+            Welcome to CED-AH! Thank you for your first pull request.
+
+            A maintainer will review your contribution. Please ensure:
+            - You have signed the [CLA](CLA.md)
+            - Your changes follow the templates in `templates/`
+            - All internal links are valid
+
+            Thank you for helping build a more rigorous AI safety framework.
