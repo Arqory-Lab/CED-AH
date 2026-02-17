@@ -69,7 +69,7 @@ From the coherence criterion, we derive **five non-negotiable design imperatives
 4. **Calibrated Honesty** - Stated confidence matches actual accuracy; "I don't know" is valid.
 5. **Reversibility** - Every action can be undone; humans can always override.
 
-These are not aspirational guidelines.  They are architecturally enforceable requirements derived from first principles.  Our [measurement framework](whitepaper/08-failure-modes/) specifies how to detect when they're being violated and how to intervene.
+These are not aspirational guidelines.  They are architecturally enforceable requirements derived from first principles.  Our [measurement framework](whitepaper/07-applications-failures/) specifies how to detect when they're being violated and how to intervene.
 
 ---
 
@@ -85,7 +85,7 @@ Humans using well designed AH systems become measurably more capable over time. 
 
 ### If We're Wrong
 
-If consciousness does emerge from computation.  If systems cross the agency threshold.  The framework adapts.  Coherence remains the criterion; the relationship model requires revision.  We've designed for this contingency in [Chapter 11](whitepaper/11-discussion/) of the whitepaper.
+If consciousness does emerge from computation.  If systems cross the agency threshold.  The framework adapts.  Coherence remains the criterion; the relationship model requires revision.  We've designed for this contingency in [Part 8](whitepaper/08-implications-action/) of the whitepaper.
 
 If the agent framing turns out to be correct and we face genuine machine agency, the safety community's containment work becomes essential.  We don't dismiss that work.  W\e argue it shouldn't be the *starting* point for design philosophy when current evidence doesn't support it.
 
@@ -134,7 +134,7 @@ We invite scrutiny.  Here are the metrics by which we ask to be judged:
 
 **Predictive accuracy:** The framework makes testable predictions: systems designed for replacement will produce dependency and skill atrophy; systems designed for amplification will produce capability growth.  These predictions are falsifiable.
 
-**Intellectual honesty:** Do we acknowledge uncertainty where it exists?  Do we update when evidence warrants?  Do we engage with objections seriously? Read our [Discussion chapter](whitepaper/11-discussion/) for our attempt at this.
+**Intellectual honesty:** Do we acknowledge uncertainty where it exists?  Do we update when evidence warrants?  Do we engage with objections seriously? Read our [Discussion section](whitepaper/08-implications-action/) for our attempt at this.
 
 ---
 
