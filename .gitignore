@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Build artifacts
+whitepaper-complete.md
+
+# Temporary files
+*.tmp
+*.bak
