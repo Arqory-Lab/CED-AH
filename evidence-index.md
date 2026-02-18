@@ -1,8 +1,8 @@
 # Evidence Index
 
-**CED-AH Project - Master Evidence Registry**
+**CED-AH Project — Master Evidence Registry**
 
-This index catalogs every evidence item in the CED-AH whitepaper.  Each item is a standalone file in the relevant chapter's `evidence/` directory, following the [evidence template](templates/evidence-template.md).  The index is organized by chapter, then by evidence type within each chapter.
+This index catalogs every evidence item in the CED-AH whitepaper. Each item is a standalone file in the relevant part's `evidence/` directory, following the [evidence template](templates/evidence-template.md). The index is organized by part, then by evidence type within each part.
 
 **Want to contribute evidence?** Use the [Add Evidence issue template](.github/ISSUE_TEMPLATE/add-evidence.md) or submit a pull request with a new evidence file. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -29,67 +29,54 @@ This index catalogs every evidence item in the CED-AH whitepaper.  Each item is 
 
 ---
 
-## Chapter 0: Overview
+## Part 0: Overview — Executive Summary
 
-_Executive summary and chapter guide. No primary evidence; evidence supports claims in subsequent chapters._
+_Executive summary and framework guide. No primary evidence; evidence supports claims in subsequent parts._
 
 ---
 
-## Chapter 1: Two Realities
+## Part 1: Two Futures — The Substitution-Amplification Fork
 
-_The choice between automation dominion and amplification._
+_The choice between replacement-default and amplification-first AI development._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| <!-- hist-001 --> | <!-- Historical --> | <!-- [Title](whitepaper/01-two-realities/evidence/history/hist-001.md) --> | <!-- Strong --> | <!-- 1.2 --> |
+| <!-- hist-001 --> | <!-- Historical --> | <!-- [Title](whitepaper/01-two-futures/evidence/hist-001.md) --> | <!-- Strong --> | <!-- 1.2 --> |
 
 **Known gaps:**
-- <!-- e.g., Longitudinal data on societal outcomes of automation-first vs. augmentation-first deployments -->
+- Longitudinal data on societal outcomes of automation-first vs. augmentation-first deployments
 
 ---
 
-## Chapter 2: The Confused Discourse
+## Part 2: The AI Conversation — Why Current Discourse Is Confused
 
-_Why current AI frameworks fail._
-
-| ID | Type | Title | Strength | Section(s) |
-|---|---|---|---|---|
-| | | | | |
-
-**Known gaps:**
-- <!-- e.g., Systematic review of definitional inconsistency in "alignment" across major research groups -->
-
----
-
-## Chapter 3: The Philosophical Foundation
-
-_Coherence as the first principle._
+_Why current AI safety and alignment frameworks fail._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
 | | | | | |
 
 **Known gaps:**
-- <!-- e.g., Formal comparison of coherence-first vs. utility-first axiom systems -->
+- Systematic review of definitional inconsistency in "alignment" across major research groups
 
 ---
 
-## Chapter 4: Reframing AI to AH
+## Part 3: The Coherence Foundation — Deriving the Unavoidable Criterion
 
-_From Artificial Intelligence to Amplified Humanity._
+_Coherence as the first principle, derived from first principles._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
 | | | | | |
 
 **Known gaps:**
--
+- Formal comparison of coherence-first vs. utility-first axiom systems
 
 ---
 
-## Chapter 5: CED Axioms
+## Part 4: Amplified Humanity — From Artificial Intelligence to Human Amplification
 
-_Formal axiom structure and derivations._
+_The instrument/agent distinction, capability amplification, and the AH reframe._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
@@ -100,22 +87,9 @@ _Formal axiom structure and derivations._
 
 ---
 
-## Chapter 6: Design Principles
+## Part 5: Formal Architecture — CED Axioms and Derivations
 
-_The Five Imperatives and integration architecture._
-
-| ID | Type | Title | Strength | Section(s) |
-|---|---|---|---|---|
-| | | | | |
-
-**Known gaps:**
--
-
----
-
-## Chapter 7: Domain Applications
-
-_Healthcare, legal, education, business._
+_Formal axiom structure: the four CED axioms, derivations, and mathematical foundations._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
@@ -126,22 +100,9 @@ _Healthcare, legal, education, business._
 
 ---
 
-## Chapter 8: Failure Modes and Measurement
+## Part 6: Design Principles — The Five Imperatives
 
-_Systematic failure analysis and the Coherence Dashboard._
-
-| ID | Type | Title | Strength | Section(s) |
-|---|---|---|---|---|
-| | | | | |
-
-**Known gaps:**
--
-
----
-
-## Chapter 9: Implications
-
-_For discourse, research, and governance._
+_The Five Imperatives and integration architecture for coherence-preserving systems._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
@@ -152,22 +113,9 @@ _For discourse, research, and governance._
 
 ---
 
-## Chapter 10: Call to Action
+## Part 7: Applications and Failure Modes
 
-_Stakeholder-specific guidance._
-
-| ID | Type | Title | Strength | Section(s) |
-|---|---|---|---|---|
-| | | | | |
-
-**Known gaps:**
--
-
----
-
-## Chapter 11: Discussion
-
-_Caveats, objections, and limitations._
+_Domain applications (healthcare, legal, education, business), systematic failure analysis, and the Coherence Dashboard._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
@@ -178,11 +126,16 @@ _Caveats, objections, and limitations._
 
 ---
 
-## Chapter 12: Conclusion
+## Part 8: Implications and Call to Action
 
-_Thesis restated._
+_Implications for discourse, research, governance, and stakeholder-specific guidance._
 
-_Conclusion chapter references evidence from prior chapters. No primary evidence items._
+| ID | Type | Title | Strength | Section(s) |
+|---|---|---|---|---|
+| | | | | |
+
+**Known gaps:**
+-
 
 ---
 
@@ -205,14 +158,14 @@ _Conclusion chapter references evidence from prior chapters. No primary evidence
 
 ---
 
-## Cross-Chapter Evidence
+## Cross-Part Evidence
 
-Some evidence items are referenced by multiple chapters. This section tracks evidence that supports claims across chapter boundaries.
+Some evidence items are referenced by multiple parts. This section tracks evidence that supports claims across part boundaries.
 
-| Evidence ID | Home Chapter | Also Referenced In |
+| Evidence ID | Home Part | Also Referenced In |
 |---|---|---|
-| <!-- e.g., emp-007 --> | <!-- e.g., Chapter 3 --> | <!-- e.g., Chapter 6, Chapter 8 --> |
+| <!-- e.g., emp-007 --> | <!-- e.g., Part 3 --> | <!-- e.g., Part 6, Part 7 --> |
 
 ---
 
-*This index is maintained manually during the project's foundation phase.  Automated generation via CI ([build workflow](.github/workflows/update-evidence-index.yml)) is planned.  If you notice a discrepancy between this index and the evidence files in the repository, please open a [feedback issue](.github/ISSUE_TEMPLATE/feedback.md).*
+*This index is maintained manually during the project's foundation phase. Automated generation via CI ([build workflow](.github/workflows/update-evidence-index.yml)) is planned. If you notice a discrepancy between this index and the evidence files in the repository, please open a [feedback issue](.github/ISSUE_TEMPLATE/feedback.md).*
