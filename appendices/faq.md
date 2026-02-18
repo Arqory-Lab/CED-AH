@@ -12,33 +12,33 @@ AI alignment asks: "How do we make AI systems do what we want?"  CED-AH asks a p
 
 Alignment assumes the system is or could become an agent whose goals need to be aligned with ours.  CED-AH argues that computational systems are instruments.  Human created, human dependent and human purposed.  That the design choice that matters is whether they amplify human capability or replace it.  This reframing changes which problems are central and which solutions are coherent.
 
-The frameworks are not necessarily in conflict.  Alignment research addresses real engineering challenges.  CED-AH provides a philosophical foundation for evaluating whether the goals being aligned to are themselves coherent. See [Chapter 2](../whitepaper/02-confused-discourse/main.md) and [Chapter 4](../whitepaper/04-reframe-ai-to-ah/main.md).
+The frameworks are not necessarily in conflict.  Alignment research addresses real engineering challenges.  CED-AH provides a philosophical foundation for evaluating whether the goals being aligned to are themselves coherent. See [Chapter 2](../whitepaper/02-ai-conversation/main.md) and [Chapter 4](../whitepaper/04-amplified-humanity/main.md).
 
 ### How is CED-AH different from AI safety?
 
 AI safety typically focuses on preventing catastrophic outcomes.  Systems that are deceptive, that pursue unintended goals, that resist correction.  CED-AH addresses a broader failure mode: systems that function exactly as designed but still erode human capability, agency, and understanding over time.
 
-A system can be "safe" by every conventional metric.  No deception, no misalignment, no catastrophic failure can still produce capability atrophy, dependency, and agency erosion in its users.  CED-AH's measurement framework is designed to detect this slower, structural form of harm. See [Chapter 8](../whitepaper/08-failure-modes/main.md).
+A system can be "safe" by every conventional metric.  No deception, no misalignment, no catastrophic failure can still produce capability atrophy, dependency, and agency erosion in its users.  CED-AH's measurement framework is designed to detect this slower, structural form of harm. See [Chapter 8](../whitepaper/07-applications-failures/main.md).
 
 ### Is CED-AH anti-AI?
 
-No.  CED-AH is pro-amplification.  The framework does not argue against computational systems.  It argues for a specific relationship between computational systems and humans.  The same technology deployed as amplification (increasing human capability) produces different outcomes than the same technology deployed as replacement (substituting for human capability).  CED-AH provides criteria for distinguishing between the two and design imperatives for building the former. See [Chapter 4](../whitepaper/04-reframe-ai-to-ah/main.md).
+No.  CED-AH is pro-amplification.  The framework does not argue against computational systems.  It argues for a specific relationship between computational systems and humans.  The same technology deployed as amplification (increasing human capability) produces different outcomes than the same technology deployed as replacement (substituting for human capability).  CED-AH provides criteria for distinguishing between the two and design imperatives for building the former. See [Chapter 4](../whitepaper/04-amplified-humanity/main.md).
 
 ### What do you mean by "coherence is the first principle"?
 
 The framework argues that coherence, defined as internal consistency combined with alignment with human flourishing requirements, is a transcendental precondition of rational discourse.  Any argument against coherence must itself be coherent to be persuasive, which means coherence is presupposed by the act of arguing against it.
 
-This is not an arbitrary starting point.  It is an argument that coherence cannot be rationally rejected, which makes it the only viable foundation for a framework that claims to derive its imperatives from first principles rather than from preference or convention.  The full argument, including its formal structure and anticipated objections, is in [Chapter 3](../whitepaper/03-philosophical-foundation/main.md).
+This is not an arbitrary starting point.  It is an argument that coherence cannot be rationally rejected, which makes it the only viable foundation for a framework that claims to derive its imperatives from first principles rather than from preference or convention.  The full argument, including its formal structure and anticipated objections, is in [Chapter 3](../whitepaper/03-coherence-foundation/main.md).
 
 ### Can I apply the five Design Imperatives to existing systems?
 
-Yes.  The Design Imperatives (Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility) are technology agnostic.  They describe properties of the relationship between a system and its users, not properties of the system's architecture.  They can be applied as evaluation criteria to any deployed computational system and as design requirements for new ones.  See [Chapter 6](../whitepaper/06-design-principles/main.md) for the imperatives and [Chapter 7](../whitepaper/07-domain-applications/main.md) for domain specific application.
+Yes.  The Design Imperatives (Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility) are technology agnostic.  They describe properties of the relationship between a system and its users, not properties of the system's architecture.  They can be applied as evaluation criteria to any deployed computational system and as design requirements for new ones.  See [Chapter 6](../whitepaper/06-design-principles/main.md) for the imperatives and [Chapter 7](../whitepaper/07-applications-failures/main.md) for domain specific application.
 
 ### Is the axiom structure falsifiable?
 
 The axioms are formally structured to be contestable.  Each axiom is stated explicitly, its derivations are shown, and the evidence supporting each step is linked.  If a counter example demonstrates that an axiom does not hold, or that a derivation is invalid, the framework must accommodate that finding.  Either by revising the axiom, qualifying its scope, or acknowledging the limitation.
 
-We have published the axiom structure precisely so that it can be challenged.  The [Challenge a Claim template](../.github/ISSUE_TEMPLATE/challenge-evidence.md) exists for this purpose.  See [Chapter 5](../whitepaper/05-ced-axioms/main.md) and [Chapter 11](../whitepaper/11-discussion/main.md) for the framework's own discussion of its limitations.
+We have published the axiom structure precisely so that it can be challenged.  The [Challenge a Claim template](../.github/ISSUE_TEMPLATE/challenge-evidence.md) exists for this purpose.  See [Chapter 5](../whitepaper/05-formal-architecture/main.md) and [Chapter 11](../whitepaper/08-implications-action/main.md) for the framework's own discussion of its limitations.
 
 ---
 
@@ -118,7 +118,7 @@ Not without permission.  Claims of official compliance, certification, or endors
 
 ### Where is the Coherence Dashboard?
 
-The Coherence Dashboard is described as a measurement framework in [Chapter 8](../whitepaper/08-failure-modes/main.md).  A reference implementation is on the [project roadmap](../README.md#roadmap) but is not yet available.  The chapter defines the metrics, thresholds, and intervention protocols; implementation is a planned next phase.
+The Coherence Dashboard is described as a measurement framework in [Chapter 8](../whitepaper/07-applications-failures/main.md).  A reference implementation is on the [project roadmap](../README.md#roadmap) but is not yet available.  The chapter defines the metrics, thresholds, and intervention protocols; implementation is a planned next phase.
 
 ### Is there a reference implementation of an AH-compliant system?
 
