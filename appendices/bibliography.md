@@ -305,4 +305,87 @@ Works that inform multiple thematic categories:
 
 ---
 
+## 12. Great Books: Classical and Modern Foundations
+
+Works from the philosophical, scientific, and political canon that establish
+the intellectual lineage of CED-AH's core concepts. These sources demonstrate
+that CED-AH's central claims — coherence as first principle, instruments vs.
+agents, amplification vs. replacement, human authority as non-negotiable —
+are not novel inventions but formalizations of insights developed across
+2,500 years of Western intellectual history.
+
+### Ancient & Classical (c. 380 BCE – c. 180 CE)
+
+- Plato. *Republic*. (c. 380 BCE). Grube/Reeve trans., Hackett, 1992.
+  [phil-100: coherence as psychic harmony]
+- Aristotle. *Nicomachean Ethics*. (c. 340 BCE). Irwin trans., Hackett, 1999.
+  [phil-101: instruments, flourishing, practical wisdom]
+- Aristotle. *Politics*. (c. 335 BCE). Reeve trans., Hackett, 1998.
+  [phil-102: instruments as extensions of the hand]
+- Cicero. *De Officiis* (*On Duties*). (44 BCE). Griffin/Atkins trans., Cambridge, 1991.
+  [phil-103: Stoic duties and appropriate action]
+- Marcus Aurelius. *Meditations*. (c. 170-180 CE). Hays trans., Modern Library, 2002.
+  [phil-104: Stoic discipline of assent and what is "up to us"]
+
+### Medieval & Early Modern (c. 1265 – 1785)
+
+- Aquinas, T. *Summa Theologiae*. (c. 1265-1274). Fathers of the English Dominican Province trans.
+  [phil-120: instrumental causation, ordered reason]
+- Descartes, R. *Meditations on First Philosophy*. (1641). Cottingham trans., Cambridge, 1996.
+  [phil-121: foundationalist epistemology — CED-AH's foil]
+- Spinoza, B. *Ethics*. (1677). Curley trans., Penguin, 1996.
+  [phil-122: substance monism, coherence as the structure of reality]
+- Locke, J. *Second Treatise of Government*. (1689). Macpherson ed., Hackett, 1980.
+  [phil-123: natural rights, consent, self-ownership]
+- Leibniz, G. W. *Monadology* and *Discourse on Metaphysics*. (1686/1714). Garber/Ariew trans., Hackett, 1991.
+  [phil-124: pre-established harmony, rational coherence]
+- Kant, I. *Groundwork of the Metaphysics of Morals* and *Critique of Pure Reason*.
+  (1781/1785). Gregor trans., Cambridge, 1998; Guyer/Wood trans., Cambridge, 1998.
+  [phil-125: autonomy, categorical imperative, limits of reason]
+
+### 19th Century
+
+- Hegel, G. W. F. *Phenomenology of Spirit*. (1807). Miller trans., Oxford, 1977.
+  [phil-160: dialectical coherence, master/slave dialectic]
+- Marx, K. *Capital, Volume I*. (1867). Fowkes trans., Penguin, 1990.
+  [phil-161: machinery and deskilling, the replacement dynamic]
+- Nietzsche, F. *On the Genealogy of Morality*. (1887). Clark/Swensen trans., Hackett, 1998.
+  [phil-162: genealogical critique, will to power — adversarial evidence]
+- Mill, J. S. *On Liberty* and *Utilitarianism*. (1859/1861). Gray ed., Oxford, 1991.
+  [phil-169: individuality, freedom of discussion, utilitarian challenge]
+- Darwin, C. *On the Origin of Species*. (1859). 150th anniversary ed., Signet Classics, 2009.
+  [phil-170: biological coherence, natural selection as coherence-sorting]
+- Tocqueville, A. de. *Democracy in America*. (1835/1840). Mansfield/Winthrop trans., Chicago, 2000.
+  [hist-100: soft despotism, civic associations, tyranny of the majority]
+
+### 20th Century Philosophy
+
+- Dewey, J. *Democracy and Education*. (1916). Free Press, 1997.
+  [phil-163: growth through engagement, pragmatist epistemology]
+- Wittgenstein, L. *Philosophical Investigations*. (1953). Anscombe et al. trans., Wiley-Blackwell, 2009.
+  [phil-164: language games, rule-following, meaning as use]
+- Heidegger, M. "The Question Concerning Technology." (1954). In *The Question Concerning Technology
+  and Other Essays*, Lovitt trans., Harper, 1977.
+  [phil-165: enframing, technology as standing-reserve]
+- Arendt, H. *The Human Condition*. (1958). 2nd ed., Chicago, 1998.
+  [phil-166: action, labor/work/action distinction]
+- Popper, K. *The Open Society and Its Enemies*. (1945). Princeton, 2013.
+  [phil-167: open society, falsificationism, enemies of openness]
+- Kuhn, T. S. *The Structure of Scientific Revolutions*. (1962). 50th anniversary ed., Chicago, 2012.
+  [phil-168: paradigms, normal science, incommensurability]
+- Wiener, N. *The Human Use of Human Beings*. (1950). Da Capo Press, 1989.
+  [phil-171: cybernetics and society, amplification vs. replacement]
+- Polanyi, M. *Personal Knowledge*. (1958). Chicago, 2015.
+  [phil-172: tacit knowledge, personal knowledge, indwelling]
+
+### Mathematical Foundations
+
+- Gödel, K. "Über formal unentscheidbare Sätze." (1931). *Monatshefte für Mathematik und Physik*, 38.
+  Accessible exposition: Nagel & Newman, *Gödel's Proof*, NYU Press, 2001.
+  [math-100: incompleteness theorems — no formal system can prove its own consistency]
+- Whitehead, A. N., & Russell, B. *Principia Mathematica*. (1910-1913). Cambridge.
+  [math-101: the foundationalist project and its failure — context for Gödel]
+
+---
+
 *This bibliography is a living document. Sources are added as evidence items are contributed and as the framework's engagement with existing literature expands. If you are aware of works that should be included, please submit them through the [Add Evidence template](../.github/ISSUE_TEMPLATE/add-evidence.md) or open a [feedback issue](../.github/ISSUE_TEMPLATE/feedback.md).*
