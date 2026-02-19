@@ -1,12 +1,18 @@
-# CED-AH: Contextual Epistemic Dynamics - Amplified Humanity
+<p align="center">
+  <img src=".github/images/readme-banner.svg" alt="CED-AH – Arqory Research Institute" width="700">
+</p>
 
-**A philosophical framework and safety standard for human centered computational systems.**
+# CED-AH: Contextual Epistemic Dynamics — Amplified Humanity
 
-> *Computational systems should amplify human capability, not replace human agency.  The criterion is coherence.  The goal is flourishing. The method is amplification.  The authority remains with us.*
+**A philosophical framework and safety standard for human-centered computational systems.**
 
-[![License: Apache 2.0](https://img.shields.io/badge/Code-Apache%202.0-blue.svg)](LICENSE)
-[![License: CC BY 4.0](https://img.shields.io/badge/Docs-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![CLA Required](https://img.shields.io/badge/CLA-Required-orange.svg)](CLA.md)
+> *Computational systems should amplify human capability, not replace human agency. The criterion is coherence. The goal is flourishing. The method is amplification. The authority remains with us.*
+
+[![License: Apache 2.0](https://img.shields.io/badge/Code-Apache_2.0-3B82F6?style=flat-square)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/Docs-CC_BY_4.0-3B82F6?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
+[![Status](https://img.shields.io/badge/Status-Pre--release_v0.9-60A5FA?style=flat-square)](#roadmap)
+[![CLA Required](https://img.shields.io/badge/CLA-Required-F59E0B?style=flat-square)](CLA.md)
+[![Website](https://img.shields.io/badge/research.arqory.ai-060C18?style=flat-square)](https://research.arqory.ai)
 
 ---
 
