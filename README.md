@@ -30,7 +30,7 @@ CED-AH delivers a **complete philosophical framework**, from first principles th
 
 **Amplified Humanity™ (AH)** applies that foundation to computational systems: five enforceable design imperatives, systematic failure mode analysis, and a measurement framework for tracking coherence impact over time.
 
-This is not a position paper.  It is an **evidence-backed, modular, community-challengeable body of work**.  Structured so every claim can be traced to its supporting evidence, and every axiom can be formally contested.
+This is not a position paper.  It is an **evidence-backed, modular, community-challengeable body of work** - grounded in over 120 sources spanning philosophical argument, empirical research, technical analysis, historical precedent, and mathematical proof.  Every claim can be traced to its supporting evidence, and every axiom can be formally contested.
 
 ---
 
@@ -50,9 +50,9 @@ This is not a position paper.  It is an **evidence-backed, modular, community-ch
 
 ### The Core Argument
 
-1. **Coherence is the first principle.**  It cannot be argued against without presupposing it.  We define it precisely: internal consistency + alignment with human flourishing requirements.
+1. **Coherence is the first principle.**  It cannot be argued against without presupposing it.  This insight is not new.  It appears in Plato, Spinoza, Kant, and contemporary epistemology.  What CED-AH contributes is precise definition (internal consistency + alignment with human flourishing requirements) and formal operationalization.
 
-2. **Computational systems are instruments, not agents.**  They are entirely human-dependent.  Requiring human-designed hardware, human-generated power, human-maintained infrastructure, and human-provided purpose.
+2. **Computational systems are instruments, not agents.**  They are entirely human-dependent.  Requiring human-designed hardware, human-generated power, human maintained infrastructure, and human provided purpose.
 
 3. **The design choice that matters is amplification vs. replacement.**  Systems that replace human capability decrease coherence (bad).  Systems that amplify human capability increase coherence (good).  Same technology, different relationship, opposite outcomes.
 
@@ -158,7 +158,7 @@ We designed this project for structured, asynchronous collaboration.  You don't 
 
 1. **Challenge a claim.**  Every claim in the whitepaper is backed by evidence and open to formal challenge.  Use our [challenge template](.github/ISSUE_TEMPLATE/challenge-evidence.md) to contest any assertion with counter-evidence.  Successful challenges strengthen the framework.
 
-2. **Add evidence.**  Our evidence base is intentionally incomplete.  We publish what we have and invite extension.  Use our [evidence template](.github/ISSUE_TEMPLATE/add-evidence.md) to submit supporting or contradicting evidence for any chapter.
+2. **Add evidence.**  Our evidence base draws on sources from Aristotle through contemporary cognitive science, but it is intentionally incomplete — particularly in non-Western philosophical traditions and emerging empirical domains.  We publish what we have and invite extension.  Use our [evidence template](.github/ISSUE_TEMPLATE/add-evidence.md) to submit supporting or contradicting evidence for any chapter.
 
 3. **Provide feedback.**  If something is unclear, if you see an implication we've missed, if a domain application doesn't account for your field's constraints [tell us](.github/ISSUE_TEMPLATE/feedback.md).
 
@@ -196,7 +196,7 @@ Our current priorities and their status:
 
 | Phase | Focus | Status |
 |---|---|---|
-| **Foundation** | Complete whitepaper, evidence base, repository infrastructure | ✅ Current |
+| **Foundation** | Complete whitepaper (9 parts), evidence base (~125 sources, 5 evidence types), repository infrastructure | ✅ Current |
 | **Community** | Launch, initial engagement, evidence challenges and extensions | 🔜 Next |
 | **Measurement** | Coherence Dashboard™ reference implementation, empirical validation | 📋 Planned |
 | **Domain Guides** | Detailed implementation guidance for healthcare, legal, education, finance | 📋 Planned |
