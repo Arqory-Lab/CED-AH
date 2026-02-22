@@ -23,9 +23,9 @@ The foundation is **Contextual Epistemic Dynamics™ (CED)** - a formal philosop
 
 ## What We Believe
 
-We hold these positions with conviction, but also with the intellectual honesty to acknowledge where uncertainty remains.  What follows are our core claims, each of which we defend with evidence and argument in the [full whitepaper](whitepaper/).
+We hold these positions with conviction, but also with the intellectual honesty to acknowledge where uncertainty remains.  What follows are our core claims, each defended with evidence drawn from philosophical analysis, empirical research, historical case studies, mathematical foundations, and technical demonstrations.  Sourced across traditions from antiquity to the present.
 
-**Coherence is the unavoidable criterion.**  Every argument, including any argument against coherence, presupposes that coherent reasoning is preferable to incoherent reasoning.  This makes coherence the one evaluative standard that cannot be rejected without self contradiction.  We define coherence precisely: internal consistency combined with alignment with human flourishing requirements.
+**Coherence is the unavoidable criterion.**  Every argument, including any argument against coherence, presupposes that coherent reasoning is preferable to incoherent reasoning.  Philosophers from Plato through Hegel to BonJour have recognized this.  CED formalizes the insight and makes it operational.  This makes coherence the one evaluative standard that cannot be rejected without self contradiction.  We define coherence precisely: internal consistency combined with alignment with human flourishing requirements.
 
 **Computational systems are instruments, not agents.**  Computation is entirely human dependent.  It requires human designed hardware, human generated power, human maintained infrastructure, and human provided purpose.  Remove humans, and computational systems cease to exist within days.  This is not a limitation to be overcome.  It is the ontological reality of what computation is.  We formalize this through CED's agency threshold: current systems score zero on every dimension of genuine agency.
 
@@ -69,7 +69,7 @@ From the coherence criterion, we derive **five non-negotiable design imperatives
 4. **Calibrated Honesty** - Stated confidence matches actual accuracy; "I don't know" is valid.
 5. **Reversibility** - Every action can be undone; humans can always override.
 
-These are not aspirational guidelines.  They are architecturally enforceable requirements derived from first principles.  Our [measurement framework](whitepaper/07-applications-failures/) specifies how to detect when they're being violated and how to intervene.
+These are not aspirational guidelines.  They are architecturally enforceable requirements derived from first principles.  Grounded in a tradition running from Aristotle's analysis of instrumental causation through Wiener's cybernetic feedback principles to contemporary cognitive science research on expertise development and skill transfer.  Our [measurement framework](whitepaper/07-applications-failures/) specifies how to detect when they're being violated and how to intervene.
 
 ---
 
@@ -98,7 +98,7 @@ If our framework fails to gain adoption and the field continues toward autonomou
 Our open research is organized around three priorities:
 
 **Priority 1: Establish the philosophical foundation publicly.**
-Release the CED-AH framework as evidence backed, community challengeable documentation.  Every claim linked to supporting evidence. Every axiom open to scrutiny.  This repository is that release.
+Release the CED-AH framework as evidence backed, community challengeable documentation.  Over 120 sources across five evidence types, with every claim linked to supporting evidence and every axiom open to scrutiny.  This repository is that release.
 
 **Priority 2: Develop practical measurement tools.**
 The Coherence Dashboard™ concept - tracking understanding, capability, agency, dependency, and growth trajectory - needs to move from framework to implementation.  We need empirical data on coherence metrics across domains.
@@ -128,7 +128,7 @@ This dual structure is intentional.  It follows the model established by organiz
 
 We invite scrutiny.  Here are the metrics by which we ask to be judged:
 
-**Philosophical rigor:** Does the CED framework survive challenge?  Are the axioms coherent? Do the derivations hold?  We've structured this repository specifically to enable formal challenge through our [evidence submission process](.github/ISSUE_TEMPLATE/challenge-evidence.md).
+**Philosophical rigor:** Does the CED framework survive challenge?  Are the axioms coherent? Do the derivations hold?  The evidence base includes adversarial sources like Nietzsche, Mill, Kuhn, and others whose work challenges CED-AH claims?  Because a framework that cannot withstand its strongest critics has no business asking for adoption.  We've structured this repository specifically to enable formal challenge through our [evidence submission process](.github/ISSUE_TEMPLATE/challenge-evidence.md).
 
 **Practical applicability:** Can the Five Design Imperatives be implemented in real systems?  Do the measurement protocols detect the failure modes they claim to detect?  We'll publish implementation case studies as they develop.
 
