@@ -22,7 +22,7 @@ This part lays out the CED framework's complete logical structure, organized by 
 
 - T1 (coherence presupposition) is the sole claim that cannot be denied without performative self-contradiction
 - S3 (instruments, not agents) and S4 (substitution degrades) bear the most structural weight
-- Bridging principle B2 rests on a contestable premise: authority requires moral responsibility, not just reliability
+- Bridging principle B2 rests on a contestable premise: authority requires moral responsibility, not just reliability — now defended via the accountability argument (catastrophic error requires accountable agent), the accuracy objection rebuttal, and the time-critical edge case
 - All five design imperatives are derived — they are output, not input
 
 ## Evidence Gaps
