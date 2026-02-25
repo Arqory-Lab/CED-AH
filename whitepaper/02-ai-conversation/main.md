@@ -2,7 +2,7 @@
 
 [← Part 1](../01-two-futures/main.md) | [Back to Index](../00-overview/main.md) | [Next: Part 3 →](../03-coherence-foundation/main.md)
 
-**What this part does:** Diagnoses why the current AI safety/alignment/ethics discourse cannot answer the fundamental question of which future should we build and identifies the four structural problems that prevent it.
+**What this part does:** Diagnoses why the current AI safety/alignment/ethics discourse cannot answer the fundamental question of which future should we build and identifies the five structural problems that prevent it.
 
 **What you need first:** [Part 1](../01-two-futures/main.md) establishes what's at stake.  This part explains why existing frameworks can't resolve it.
 
@@ -24,7 +24,7 @@ All three frameworks share one assumption: **they treat AI as a potential agent.
 
 This assumption is rarely examined because it's embedded in the language itself.  "Artificial intelligence" implies a mind.  And the entire research agenda follows from that implication.
 
-## The Four Structural Problems
+## The Five Structural Problems
 
 | Problem | What happens | Consequence |
 |---------|-------------|-------------|
@@ -32,6 +32,7 @@ This assumption is rarely examined because it's embedded in the language itself.
 | **Agent framing** | AI treated as potential adversary | Design biased toward containment, not amplification |
 | **Substitution assumption** | AI framed as replacement for human capability | Dependency creation treated as progress |
 | **Missing criterion** | "Beneficial," "safe," "aligned" used without definition | Cannot evaluate whether anything is working |
+| **Accountability gap** | No requirement that consequential actions trace to responsible moral agents | Empowering technologies recaptured for centralized control |
 
 **No first principle.**  The arguments that powerful AI poses existential risk, benefits outweigh risks and risks are design dependent are positions that cannot be adjudicated because there is no shared criterion for evaluation.  Without a shared first principle, the loudest voice or the deepest pocket will win, not the most coherent argument.
 
@@ -40,6 +41,8 @@ This assumption is rarely examined because it's embedded in the language itself.
 **Substitution assumption.** The default trajectory is AI replacing human activity.  Driving cars, writing documents and making diagnoses can be off loaded.  This assumption seems natural given the language of "artificial intelligence" suggests an alternative to human intelligence and is reinforced by economic incentives.  But substitution is a design choice, not a technological necessity.  We could measure success by capability enhanced rather than tasks automated.  The discourse doesn't consider this because it hasn't asked what the human machine relationship should be.
 
 **Missing criterion.** "Beneficial AI" is beneficial to whom?  Measured how?  Over what time horizon?  "Safe AI" is safe from what?  How safe is safe enough?  "Aligned AI" is aligned with which humans' values?  These terms are used constantly and defined almost never.  Without rigorous definitions, we cannot evaluate progress, compare alternatives, or determine what is working.
+
+**Accountability gap.**  Every major information technology has followed the same arc: decentralization of capability, followed by recapture through centralization of control.  The mechanism of recapture is always the same — accountability is severed from action.  Social media is the completed case: platforms exercised editorial judgment through algorithmic curation while claiming immunity from editorial responsibility; automated accounts participated in public discourse without identity requirements; the result was centralized control of information flow masquerading as decentralized empowerment.  AI systems are now replicating this pattern at higher stakes.  "The algorithm decided" is the new "the platform isn't a publisher" — the same structural evasion of accountability, applied to consequential decisions in medicine, law, finance, and education.  The current discourse has no framework for preventing this recapture because it has not identified accountability as a structural requirement.  This framework does — see [Part 8](../08-implications-action/main.md) for the governance principle that addresses it.
 
 ## The Questions Not Being Asked
 
@@ -57,7 +60,7 @@ The discourse debates derivative issues while leaving foundations unexamined.  F
 
 This analysis characterizes the AI discourse broadly.  Individual researchers and organizations have more nuanced positions than the three frameworks described here.  The claim that "no first principle" exists could be challenged by pointing to specific research programs that do ground their work in explicit values.  The agent framing critique is strongest for existential risk oriented discourse and weaker for tool oriented  AI research that already treats systems as instruments.
 
-**How to contribute:** A detailed survey of existing AI ethics frameworks, mapped to each of the four problems they address (or fails to address), would test whether the assessment is accurate.  Identifying frameworks that do establish first principles would either challenge the claim or reveal why those frameworks haven't achieved broad adoption.
+**How to contribute:** A detailed survey of existing AI ethics frameworks, mapped to each of the five problems they address (or fails to address), would test whether the assessment is accurate.  Identifying frameworks that do establish first principles would either challenge the claim or reveal why those frameworks haven't achieved broad adoption.
 
 **For deeper context:** The first principle this framework proposes, coherence, is developed in [Part 3: The Foundation](../03-coherence-foundation/main.md). The ontological question about computation is addressed in [Part 4: From AI to Amplified Humanity](../04-amplified-humanity/main.md).
 
