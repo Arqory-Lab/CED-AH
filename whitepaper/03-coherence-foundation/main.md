@@ -52,6 +52,18 @@ This definition has two components:
 
 A system can be internally consistent without serving flourishing and be merely consistent but not coherent.  A system aligned with flourishing but self contradictory is well intentioned but not coherent.  Full coherence requires both.
 
+### Why Flourishing Alignment and Not Something Else
+
+The step from "coherence is the criterion" to "coherence means flourishing alignment for human-affecting systems" is the most important philosophical commitment in this framework.  It deserves direct defense.  Why not operationalize coherence differently?
+
+**Preference satisfaction** is the standard utilitarian answer: a coherent system is one that satisfies people's preferences.  But preferences can be manipulated, adaptive, or self-destructive — a phenomenon well documented in the behavioral economics literature from Kahneman and Tversky onward.  A system that satisfies preferences while degrading the conditions for *good* preference formation (critical thinking, access to accurate information, autonomy in choice) fails the coherence criterion.  It optimizes the metric while undermining the capacity that makes the metric meaningful.  This is precisely the failure mode of algorithmically optimized social media: preferences are satisfied in the moment while the epistemic conditions for sound preference formation erode.
+
+**Welfare maximization** decouples well-being from agency.  But welfare without agency is Reality A — the "comfortable extinction" that [Part 1](../01-two-futures/main.md) described.  Mill himself, in distinguishing higher and lower pleasures in *Utilitarianism* (1863), acknowledged that mere hedonic satisfaction is insufficient — "it is better to be Socrates dissatisfied than a fool satisfied."  A welfare-maximizing system that atrophies the human capacity for judgment, creation, and self-directed growth produces welfare at the cost of the conditions that give welfare its meaning.  The framework has already shown this to be incoherent.
+
+**Pure capability preservation** treats capabilities as the end rather than the means.  But capabilities without meaning, direction, or agency are instrumental — they enable action without ensuring that action serves coherence.  A system could preserve every measurable human capability while draining the motivation, understanding, and sense of purpose that make those capabilities worth having.
+
+S1's commitment to flourishing alignment is doing *ethical* work, not merely logical work.  It is a defended philosophical position — the claim that for systems whose primary effects fall on human lives, the measure of coherence must include the conditions under which humans can generate understanding, exercise agency, create meaning, and grow in capability.  This is not a self-evident truth.  It is the position this framework defends, and a reader who accepts coherence as the criterion but proposes a different operationalization is engaging in precisely the kind of philosophical challenge the framework invites.
+
 ## The Physical Grounding
 
 This isn't only a logical argument.  Coherence is the fundamental project of living systems.
@@ -69,7 +81,7 @@ This creates a hierarchy:
 
 Computational intelligence is the newest entry.  It could serve the coherence project by amplifying human capacity to generate understanding, create meaning, and maintain structures.  Or it could undermine it by substituting machine maintained order for human generated order, leaving the human level of the hierarchy to atrophy.
 
-The physical grounding converges with the logical argument from independent directions.  One philosophical, one physical, both arriving at coherence as the fundamental criterion.
+The physical grounding offers an illustrative parallel to the logical argument.  We note that "coherence" in the thermodynamic sense (local order maintenance) and "coherence" in the philosophical sense (logical consistency + flourishing alignment) are related by analogy rather than entailment.  The physical grounding illustrates rather than proves the philosophical claim — the transcendental argument for coherence stands on its own logical merits.  But the parallel is suggestive: what philosophy identifies as the inescapable criterion, physics reveals as the fundamental project of life itself.
 
 ## The Ethical Criterion
 
