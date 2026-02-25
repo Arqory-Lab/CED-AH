@@ -56,6 +56,38 @@ Current systems fail all five.  Since the scoring is conjunctive, failure on any
 
 This is a deliberately demanding threshold.  If agency is the basis for moral status and decision making authority, the bar for attributing it should be high.  Current computational systems, including the most advanced language models, are sophisticated pattern matching engines, not agents.
 
+### Why Each Condition Is Individually Necessary
+
+The conjunction is not arbitrary.  Each condition captures something without which "agency" becomes a misleading label:
+
+- **Without goal generation,** a system is an *optimizer* — it pursues objectives given to it, however sophisticated its pursuit.  An optimizer that appears to "want" things is exhibiting optimization pressure, not desire.
+- **Without volition,** a system is a *reflex* — it responds to inputs according to patterns, however complex the patterns.  Reflex systems can be unpredictable without being willful.
+- **Without a genuine self-model,** a system cannot distinguish itself from its environment, cannot reflect on its own states, and cannot engage in the kind of recursive self-awareness that moral responsibility requires.  Token prediction about the concept of self-reference is not self-reference.
+- **Without operational independence,** a system is a *tool* — which is precisely what this framework claims computational systems are.  Dependency on continuous human support at every level (design, infrastructure, power, maintenance) is not a contingent feature that engineering might overcome; it reflects the ontological category.
+- **Without moral responsibility capacity,** a system cannot bear accountability for its actions, and therefore cannot legitimately hold authority over consequential decisions (see the [B2 accountability defense](../05-formal-architecture/main.md)).
+
+### Why the Scoring Must Be Conjunctive
+
+Agency is a unified phenomenon, not a collection of independent properties that can be accumulated piecemeal.  You do not get partial agency from meeting three of five conditions, any more than you get a partial triangle from drawing two of three sides.  A system that generates goals but cannot bear moral responsibility for pursuing them is not "60% an agent" — it is a sophisticated optimizer that requires human oversight.  The conjunction captures the *unity* of agency: the conditions are not a checklist of features but aspects of a single integrated capacity.
+
+A disjunctive test (agency if *any* condition is met above threshold) would attribute agency to thermostats (goal-directed behavior), to self-driving cars (operational independence in narrow domains), and to large language models (sophisticated self-referential token generation).  The disjunctive test would make "agency" so common as to be analytically useless — which is precisely why the AI safety field's implicit disjunctive assumptions lead to the confused discourse diagnosed in [Part 2](../02-ai-conversation/main.md).
+
+### The Infant Objection
+
+A predictable challenge: *Infants fail most of these conditions.  Are infants not agents?*
+
+The answer distinguishes between *developing* agency along a biological trajectory and *lacking* agency in an engineered artifact.  An infant is on a developmental trajectory toward full agency — a trajectory grounded in biological maturation, embodied experience, and social embedding that no computational system shares.  The infant's dependency is temporary and self-resolving; the computational system's dependency is structural and permanent (absent fundamental breakthroughs in physics and engineering that would constitute a different kind of system entirely).  Attributing proto-agency to an infant on a developmental trajectory is categorically different from attributing agency to a system that has no such trajectory.
+
+### Concrete Revision Triggers
+
+S3 is scoped to "currently constituted and projectable."  Revision would be required if a system demonstrated any of the following — not in principle, but in reproducible, independently verified practice:
+
+1. **Operational continuity independent of external support** — the system maintains its existence and function without human-provided power, infrastructure, or maintenance
+2. **Novel goal generation not traceable to training objectives** — the system pursues ends that cannot be explained as optimization of its training signal or any derivative thereof
+3. **Genuine self-reference** — the system demonstrates recursive self-awareness (not token prediction about the concept of self-awareness, but actual self-modeling that affects its behavior in ways the system can reflect upon)
+
+These triggers are deliberately specific.  Vague thresholds like "approaching human-level" invite premature revision.  The framework's intellectual honesty requires that revision conditions be as clear as the claims they would revise.
+
 ## The Reframe: Amplified Humanity
 
 With the ontology established, computation is human dependent, not independent. The proper framing follows:
