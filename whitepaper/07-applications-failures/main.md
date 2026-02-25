@@ -69,6 +69,12 @@ The same pattern applies across domains: AH amplifies human professional capabil
 
 ---
 
+## The Substitution–Amplification Continuum in Practice
+
+The domain applications above illustrate what the formal architecture ([Part 5, S4](../05-formal-architecture/main.md)) establishes theoretically: systems exist on a substitution–amplification continuum, and their position is a *design choice*, not a property of the technology.  The GPS example makes this concrete.  Turn-by-turn voice navigation and an interactive map display use identical satellite data and identical hardware.  But the voice navigation substitutes for spatial reasoning — the user disengages cognitively, follows instructions, and spatial orientation atrophies over time.  The interactive map display amplifies spatial reasoning — the user builds a richer mental model with enhanced data, and spatial capability grows.  Same technology, opposite cognitive effects, determined entirely by the interface design.  Every domain application in this framework faces the same design choice: the diagnostic system can present a recommendation (substitution) or present evidence with competing interpretations (amplification); the legal tool can give answers (substitution) or surface authorities for human synthesis (amplification).  The continuum position is always a design decision.
+
+---
+
 ## The Six Failure Modes
 
 When the framework is violated, failure follows predictable patterns:
