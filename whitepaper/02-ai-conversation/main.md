@@ -58,7 +58,9 @@ The discourse debates derivative issues while leaving foundations unexamined.  F
 
 ## Where This Part Is Weakest
 
-This analysis characterizes the AI discourse broadly.  Individual researchers and organizations have more nuanced positions than the three frameworks described here.  The claim that "no first principle" exists could be challenged by pointing to specific research programs that do ground their work in explicit values.  The agent framing critique is strongest for existential risk oriented discourse and weaker for tool oriented  AI research that already treats systems as instruments.
+This analysis characterizes the AI discourse broadly.  Individual researchers and organizations have more nuanced positions than the three frameworks described here.  The claim that "no first principle" exists could be challenged by pointing to specific research programs that do ground their work in explicit values.  The agent framing critique is strongest for existential risk oriented discourse and weaker for tool oriented AI research that already treats systems as instruments.
+
+Some existing research programs — including Drexler's Comprehensive AI Services (CAIS) framework, elements of the tool AI literature, and certain strands of AI ethics focused on power and accountability — already challenge the agent assumption.  CED-AH shares their starting intuition that the agent framing is misleading, but differs in providing a complete philosophical derivation from first principles through formal architecture to practical design imperatives.  The contribution is not the intuition (which others share) but the systematic grounding (which the framework claims is missing from existing approaches).
 
 **How to contribute:** A detailed survey of existing AI ethics frameworks, mapped to each of the five problems they address (or fails to address), would test whether the assessment is accurate.  Identifying frameworks that do establish first principles would either challenge the claim or reveal why those frameworks haven't achieved broad adoption.
 
