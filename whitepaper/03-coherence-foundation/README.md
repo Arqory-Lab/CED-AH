@@ -4,6 +4,8 @@
 
 This part derives coherence as the unavoidable criterion for evaluating any system involving human decision-making. Through a first-principles argument, it shows that any attempt to deny coherence as the foundational criterion necessarily invokes coherence in the denial — making coherence the one criterion that cannot be coherently rejected.
 
+The chapter then defends the framework's most load-bearing philosophical commitment: that for human-affecting systems, coherence means alignment with human flourishing conditions. Three alternative operationalizations — preference satisfaction, welfare maximization, and pure capability preservation — are examined and shown to fail the coherence criterion on their own terms. The physical grounding in thermodynamics is presented as an illustrative parallel rather than a convergent proof.
+
 ## Contents
 
 - [**Chapter Text**](main.md) — The full chapter
