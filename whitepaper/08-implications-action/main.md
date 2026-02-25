@@ -46,7 +46,7 @@ These priorities follow from commitment S3. If S3 were revised, if systems appro
 
 ### Governance Principles
 
-Six principles follow from the framework:
+Seven principles follow from the framework:
 
 1. **Human authority is non-transferable.**  No system may make decisions on behalf of humans.
 2. **Coherence is the evaluation standard.**  Does this system increase human coherence?
@@ -54,6 +54,9 @@ Six principles follow from the framework:
 4. **Governance must be adaptive.**  Built in review cycles, sunset clauses, revision triggers.
 5. **Governance must be universal.**  Same principles across domains and jurisdictions.
 6. **Distributional coherence required (from S6).**  Deployment must not amplify some while diminishing others below threshold.
+7. **Accountability is non-severable (from B2).**  Every consequential action by or through an AH system must be traceable to a responsible moral agent.  No entity — computational, corporate, or anonymous — may be licensed to act consequentially without accountability.  This extends the framework's governance from system design to ecosystem design.
+
+Every major information technology has followed the same arc: initial decentralization of capability, followed by recapture through centralization of control.  The mechanism of recapture is always the same — accountability is decoupled from action.  Principle 7 exists to prevent this decoupling.  When no one bears accountability for a consequential decision, the decision effectively transfers authority to whatever entity controls the system, regardless of what the formal governance structure says.  Accountability is not a reporting requirement; it is the structural condition that prevents empowering technologies from being recaptured for centralized control.
 
 **What governance should NOT do:** Regulate toward AI autonomy.  Prepare for AI rights.  Regulate "AI decision making" (which should not exist).  Plan for "AI partnership" (which implies two agents).
 
