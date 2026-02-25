@@ -65,11 +65,17 @@ Computational systems, as currently constituted and as projectable from known ph
 
 *Honest acknowledgment:* Scoped to "currently constituted and projectable." If future systems approached the agency threshold, S3 would require revision.
 
+*For the full defense of the conjunction test* — why each condition is individually necessary, why the scoring must be conjunctive, the infant objection, and concrete revision triggers — see [Part 4: The Agency Test](../04-amplified-humanity/main.md#the-agency-test).
+
 ### S4 - Substitution Degrades; Amplification Grows
 
 When a system performs a task that a human would otherwise perform, and the human doesn't engage the cognitive processes involved, the human's capacity for that process tends to diminish.  Conversely, when a system extends a human's capacity while requiring active cognitive engagement, the human's capacity tends to grow.
 
+More precisely, systems can be characterized by their position on a **substitution–amplification continuum**, determined by the degree of active human cognitive engagement they require.  The binary framing (substitution vs. amplification) captures the endpoints; real systems exist along the spectrum.  The same underlying technology can occupy different positions depending on design choices: turn-by-turn voice navigation substitutes for spatial reasoning (the user disengages cognitively), while an interactive map display amplifies spatial reasoning (the user builds a mental model with enhanced data).  The continuum position is a *design choice*, not a property of the technology itself.
+
 *Defense:* Supported by automation research, pilot skill atrophy, GPS induced spatial reasoning decline, autocomplete induced composition difficulty.  Extends these findings as a general principle.
+
+*The historical precedent problem:*  Writing, printing, and calculators all caused some skill atrophy yet are considered net positive.  The framework's answer: those technologies shifted the *threshold* of necessary capability rather than eliminating it.  The scribe's handwriting skill was replaced by broader literacy; the calculator freed arithmetic capacity for problem-formulation.  The question is whether capability that develops *with* the technology is richer than capability that atrophies *without* it.  When it is, the technology amplifies even if specific sub-skills decline.  When nothing replaces what's lost, it substitutes.
 
 *Empirical revisability:* If future evidence showed cognitive atrophy doesn't occur under substitution, or can be fully mitigated, S4 requires revision.
 
