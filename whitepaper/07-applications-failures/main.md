@@ -53,7 +53,7 @@ The same pattern applies across domains: AH amplifies human professional capabil
 | 12–16 | AH introduced gradually with strong human oversight |
 | 16+ | AH as amplifier with ongoing capability tracking |
 
-These recommendations derive from S5 (irreversibility gradient): capability degradation in developing minds is more severe and harder to reverse.
+*Epistemic status:* These recommendations are derived from general developmental principles (S5 applied to developing minds) and should be treated as provisional hypotheses, not evidence-based guidelines.  Empirical questions remain open per age band: Does AH exposure before age 8 measurably impair foundational skill acquisition?  At what age does guided AH use begin to amplify rather than substitute for developing capabilities?  What interaction designs preserve learning while introducing computational tools?  Until domain-specific research addresses these questions, these age boundaries are principled starting points warranting investigation, not validated thresholds.
 
 **S6 constraint:** An adaptive learning system that boosts student scores while reducing teachers to AH monitors violates S6 by diminishing teacher agency and capability.
 
