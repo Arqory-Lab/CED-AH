@@ -25,7 +25,7 @@ The final part of the whitepaper. Draws out what the framework means for discour
 |---|---|---|
 | **Developers** | Build for Five Imperatives | Authority gates, capability growth, no autonomous decision systems |
 | **Deployers** | Deploy with training + monitoring | Baseline capability, continuous tracking, dependency intervention |
-| **Policymakers** | Regulate for coherence, not autonomy | Authority retention verification, tiered regulation, sunset clauses |
+| **Policymakers** | Regulate for coherence, not autonomy | Authority retention verification, tiered regulation, sunset clauses, accountability traceability |
 | **Users** | Amplification, not replacement | Self-check questions: Can I do this without AH? Am I more capable? |
 
 ## Conditions for Framework Revision
@@ -41,7 +41,7 @@ The final part of the whitepaper. Draws out what the framework means for discour
 
 1. **S3** — Computational ontology (instrument framing collapses)
 2. **S4** — Substitution dynamics (urgency argument weakens)
-3. **B2** — Authority requires moral responsibility
+3. **B2** — Authority requires moral responsibility — now defended via accountability argument, accuracy objection rebuttal, and time-critical edge case
 4. **S1** — Flourishing operationalization
 5. **Implementation gap** — Principle-to-engineering translation unfinished
 

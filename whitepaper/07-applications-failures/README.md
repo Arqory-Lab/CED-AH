@@ -47,7 +47,7 @@ A seventh mode — **systemic incoherence** (population-level coherence loss) �
 
 - Validated measurement instruments for any of the five metric categories at scale
 - Domain-specific failure mode analyses with real-world cases (not hypotheticals)
-- Empirical studies of AH effects on developing minds (education domain)
+- Empirical studies of AH effects on developing minds (education domain) — age-appropriate introduction table now flagged as provisional hypotheses pending empirical confirmation
 - Analysis of systemic incoherence as a distinct research program
 - Cross-domain comparison of failure mode prevalence and severity
 
