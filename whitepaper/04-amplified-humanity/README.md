@@ -14,6 +14,10 @@ This part establishes what computational systems actually are — ontologically 
 - The phrase "artificial intelligence" is not neutral — it embeds replacement and agency assumptions
 - Computation exists entirely in the human-maintained category, not the self-sustaining category
 - Agency requires all five conditions met (conjunctive): self-sustaining existence, genuine self-model, goal generation, volition, continuous existence
+- Each condition is individually necessary: without it, the system is an optimizer, reflex, tool, or unaccountable entity — not an agent
+- The conjunctive scoring captures the *unity* of agency; a disjunctive test would attribute agency to thermostats and self-driving cars
+- The infant objection is addressed: biological developmental trajectory ≠ engineered artifact dependency
+- Concrete revision triggers specified: operational continuity, novel goal generation, genuine self-reference
 - "Amplified Humanity" centers the human as subject, not the machine
 - Historical precedent: writing, printing press, calculator all amplified without replacing
 

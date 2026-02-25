@@ -2,7 +2,7 @@
 
 ## Summary
 
-Current AI ethics, safety, and alignment discourse suffers from definitional incoherence, framework proliferation without integration, and a systematic failure to identify the foundational criterion by which any framework should be evaluated. This part maps the confusion, identifies its structural causes, and shows why a first-principles approach is necessary.
+Current AI ethics, safety, and alignment discourse suffers from definitional incoherence, framework proliferation without integration, and a systematic failure to identify the foundational criterion by which any framework should be evaluated. This part maps the confusion, identifies its structural causes — now expanded to five problems including the **accountability gap** (Session 1) — and shows why a first-principles approach is necessary. The discourse characterization now acknowledges existing tool-oriented work (Drexler's CAIS, tool AI literature) while distinguishing CED-AH's contribution: not the shared intuition that agent framing is misleading, but the systematic philosophical derivation from first principles.
 
 ## Contents
 

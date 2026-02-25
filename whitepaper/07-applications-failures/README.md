@@ -31,6 +31,10 @@ This part shows the framework in practice. Four domain applications (healthcare,
 
 A seventh mode — **systemic incoherence** (population-level coherence loss) — is acknowledged as under-developed.
 
+## The Substitution–Amplification Continuum in Practice
+
+New section demonstrating how the same technology (GPS) occupies different positions on the substitution–amplification continuum based solely on interface design choices. Turn-by-turn voice navigation substitutes for spatial reasoning; interactive map display amplifies it. Same satellite data, opposite cognitive effects. Every domain application faces this design choice: present a recommendation (substitution) or present evidence for human synthesis (amplification). Cross-references [Part 5, S4](../05-formal-architecture/main.md).
+
 ## Measurement Framework
 
 | Metric | Target | Method |

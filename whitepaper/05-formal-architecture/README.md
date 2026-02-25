@@ -21,7 +21,8 @@ This part lays out the CED framework's complete logical structure, organized by 
 ## Key Claims
 
 - T1 (coherence presupposition) is the sole claim that cannot be denied without performative self-contradiction
-- S3 (instruments, not agents) and S4 (substitution degrades) bear the most structural weight
+- S3 (instruments, not agents) and S4 (substitution degrades) bear the most structural weight; S3 now cross-references the full agency conjunction defense in [Part 4](../04-amplified-humanity/main.md#the-agency-test)
+- S4 reframed as a **substitution–amplification continuum**: position determined by degree of active human cognitive engagement, with continuum position as a *design choice* not a technology property; historical precedent problem (writing/printing/calculator) addressed via threshold-shift argument
 - Bridging principle B2 rests on a contestable premise: authority requires moral responsibility, not just reliability — now defended via the accountability argument (catastrophic error requires accountable agent), the accuracy objection rebuttal, and the time-critical edge case
 - All five design imperatives are derived — they are output, not input
 
