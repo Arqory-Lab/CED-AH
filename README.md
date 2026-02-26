@@ -6,7 +6,7 @@
 
 **A philosophical framework and safety standard for human-centered computational systems.**
 
-> *Computational systems should amplify human capability, not replace human agency. The criterion is coherence. The goal is flourishing. The method is amplification. The authority remains with us.*
+> *Computational systems should amplify human capability, not replace human agency.  The criterion is coherence.  The goal is flourishing.  The method is amplification.  The authority remains with us — and so does the accountability.*
 
 [![License: Apache 2.0](https://img.shields.io/badge/Code-Apache_2.0-3B82F6?style=flat-square)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Docs-CC_BY_4.0-3B82F6?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
@@ -58,17 +58,28 @@ This is not a position paper.  It is an **evidence-backed, modular, community-ch
 
 4. **Human decision-making authority is non-negotiable.**  Entities without agency cannot legitimately hold authority.  Transferring decisions to computational systems is abdication, not delegation.
 
+5. **Accountability follows the deployment decision.**  No computational system may operate consequentially without a designated accountable entity — a human person or legally recognized organization — who answers for the system's effects.  Instruments don't bear accountability; the entities that deploy them do.  This is not a governance recommendation.  It is the second of the framework's two foundational commitments, derived from the same coherence criterion that produces the instrument classification.
+
+### The Two Commitments
+
+The framework derives two foundational safety commitments from a single first principle:
+
+1. **The Instrument Thesis:** Computational systems are instruments for human flourishing — artifacts that amplify human capability while preserving human agency.
+2. **The Accountability Principle:** The entity that deploys a computational system bears accountability for its effects — the same way an organization bears accountability for the actions of its employees.
+
+These commitments interlock: the Instrument Thesis defines what these systems are and what design constraints follow.  The Accountability Principle defines who answers when those constraints are violated.  Together, they produce the Five Design Imperatives that specify what safe systems look like and who answers when they fail.
+
 ### The Five Design Imperatives
 
 Every AH-compliant system must implement:
 
-| Imperative | Requirement | Failure Signal |
-|---|---|---|
-| **Authority Retention** | Humans make all decisions; AH supports but never decides | "The AI recommended it" as sole justification |
-| **Capability Growth** | Users become more capable over time, not dependent | Declining performance when system unavailable |
-| **Transparency** | Reasoning is explicable; limitations are disclosed | Users cannot explain basis of system outputs |
-| **Calibrated Honesty** | Stated confidence matches actual accuracy | System never says "I don't know" |
-| **Reversibility** | Every action can be undone; humans can always override | Irreversible actions taken without explicit confirmation |
+| Imperative | Requirement | Failure Signal | Accountable Party |
+|---|---|---|---|
+| **Authority Retention** | Humans make all decisions; AH supports but never decides | "The AI recommended it" as sole justification | Deploying organization |
+| **Capability Growth** | Users become more capable over time, not dependent | Declining performance when system unavailable | Deploying organization |
+| **Transparency** | Reasoning is explicable; limitations are disclosed | Users cannot explain basis of system outputs | Deploying organization + model provider |
+| **Calibrated Honesty** | Stated confidence matches actual accuracy | System never says "I don't know" | Model provider + deploying organization |
+| **Reversibility** | Every action can be undone; humans can always override | Irreversible actions taken without explicit confirmation | Deploying organization |
 
 ### The Measurement Framework
 
