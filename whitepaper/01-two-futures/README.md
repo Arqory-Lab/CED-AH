@@ -2,7 +2,7 @@
 
 ## Summary
 
-Every AI deployment embodies a choice between two development paradigms: **substitution** (replacing human judgment) or **amplification** (extending human capability while preserving human agency). This part establishes the fork, demonstrates that the choice is already being made by default, and shows why it matters for every domain.
+Every AI deployment embodies a choice between two development paradigms: **substitution** (replacing human judgment) or **amplification** (extending human capability while preserving human agency). This part establishes the fork, demonstrates that the choice is already being made by default, and shows why it matters for every domain. It now introduces the framework's **Two Commitments** — the **Instrument Thesis** and the **Accountability Principle** — as the philosophical foundation the current conversation lacks.
 
 ## Contents
 
