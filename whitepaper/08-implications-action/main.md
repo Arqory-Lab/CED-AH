@@ -8,6 +8,22 @@
 
 ---
 
+## The Two Commitments
+
+The entire CED-AH framework rests on two foundational commitments, both derived from the coherence criterion established in [Part 3](../03-coherence-foundation/main.md):
+
+**The Instrument Thesis.**  Computational systems are instruments for human flourishing — artifacts that amplify human capability while preserving human agency.  This is not a design preference; it is a derivable conclusion from the coherence axioms (Parts 3–5).  The Instrument Thesis produces the five design imperatives ([Part 6](../06-design-principles/main.md)) and the measurement framework ([Part 7](../07-applications-failures/main.md)).
+
+**The Accountability Principle.**  Every entity that deploys a computational system — whether an individual or a legally recognized organization — bears accountability for the effects that system produces.  Instruments do not bear accountability; the entities that deploy them do.  This is not a governance recommendation; it is a coherence requirement.  Action requires an actor.  Consequence requires a bearer.  The deployment act is where moral and legal responsibility lives.
+
+These commitments interlock structurally.  The Instrument Thesis without accountability is a classification without enforcement — philosophically sound but practically toothless.  An organization could accept that its systems are instruments while disclaiming responsibility for what those instruments do.  The Accountability Principle without the Instrument Thesis is enforcement without a standard — governance machinery with nothing to measure against.  An organization could accept accountability in principle while having no coherent criterion for what "safe" or "responsible" deployment means.
+
+Together, they form the load-bearing walls of the framework.  The Instrument Thesis defines *what* computational systems are and what design constraints follow.  The Accountability Principle defines *who* answers when those constraints are violated.  The five design imperatives ([Part 6](../06-design-principles/main.md)) are the operational expression of both: they specify the standard (from the Instrument Thesis) and the accountability surface (from the Accountability Principle).
+
+This pairing is the framework's answer to the deepest structural problem in current AI governance: safety standards without accountability mechanisms are aspirational; accountability mechanisms without safety standards are arbitrary.
+
+---
+
 ## What This Framework Changes
 
 ### The Discourse Transformation
