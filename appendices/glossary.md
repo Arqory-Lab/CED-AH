@@ -10,8 +10,11 @@ Contributors: please link to glossary entries on first use of a term within each
 
 ## A
 
+### Accountability Principle
+**[CED-AH]** The second of the framework's Two Commitments.  States that every entity deploying a computational system — whether an individual person or a legally recognized organization — bears accountability for the system's effects on the humans it touches.  The five Design Imperatives define the standard against which this accountability is assessed.  The principle is derived from the coherence first principle: if computational systems are instruments (Commitment 1), then accountability for their effects cannot rest with the instrument but must rest with the entity that deploys it.  The accountability principle is not a legal claim about liability in any jurisdiction; it is a philosophical commitment about the necessary relationship between consequential action and moral responsibility.  See [Part 8](../whitepaper/08-implications-action/main.md).
+
 ### Agency
-The capacity to make decisions, take actions, and bear responsibility for their consequences. In the CED-AH framework, agency is a property of entities that possess subjective experience, intentionality, and moral standing. **[CED-AH]** distinguishes agency from behavioral complexity — a system can exhibit sophisticated behavior without possessing agency. See [Part 3](../whitepaper/03-coherence-foundation/main.md), [Part 4](../whitepaper/04-amplified-humanity/main.md).
+The capacity to make decisions, take actions, and bear responsibility for their consequences. In the CED-AH framework, agency is a property of entities that possess subjective experience, intentionality, and moral standing. **[CED-AH]** distinguishes agency from behavioral complexity — a system can exhibit sophisticated behavior without possessing agency.  Because computational systems do not possess agency in this sense, the framework's Accountability Principle assigns accountability for their effects to the deploying entity — the human person or organization that puts the system into consequential operation.  See also: [Accountability Principle](#accountability-principle), [Deploying Entity](#deploying-entity).  See [Part 3](../whitepaper/03-coherence-foundation/main.md), [Part 4](../whitepaper/04-amplified-humanity/main.md).
 
 ### AH (Amplified Humanity™)
 **[CED-AH]** The applied component of the CED-AH framework. AH translates the philosophical foundations of Contextual Epistemic Dynamics into concrete design imperatives, failure mode analysis, and measurement protocols for computational systems. The core commitment: computational systems should amplify human capability rather than replace human agency. See [Part 4](../whitepaper/04-amplified-humanity/main.md), [Part 6](../whitepaper/06-design-principles/main.md).
@@ -54,10 +57,16 @@ The capacity to make decisions, take actions, and bear responsibility for their 
 ### Computational System
 The CED-AH framework's preferred term for what is commonly called "AI," "artificial intelligence," or "intelligent system." The term is chosen deliberately: it describes what these systems are (computational) without attributing properties they may not possess (intelligence, understanding, agency). See [Part 2](../whitepaper/02-ai-conversation/main.md), [Part 4](../whitepaper/04-amplified-humanity/main.md).
 
+### Compound Failure
+**[CED-AH]** The failure mode in which both of the framework's Two Commitments are violated simultaneously: a system that escapes the instrument classification (operating as an autonomous agent rather than an instrument for human flourishing) deployed by an entity that disclaims accountability for the system's behavior.  The compound failure is the configuration against which the framework provides no protection, because both its foundational commitments have failed.  The framework identifies the compound failure as the most dangerous real-world scenario and the primary justification for the structural interlock between the two commitments.  Social media's trajectory is analyzed as a historical compound failure.  See [Part 7](../whitepaper/07-applications-failures/main.md), [Part 8](../whitepaper/08-implications-action/main.md).
+
 ## D
 
 ### Dependency
 **[CED-AH]** A state in which a human's ability to function is diminished by the absence of a computational system. Distinguished from productive tool use by the direction of capability: tool use increases capability over time; dependency erodes it. Dependency is a failure mode, not a feature. See [Part 7](../whitepaper/07-applications-failures/main.md).
+
+### Deploying Entity
+**[CED-AH]** The human person or legally recognized organization that makes the decision to put a computational system into consequential operation.  The deploying entity is the accountability target in the framework's Accountability Principle: it bears accountability for the system's effects, assessed against the five Design Imperatives.  In simple deployments, the deploying entity is obvious (the company that releases the product).  In complex deployment chains (model developer → integrator → deployer → operator → end user), identifying the deploying entity requires tracing the deployment decision — the choice to configure and release the system for consequential use.  The framework treats complex deployment chains as an open research problem.  See [Part 8](../whitepaper/08-implications-action/main.md).
 
 ### Design Imperatives
 **[CED-AH]** The five non-negotiable requirements for AH-compliant systems: Authority Retention, Capability Growth, Transparency, Calibrated Honesty, and Reversibility. Derived from the CED axiom structure, not selected ad hoc. Each imperative has defined success criteria and failure signals. See [Part 6](../whitepaper/06-design-principles/main.md).
@@ -81,7 +90,13 @@ Human flourishing in the CED-AH framework refers to the sustained development of
 ## I
 
 ### Instrument
-**[CED-AH]** The ontological classification of computational systems in the CED-AH framework. Instruments are human-created, human-dependent, human-purposed tools. They require human-designed hardware, human-generated power, human-maintained infrastructure, and human-provided purpose. The framework argues that classifying computational systems as instruments is not a limitation but an accurate description with important design implications. Contrasted with agent. See [Part 4](../whitepaper/04-amplified-humanity/main.md).
+**[CED-AH]** The ontological classification of computational systems in the CED-AH framework. Instruments are human-created, human-dependent, human-purposed tools. They require human-designed hardware, human-generated power, human-maintained infrastructure, and human-provided purpose. The framework argues that classifying computational systems as instruments is not a limitation but an accurate description with important design implications.  This classification is formalized as the Instrument Thesis, the first of the framework's Two Commitments, and produces both the five Design Imperatives (what instruments must do) and the standard against which the Accountability Principle (the second commitment) assesses deploying entities.  Contrasted with agent. See [Part 4](../whitepaper/04-amplified-humanity/main.md).
+
+### Instrument Thesis
+**[CED-AH]** The first of the framework's Two Commitments, stated formally: computational systems are instruments for human flourishing.  The instrument thesis is derived from the coherence first principle and produces the five Design Imperatives and the Amplified Humanity measurement framework.  It classifies computational systems by what they ARE (human-created, human-dependent, human-purposed instruments) rather than by what they SEEM (intelligent, understanding, agentive).  The instrument thesis is distinct from the glossary entry for "Instrument" in that it names the COMMITMENT — the framework's foundational claim that this classification is correct and that design should follow from it.  See [Part 4](../whitepaper/04-amplified-humanity/main.md).
+
+### Interlock
+**[CED-AH]** The structural relationship between the framework's Two Commitments.  The framework claims that the instrument thesis and the accountability principle are structurally interlocking: each is necessary but insufficient without the other.  The instrument thesis without accountability is a design standard without enforcement (it specifies what to build but not who answers when it's built wrong).  The accountability principle without the instrument thesis is enforcement without a standard (it specifies that someone is responsible but not for what).  The interlock claim is the framework's most distinctive and — by its own self-critique — most vulnerable assertion.  See [Part 8](../whitepaper/08-implications-action/main.md).
 
 ## L
 
@@ -104,6 +119,9 @@ A condition that must be presupposed for a given activity to be possible. In the
 ### Transparency
 **[CED-AH]** The third of the five Design Imperatives. Requires that a system's reasoning process is explicable to its users and that its limitations are disclosed. The failure signal is when users cannot explain the basis of system outputs they rely on. Transparency is not the same as interpretability (a technical property of models) — it is a relational property between system and user. See [Part 6](../whitepaper/06-design-principles/main.md).
 
+### Two Commitments
+**[CED-AH]** The paired foundational claims of the CED-AH framework, both derived from the coherence first principle.  **Commitment 1 (The Instrument Thesis):** Computational systems are instruments for human flourishing, producing five Design Imperatives and a measurement framework.  **Commitment 2 (The Accountability Principle):** Every deploying entity bears accountability for its system's effects, assessed against those imperatives.  The Two Commitments are structurally interlocking (see [Interlock](#interlock)): together they constitute the framework's complete safety specification — what computational systems are, what they must do, how to measure their effects, and who answers when they fail.  See [Part 4](../whitepaper/04-amplified-humanity/main.md), [Part 6](../whitepaper/06-design-principles/main.md), [Part 8](../whitepaper/08-implications-action/main.md).
+
 ---
 
 ## Term Index by Part
@@ -112,6 +130,7 @@ For quick reference: which chapters introduce or primarily develop each term.
 
 | Term | Primary Part(s) |
 |---|---|
+| Accountability Principle | 8 |
 | Agency | 3, 4 |
 | AH (Amplified Humanity) | 4, 6 |
 | AH-Compliant | 6, 7 |
@@ -124,7 +143,9 @@ For quick reference: which chapters introduce or primarily develop each term.
 | CED (Contextual Epistemic Dynamics) | 3, 5 |
 | Coherence | 3 |
 | Coherence Dashboard | 7 |
+| Compound Failure | 7, 8 |
 | Computational System | 2, 4 |
+| Deploying Entity | 8 |
 | Dependency | 7 |
 | Design Imperatives | 6 |
 | Epistemic | 3 |
@@ -132,11 +153,14 @@ For quick reference: which chapters introduce or primarily develop each term.
 | Failure Mode | 7 |
 | Flourishing | 3, 4 |
 | Instrument | 4 |
+| Instrument Thesis | 4 |
+| Interlock | 8 |
 | Lazy Consensus | — (project governance) |
 | Replacement | 4 |
 | Reversibility | 6 |
 | Transcendental Precondition | 3 |
 | Transparency | 6 |
+| Two Commitments | 4, 6, 8 |
 
 ---
 
