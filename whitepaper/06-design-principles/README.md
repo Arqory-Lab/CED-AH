@@ -16,7 +16,7 @@ This part translates the formal architecture (Part 5) into practical design guid
 | **The Master Principle** | `max(H × AH) → ∞` subject to `Agency(Human) = preserved` |
 | **Five Imperatives in Practice** | Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility — each with build patterns and failure signals |
 | **Integration Architecture** | Three-layer model: Human (Authority) → Integration Layer → AH System (Instrument) |
-| **Obligation Hierarchy** | Level 1 (Foundational, non-negotiable) → Level 2 (Operational, required) → Level 3 (Situational, context-dependent) |
+| **Obligation Hierarchy** | Level 1 (Foundational, non-negotiable) → Level 2 (Operational, required) → Level 3 (Situational, context-dependent); now includes **Accountability Principle** specifying *who* answers when the hierarchy is violated |
 | **Where This Part Is Weakest** | Principle-to-implementation gap, click-fatigue risk, capability measurement methods |
 
 ## The Five Imperatives At A Glance
