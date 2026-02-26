@@ -6,6 +6,8 @@ This bibliography catalogs the works referenced across the CED-AH whitepaper and
 
 Works are listed once under their primary thematic category, with cross-references where a work is relevant to multiple categories. This list is not exhaustive of the fields it draws from — it represents the specific works that have informed the CED-AH framework's development.
 
+The bibliography is organized to reflect the CED-AH framework's Two Commitments. Sections 1–6 provide the primary scholarly foundation for the first commitment (the instrument thesis): epistemology, philosophy of mind, ethics, AI safety, human-computer interaction, and cognitive science. Section 13 provides the primary scholarly foundation for the second commitment (the accountability principle): responsibility theory, platform accountability, and the responsibility gap literature. Sections 7–12 support the framework's broader context: systems theory, governance, domain applications, measurement, historical precedents, and classical intellectual lineage. The Cross-Reference Index identifies works that inform multiple commitments.
+
 **Contributing:** If you submit evidence that introduces a new source, please include the full citation in your submission. Accepted sources will be added to this bibliography. See [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ---
@@ -23,6 +25,8 @@ Works are listed once under their primary thematic category, with cross-referenc
 9. [Domain Applications](#9-domain-applications)
 10. [Measurement and Evaluation](#10-measurement-and-evaluation)
 11. [Historical Precedents and Case Studies](#11-historical-precedents-and-case-studies)
+12. [Great Books: Classical and Modern Foundations](#12-great-books-classical-and-modern-foundations)
+13. [Accountability, Responsibility, and AI Governance](#13-accountability-responsibility-and-ai-governance)
 
 ---
 
@@ -218,6 +222,12 @@ O'Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequali
 
 Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
 
+Gillespie, T. (2018). *Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media*. Yale University Press.
+
+Kaye, D. (2019). *Speech Police: The Global Struggle to Govern the Internet*. Columbia Global Reports.
+
+Pasquale, F. (2015). *The Black Box Society: The Secret Algorithms That Control Money and Information*. Harvard University Press.
+
 Tutt, A. (2017). An FDA for algorithms. *Administrative Law Review*, 69(1), 83–123.
 
 ---
@@ -235,8 +245,6 @@ Topol, E. J. (2019). *Deep Medicine: How Artificial Intelligence Can Make Health
 Wachter, R. (2015). *The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine's Computer Age*. McGraw-Hill Education.
 
 ### Legal
-
-Pasquale, F. (2015). *The Black Box Society: The Secret Algorithms That Control Money and Information*. Harvard University Press.
 
 Susskind, R. (2017). *Tomorrow's Lawyers: An Introduction to Your Future* (2nd ed.). Oxford University Press.
 
@@ -282,6 +290,14 @@ National Transportation Safety Board. (Various years). Aircraft accident reports
 
 Vaughan, D. (1996). *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA*. University of Chicago Press.
 
+Benkler, Y. (2006). *The Wealth of Networks: How Social Production Transforms Markets and Freedom*. Yale University Press.
+
+McChesney, R. W. (2013). *Digital Disconnect: How Capitalism Is Turning the Internet Against Democracy*. The New Press.
+
+Wu, T. (2010). *The Master Switch: The Rise and Fall of Information Empires*. Alfred A. Knopf.
+
+Zittrain, J. (2008). *The Future of the Internet — And How to Stop It*. Yale University Press.
+
 Zuboff, S. (1988). *In the Age of the Smart Machine: The Future of Work and Power*. Basic Books.
 
 ---
@@ -301,7 +317,16 @@ Works that inform multiple thematic categories:
 | Leveson (2012) | Systems Theory | HCI & Automation, Governance |
 | Russell (2019) | AI Safety | Philosophy of Mind, Ethics |
 | Shneiderman (2022) | HCI & Automation | Measurement, Ethics |
-| Zuboff (2019) | Ethics & Technology | Governance, Domain Applications |
+| Zuboff (2019) | Ethics & Technology | Governance, Domain Applications, Accountability |
+| Floridi & Sanders (2004) | Ethics & Technology | Accountability, Philosophy of Mind |
+| Jonas (1984) | Ethics & Technology | Accountability |
+| Lessig (2006) | Governance | Accountability, Historical Precedents |
+| Nissenbaum (1996) | Accountability | Ethics & Technology, Governance |
+| Pasquale (2015) | Governance | Accountability, Domain Applications (Legal) |
+| Sparrow (2007) | Accountability | AI Safety, Ethics & Technology |
+| Thompson (1980) | Accountability | Governance, Systems Theory |
+| Wu (2010) | Historical Precedents | Accountability, Governance |
+| Zittrain (2008) | Historical Precedents | Accountability, Governance |
 
 ---
 
@@ -385,6 +410,30 @@ are not novel inventions but formalizations of insights developed across
   [math-100: incompleteness theorems — no formal system can prove its own consistency]
 - Whitehead, A. N., & Russell, B. *Principia Mathematica*. (1910-1913). Cambridge.
   [math-101: the foundationalist project and its failure — context for Gödel]
+
+---
+
+## 13. Accountability, Responsibility, and AI Governance
+
+Works on the philosophical and legal foundations of accountability for computational system effects — informing the framework's accountability principle (the second of the Two Commitments). This section addresses the responsibility gap, the problem of many hands, platform accountability, and the philosophical conditions under which entities can be held accountable for autonomous system behavior.
+
+Citron, D. K., & Wittes, B. (2017). The internet will not break: Denying bad Samaritans § 230 immunity. *Fordham Law Review*, 86(2), 401–423.
+
+Goetze, T. S. (2022). Mind the gap: Autonomous systems, the responsibility gap, and moral entanglement. In *Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22)* (pp. 390–400). ACM.
+
+Matthias, A. (2004). The responsibility gap: Ascribing responsibility for the actions of learning automata. *Ethics and Information Technology*, 6(3), 175–183.
+
+Nissenbaum, H. (1996). Accountability in a computerized society. *Science and Engineering Ethics*, 2(1), 25–42.
+
+Rozenshtein, A. Z. (2024). Interpreting the ambiguities of Section 230. *Yale Journal on Regulation*, 41(1), 60–109.
+
+Santoni de Sio, F., & Mecacci, G. (2021). Four responsibility gaps with artificial intelligence: Why they matter and how to address them. *Philosophy & Technology*, 34(4), 1057–1084.
+
+Sparrow, R. (2007). Killer robots. *Journal of Applied Philosophy*, 24(1), 62–77.
+
+Taddeo, M., & Blanchard, A. (2022). Accepting moral responsibility for the actions of autonomous weapons systems — A moral gambit. *Philosophy & Technology*, 35(3), article 62.
+
+Thompson, D. F. (1980). Moral responsibility of public officials: The problem of many hands. *American Political Science Review*, 74(4), 905–916.
 
 ---
 
