@@ -2,7 +2,7 @@
 
 ## Summary
 
-The final part of the whitepaper. Draws out what the framework means for discourse, research, governance, and each stakeholder role. Provides specific action guidance with checklists. Honestly acknowledges what the framework does not address and where it could be wrong, with explicit revision conditions for every tier. Restates the central thesis with its seven supporting arguments and ranks the framework's most vulnerable points as an open invitation to challenge or strengthen.
+The final part of the whitepaper. Opens with the fullest statement of the **Two Commitments** — the Instrument Thesis and the Accountability Principle — and their structural interlock: each protects against the failure mode of the other. Then draws out what the framework means for discourse, research, governance, and each stakeholder role. Provides specific action guidance with checklists. Honestly acknowledges what the framework does not address and where it could be wrong, with explicit revision conditions for every tier. Restates the central thesis with its seven supporting arguments and ranks the framework's most vulnerable points as an open invitation to challenge or strengthen.
 
 ## Contents
 
