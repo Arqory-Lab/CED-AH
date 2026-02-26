@@ -154,6 +154,10 @@ If AH takes an action that can't be undone, it has effectively made a decision. 
 
 A reader who accepts all premises in Tiers 1–3 is committed to these conclusions. A reader who rejects any premise should say which one and what follows from the rejection. The framework's arguments stand without false claims of necessity.
 
+### The Architecture and Both Commitments
+
+This formal architecture establishes the *what* — what computational systems are (instruments), what design constraints follow (five imperatives), and what would count as violation (the failure taxonomy in [Part 7](../07-applications-failures/main.md)).  The **Accountability Principle** ([Part 3](../03-coherence-foundation/main.md), [Part 8](../08-implications-action/main.md)) establishes the *who* — which entity answers when the architecture's constraints are violated.  Together, these constitute the framework's **Two Commitments**: the Instrument Thesis formalized here, and the Accountability Principle that ensures the formalization produces safety in practice, not merely in theory.
+
 ---
 
 ## Quick Reference: Complete Derivation Map
