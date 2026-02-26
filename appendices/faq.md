@@ -12,17 +12,55 @@ AI alignment asks: "How do we make AI systems do what we want?"  CED-AH asks a p
 
 Alignment assumes the system is or could become an agent whose goals need to be aligned with ours.  CED-AH argues that computational systems are instruments.  Human created, human dependent and human purposed.  That the design choice that matters is whether they amplify human capability or replace it.  This reframing changes which problems are central and which solutions are coherent.
 
-The frameworks are not necessarily in conflict.  Alignment research addresses real engineering challenges.  CED-AH provides a philosophical foundation for evaluating whether the goals being aligned to are themselves coherent. See [Part 2](../whitepaper/02-ai-conversation/main.md) and [Part 4](../whitepaper/04-amplified-humanity/main.md).
+The frameworks are not necessarily in conflict.  Alignment research addresses real engineering challenges.  CED-AH provides two things alignment typically does not: a philosophical foundation for evaluating whether the goals being aligned to are themselves coherent (the instrument thesis), and an accountability structure specifying who answers when alignment fails (the accountability principle).  These are the framework's Two Commitments — see "What are the Two Commitments?" below.  See [Part 2](../whitepaper/02-ai-conversation/main.md) and [Part 4](../whitepaper/04-amplified-humanity/main.md).
 
 ### How is CED-AH different from AI safety?
 
 AI safety typically focuses on preventing catastrophic outcomes.  Systems that are deceptive, that pursue unintended goals, that resist correction.  CED-AH addresses a broader failure mode: systems that function exactly as designed but still erode human capability, agency, and understanding over time.
 
-A system can be "safe" by every conventional metric.  No deception, no misalignment, no catastrophic failure can still produce capability atrophy, dependency, and agency erosion in its users.  CED-AH's measurement framework is designed to detect this slower, structural form of harm. See [Part 7](../whitepaper/07-applications-failures/main.md).
+A system can be "safe" by every conventional metric.  No deception, no misalignment, no catastrophic failure can still produce capability atrophy, dependency, and agency erosion in its users.  CED-AH's measurement framework is designed to detect this slower, structural form of harm.  Additionally, CED-AH insists on entity-level accountability for deployed systems — a dimension most safety frameworks leave implicit.  The framework's accountability principle requires that every deploying entity bears accountability for its system's effects, assessed against specific, measurable design imperatives.  Safety without accountability is diagnosis without treatment.  See [Part 7](../whitepaper/07-applications-failures/main.md) and [Part 8](../whitepaper/08-implications-action/main.md).
 
 ### Is CED-AH anti-AI?
 
 No.  CED-AH is pro-amplification.  The framework does not argue against computational systems.  It argues for a specific relationship between computational systems and humans.  The same technology deployed as amplification (increasing human capability) produces different outcomes than the same technology deployed as replacement (substituting for human capability).  CED-AH provides criteria for distinguishing between the two and design imperatives for building the former. See [Part 4](../whitepaper/04-amplified-humanity/main.md).
+
+### What are the Two Commitments?
+
+The CED-AH framework rests on two foundational commitments, both derived from the coherence first principle:
+
+**Commitment 1 — The Instrument Thesis:** Computational systems are instruments for human flourishing.  They are human-created, human-dependent, and human-purposed.  This commitment produces the five Design Imperatives (Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility) and the measurement framework that operationalizes them.
+
+**Commitment 2 — The Accountability Principle:** Every entity that deploys a computational system — whether an individual person or a legally recognized organization — bears accountability for the system's effects on the humans it touches.  The five Design Imperatives define the standard against which that accountability is assessed.
+
+The two commitments interlock.  The instrument thesis without accountability is a design standard without enforcement — it tells you what to build but not who answers when it's built wrong.  The accountability principle without the instrument thesis is enforcement without a standard — it tells you someone is responsible but not for what.  Together they specify: what computational systems are (instruments), what they must do (the five imperatives), how to measure their effects (the evaluative inversion), and who answers when they fail (the deploying entity).
+
+See [Part 4](../whitepaper/04-amplified-humanity/main.md) for the instrument thesis, [Part 6](../whitepaper/06-design-principles/main.md) for the Design Imperatives, and [Part 8](../whitepaper/08-implications-action/main.md) for the accountability principle.
+
+### Who is accountable when a computational system causes harm?
+
+The deploying entity.  The human person or legally recognized organization that makes the decision to put the system into consequential operation bears accountability for the system's effects.
+
+This is not a claim about legal liability in any specific jurisdiction.  It is a philosophical commitment: consequential action requires an accountable moral agent.  Computational systems are not moral agents (see [instrument](glossary.md#instrument) in the glossary).  Therefore accountability cannot stop at "the AI did it."  It must trace to the entity that chose to deploy the system, configured its behavior, and released it into consequential operation.
+
+The five Design Imperatives provide the specific standard: a deploying entity is accountable for whether its system maintains Authority Retention, produces Capability Growth, operates with Transparency, practices Calibrated Honesty, and preserves Reversibility.  The measurement framework provides the evidence.  Together, they make accountability concrete and assessable rather than abstract and unenforceable.
+
+See [Part 8](../whitepaper/08-implications-action/main.md) for the full accountability argument.
+
+### Isn't accountability already covered by existing law?
+
+Partially, and inconsistently.  Current legal frameworks were not designed for computational systems that operate at scale, across jurisdictions, through complex deployment chains (model developer → integrator → deployer → operator → end user).
+
+The accountability principle is not a legal proposal.  It is a philosophical commitment that any viable governance framework must honor: consequential action requires an identifiable accountable entity.  How that commitment is implemented — through regulation, through contracts, through organizational policy, through professional standards — will vary by jurisdiction and domain.  But the commitment itself is non-negotiable within the CED-AH framework.
+
+The framework's specific contribution is providing the STANDARD against which accountability is assessed.  Current regulation often demands accountability without specifying what compliance looks like.  "Be responsible for your AI" is an accountability demand without a design standard.  The five Design Imperatives fill that gap: they define what "responsible deployment" means in measurable terms.
+
+### What about open-source models?  Who is the deploying entity?
+
+This is a genuine open question in the framework.  When a model is developed by one organization, fine-tuned by another, hosted by a third, and used by millions of individuals, the accountability chain is complex.
+
+The framework's preliminary position is that the deployment decision — the choice to put the system into consequential operation — is the natural accountability boundary.  The entity that configures and releases the system for consequential use is the deploying entity, regardless of who built the underlying model.  But this position requires further development, particularly for decentralized deployment contexts.
+
+The framework treats this as an open research problem, not a resolved question.  Honest engagement with the difficulty is more productive than premature certainty.  See [Part 8](../whitepaper/08-implications-action/main.md) for the current analysis.
 
 ### What do you mean by "coherence is the first principle"?
 
@@ -32,7 +70,7 @@ This is not an arbitrary starting point.  It is an argument that coherence canno
 
 ### Can I apply the five Design Imperatives to existing systems?
 
-Yes.  The Design Imperatives (Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility) are technology agnostic.  They describe properties of the relationship between a system and its users, not properties of the system's architecture.  They can be applied as evaluation criteria to any deployed computational system and as design requirements for new ones.  See [Part 6](../whitepaper/06-design-principles/main.md) for the imperatives and [Part 7](../whitepaper/07-applications-failures/main.md) for domain specific application.
+Yes.  The Design Imperatives (Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility) are technology agnostic.  They describe properties of the relationship between a system and its users, not properties of the system's architecture.  They can be applied as evaluation criteria to any deployed computational system and as design requirements for new ones.  When applied as evaluation criteria, the Design Imperatives also reveal accountability obligations: if a system violates Authority Retention, who chose to deploy it without adequate human oversight?  If a system produces Capability Atrophy rather than Capability Growth, who is accountable for the dependency it created?  The imperatives are simultaneously a design checklist and an accountability standard.  See [Part 6](../whitepaper/06-design-principles/main.md) for the imperatives and [Part 7](../whitepaper/07-applications-failures/main.md) for domain specific application.
 
 ### Is the axiom structure falsifiable?
 
