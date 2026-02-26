@@ -20,6 +20,7 @@ This part establishes what computational systems actually are — ontologically 
 - Concrete revision triggers specified: operational continuity, novel goal generation, genuine self-reference
 - "Amplified Humanity" centers the human as subject, not the machine
 - Historical precedent: writing, printing press, calculator all amplified without replacing
+- New **"The Other Half: Accountability"** section names this chapter's ontological argument as the **Instrument Thesis** (the *what*) — the first of the framework's Two Commitments — and introduces the **Accountability Principle** (the *who*) as its interlocking counterpart
 
 ## Evidence Gaps
 
