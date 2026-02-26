@@ -64,7 +64,7 @@ Some existing research programs — including Drexler's Comprehensive AI Service
 
 **How to contribute:** A detailed survey of existing AI ethics frameworks, mapped to each of the five problems they address (or fails to address), would test whether the assessment is accurate.  Identifying frameworks that do establish first principles would either challenge the claim or reveal why those frameworks haven't achieved broad adoption.
 
-**For deeper context:** The first principle this framework proposes, coherence, is developed in [Part 3: The Foundation](../03-coherence-foundation/main.md). The ontological question about computation is addressed in [Part 4: From AI to Amplified Humanity](../04-amplified-humanity/main.md).
+**For deeper context:** The first principle this framework proposes, coherence, is developed in [Part 3: The Foundation](../03-coherence-foundation/main.md). The ontological question about computation is addressed in [Part 4: From AI to Amplified Humanity](../04-amplified-humanity/main.md).  The framework's response to all five structural problems converges on **Two Commitments**: the **Instrument Thesis** (computational systems are instruments for human flourishing, not agents — addressing the agent framing, substitution assumption, and missing criterion) and the **Accountability Principle** (an identifiable entity must be accountable for every deployed system's effects — addressing the accountability gap and making the first principle enforceable).  See [Part 3](../03-coherence-foundation/main.md) and [Part 4](../04-amplified-humanity/main.md) for derivation; [Part 8](../08-implications-action/main.md) for implications.
 
 ---
 
