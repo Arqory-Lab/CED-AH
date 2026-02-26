@@ -2,7 +2,7 @@
 
 ## Summary
 
-This part provides the executive summary and reader's guide for the CED-AH whitepaper. It introduces the central thesis — that coherence is the unavoidable criterion for evaluating any system involving human decision-making — and maps the argument structure across all eight parts.
+This part provides the executive summary and reader's guide for the CED-AH whitepaper. It introduces the central thesis — that coherence is the unavoidable criterion for evaluating any system involving human decision-making — and establishes the **Two Commitments** that anchor the entire framework: the Instrument Thesis (computational systems are tools, not agents) and the Accountability Principle (deploying entities answer for what their instruments do). The Part Index maps the argument structure across all eight parts, identifying which commitment(s) each part develops.
 
 ## Contents
 
