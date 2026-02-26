@@ -33,6 +33,8 @@ We hold these positions with conviction, but also with the intellectual honesty 
 
 **Human authority over decisions is non-negotiable.**  Because computational systems lack agency, decision making authority cannot be legitimately transferred to them.  When we "let the AI decide," we haven't delegated we've abdicated.  The CED-AH framework makes this constraint architecturally enforceable through what we call the Five Design Imperatives.
 
+**Those who deploy instruments answer for what those instruments do.**  If computational systems are instruments — and we have argued they are — then they cannot bear moral or legal accountability for their effects.  A scalpel doesn't answer for malpractice; the surgeon does.  An algorithm doesn't answer for discriminatory outcomes; the organization that deployed it does.  We call this the Accountability Principle, and we derive it from the same coherence criterion that produces the instrument classification.  Together, the Instrument Thesis and the Accountability Principle form the two foundational commitments of the CED-AH framework.  Each protects against the failure mode of the other: the instrument classification without accountability is philosophy without teeth; accountability without the instrument classification is governance without a standard.
+
 ### Where We Hold Uncertainty
 
 We are committed to epistemic honesty about the boundaries of our claims:
@@ -42,6 +44,8 @@ We are committed to epistemic honesty about the boundaries of our claims:
 - The optimal balance between AI support and unassisted human practice is an empirical question we don't yet have enough data to answer precisely.  We provide principles; calibration requires ongoing research.
 
 - How the framework applies across different cultural contexts requires further development.  We treat coherence as universal but acknowledge that its implementation may vary.
+
+- The accountability principle requires a designated accountable entity for every consequential deployment.  In complex deployment chains — model developer, integrator, deploying organization, end user — apportioning accountability is genuinely difficult.  We have the principle; the operational details require further development.
 
 We would rather be honestly uncertain than confidently wrong.
 
@@ -60,6 +64,7 @@ This difference in starting point leads to fundamentally different conclusions:
 | Control *of* AI | Integration *with* AH |
 | Alignment of AI values | Coherence of human systems |
 | AI risk mitigation | Human capability growth |
+| Accountability distributed or absent | Accountability follows the deployment decision |
 
 From the coherence criterion, we derive **five non-negotiable design imperatives** for any system that touches human decision making:
 
@@ -154,9 +159,7 @@ We invite scrutiny.  Here are the metrics by which we ask to be judged:
 
 The future of computational systems is not artificial intelligence.  It is Amplified Humanity™ - tools that make humans more capable, not less necessary.  The criterion for evaluating these systems is coherence: do they increase human understanding, capability, agency, and meaning?  Or do they create dependency, erode authority, and diminish the conditions for human flourishing?
 
-The technology is neutral.  Our design choices determine which future we create.
-
-We choose amplification.
+The technology is neutral.  Our design choices determine which future we create.  We choose amplification — and we accept that the entities making those choices must answer for them.  That is the accountability principle, and it is the structural partner of our instrument thesis.  Together, they form the foundation we believe any viable safety framework must rest on.
 
 ---
 
