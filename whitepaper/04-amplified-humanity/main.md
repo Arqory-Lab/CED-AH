@@ -132,6 +132,14 @@ This isn't cosmetic.  Calling these systems "Amplified Humanity" embeds four cor
 
 As long as we call these systems "artificial intelligence," we will think of them as alternatives to human intelligence, and we will design them that way.
 
+### The Other Half: Accountability
+
+The ontological argument in this chapter establishes what computational systems are — instruments, not agents.  This is the first of the framework's **Two Commitments**: the **Instrument Thesis** (the *what*).  But an instrument that harms without consequence is a weapon without a safety.  If no one is answerable for what a system does, calling it an instrument changes nothing in practice.
+
+The second commitment — the **Accountability Principle** (the *who*) — requires that an identifiable entity, a human person or a legally recognized organization, bears responsibility for the design, deployment, and effects of every computational system.  Since the system itself cannot bear moral responsibility (agency = 0), accountability cannot stop at the machine.  It must trace to someone who can be held to account: someone who can explain, correct, compensate, and be sanctioned.
+
+The two commitments interlock.  The Instrument Thesis without accountability is toothless: a correct ontology with no enforcement mechanism.  The Accountability Principle without the Instrument Thesis is aimless: enforcement with no standard for what counts as responsible design.  Together they provide both the standard and the enforcement that coherent governance of computational systems requires (see [Part 3](../03-coherence-foundation/main.md), [Part 5](../05-formal-architecture/main.md), and [Part 8](../08-implications-action/main.md)).
+
 ## Where This Part Is Weakest
 
 The ontological argument, computation cannot constitute agency, is the framework's most contestable commitment.  It rests on philosophical positions about consciousness that are genuinely open questions.  The conjunction test for agency is deliberately demanding; a disjunctive test (agency if *any* condition is met) would yield different results.  The "world without humans" thought experiment establishes dependency but doesn't conclusively establish the absence of agency, a dependent entity might still be an agent.
