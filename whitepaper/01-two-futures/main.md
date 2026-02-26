@@ -68,6 +68,8 @@ We see that institutions built for automation resist humanization.  Rebuilding h
 
 The window is still open.  The trajectory toward Reality A is the default path of least resistance but defaults can be changed.  The technology is still playable and the skills it replaces still exist.  While the conversation about what to do is active, what it lacks is philosophical foundation.
 
+This framework provides that foundation through two interlocking commitments: treat computational systems as instruments for human flourishing (the **Instrument Thesis**, [Part 3](../03-coherence-foundation/main.md), [Part 5](../05-formal-architecture/main.md)), and ensure that an identifiable entity — human or legally recognized organization — is accountable for the effects of every deployed system (the **Accountability Principle**, [Part 3](../03-coherence-foundation/main.md), [Part 8](../08-implications-action/main.md)).  Neither alone suffices.  Without the Instrument Thesis, accountability has no standard.  Without the Accountability Principle, the Instrument Thesis has no enforcement.  Together, they constitute the philosophical foundation the conversation currently lacks.
+
 ## Where This Part Is Weakest
 
 This argument uses a thought experiment, not empirical data, to establish the stakes.  The skill atrophy evidence is real but drawn from narrow domains (aviation, navigation, writing).  Whether these patterns generalize to all cognitive capabilities is an open empirical question.  The claims of irreversibility are historically grounded but depend on analogies between different technological transitions.
