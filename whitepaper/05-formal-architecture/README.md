@@ -25,6 +25,7 @@ This part lays out the CED framework's complete logical structure, organized by 
 - S4 reframed as a **substitution–amplification continuum**: position determined by degree of active human cognitive engagement, with continuum position as a *design choice* not a technology property; historical precedent problem (writing/printing/calculator) addressed via threshold-shift argument
 - Bridging principle B2 rests on a contestable premise: authority requires moral responsibility, not just reliability — now defended via the accountability argument (catastrophic error requires accountable agent), the accuracy objection rebuttal, and the time-critical edge case
 - All five design imperatives are derived — they are output, not input
+- The architecture is explicitly identified as formalizing the **Instrument Thesis** (the *what*), which pairs with the **Accountability Principle** (the *who*) to form the framework's **Two Commitments**
 
 ## Evidence Gaps
 
