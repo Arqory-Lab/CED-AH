@@ -141,6 +141,8 @@ When imperatives conflict, resolve by priority:
 
 **When in doubt:** Preserve human authority.
 
+**Who answers when the hierarchy is violated:** The obligation hierarchy specifies *what* must be preserved and in what order.  The **Accountability Principle** — the second of the framework's Two Commitments — specifies *who* bears responsibility when the hierarchy fails.  An identifiable entity (a human person or legally recognized organization) must be accountable for the design, deployment, and operation of every AH system.  Without this, the hierarchy is unenforceable: violations propagate without correction, failures accumulate without consequence, and the entire design architecture becomes aspirational rather than binding.  The integration layer enforces the *what*; accountability enforces the *who*.  Both are necessary (see [Part 3](../03-coherence-foundation/main.md) and [Part 8](../08-implications-action/main.md)).
+
 *Example conflicts:*
 - User wants a fast answer; transparency requires explanation → Transparency (L2) beats speed (L3).  Provide explanation, but concise.
 - Decision making would be faster than option presentation → Agency preservation (L1) prohibits.  Present options regardless of efficiency cost.
