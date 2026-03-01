@@ -8,7 +8,23 @@
 
 ---
 
-"We stand at the precipice of a new Renaissance.  Imagine two realities with a simple distinction."
+> We stand at the precipice of a new Renaissance.
+
+Five centuries ago, a civilization that subordinated human judgment to inherited authority reflected at what it had built, and chose differently.  The original Renaissance was not a technological revolution.  It was a philosophical one, a recognition that human beings are capable of understanding the world, shaping institutions, and bearing responsibility for the consequences.  That insistence required courage because the establishment it challenged was powerful, familiar, and genuinely useful.  It required unity because no single tradition could sustain the claim alone.  It took artists, scientists, philosophers, engineers, merchants and monks, all converging on the same dangerous idea.  Human agency is the distinction that allows to be flourish.
+
+We are at that threshold again.
+
+The computational systems we have built are the most powerful instruments humanity has ever created.  They can amplify human capability beyond anything the Renaissance dreamers imagined.  Or they can replace it so gradually that we mistake extinction for convenience.  The technology does not decide.  We decide.  And "we" is not a metaphor.  It means every engineer, every executive, every legislator, every citizen deciding what they will accept.  This is not someone else's problem.  There is no one else.
+
+The original Renaissance succeeded because enough people, in enough places, had the courage to insist on a simple principle: the value and potential of human beings as individuals.  That principle did not solve every problem or prevent every abuse.  But it established a foundation beneath which a civilization refuses to fall.
+
+This document proposes that floor for the computational age.
+
+We make two commitments.  First: computational systems are instruments for human flourishing.  Artifacts that must amplify human capability, preserve human authority, and leave humans more capable over time, not less.  Second: every entity that deploys such a system, citizen or legal organization, bears accountability for its effects.  These commitments interlock.  Without the first, accountability has no standard.  Without the second, the standard has no teeth.
+
+What follows is the argument for both.  It begins, as all honest arguments must, with what is at stake.
+
+Imagine two realities with a simple distinction.
 
 ## The Comfortable Extinction
 
@@ -62,13 +78,18 @@ We are in the formative period of computational intelligence.  Choices made now 
 
 In each case, choices that seemed provisional became permanent.
 
-**The irreversibility problem makes this urgent.**  Research shows us skills that atrophy may not return.  Consider pilots who rely on autopilot show degraded manual flying skills (Ebbatson et al., 2010; Casner et al., 2014).  Navigators who were dependent on GPS demonstrated reduced spatial reasoning (McKinlay, 2016; Ruginski et al., 2019).  Writers using auto complete reported difficulty composing without it (Arnold et al., 2020; Buschek et al., 2021).  Each generation's diminished capacity becomes the next generation's baseline.
+**The irreversibility problem makes this urgent.**  Research has shown us skills that atrophy may not return.  Consider that pilots who rely on autopilot show degraded manual flying skills (Ebbatson et al., 2010; Casner et al., 2014).  Navigators dependent on GPS demonstrated reduced spatial reasoning (McKinlay, 2016; Ruginski et al., 2019).  Writers utilizing auto complete reported difficulty composing without it (Arnold et al., 2020; Buschek et al., 2021).  Each generation's diminished capacity becomes the next generation's baseline.
 
 We see that institutions built for automation resist humanization.  Rebuilding human capacity takes years, restructuring workflows takes organizational change and notion of rebuilding institutional knowledge may be unrealistic.  The resulting path dependency compounds over time because systems trained on the assumption of substitution train the next generation of systems yielding deeper substitution.
 
-The window is still open.  The trajectory toward Reality A is the default path of least resistance but defaults can be changed.  The technology is still playable and the skills it replaces still exist.  While the conversation about what to do is active, what it lacks is philosophical foundation.
+The window is still open.  The trajectory toward Reality A is the default path of least resistance but defaults can be changed.  The technology is still playable and the skills still exist.  The conversation about what to do is active, what it lacks is philosophical foundation.
 
-This framework provides that foundation through two interlocking commitments: treat computational systems as instruments for human flourishing (the **Instrument Thesis**, [Part 3](../03-coherence-foundation/main.md), [Part 5](../05-formal-architecture/main.md)), and ensure that an identifiable entity — human or legally recognized organization — is accountable for the effects of every deployed system (the **Accountability Principle**, [Part 3](../03-coherence-foundation/main.md), [Part 8](../08-implications-action/main.md)).  Neither alone suffices.  Without the Instrument Thesis, accountability has no standard.  Without the Accountability Principle, the Instrument Thesis has no enforcement.  Together, they constitute the philosophical foundation the conversation currently lacks.
+This framework provides that foundation through two interlocking commitments: 
+     - The **Instrument Thesis** - treat computational systems as instruments for human flourishing.
+     [Part 3](../03-coherence-foundation/main.md), [Part 5](../05-formal-architecture/main.md)
+     - The **Accountability Principle** - ensure that an accountable entity, citizen or legally recognized organization, is accountable for the effects of every deployed system. 
+     [Part 3](../03-coherence-foundation/main.md), [Part 8](../08-implications-action/main.md)
+Neither alone suffices.  Without the Instrument Thesis, accountability has no standard.  Without the Accountability Principle, the Instrument Thesis has no enforcement.  Together, they constitute the philosophical foundation the conversation currently lacks.
 
 ## Where This Part Is Weakest
 
