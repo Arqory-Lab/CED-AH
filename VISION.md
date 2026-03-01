@@ -13,7 +13,7 @@
 
 Every major AI safety framework shares an unexamined assumption: that the systems we're building are, or could become, agents.  The alignment community asks how to align agent values.  The safety community asks how to constrain agent behavior.  The governance community asks how to regulate agent decisions.
 
-We think the agent framing is the wrong starting point and that building on it leads somewhere we don't want to go.
+Each of these communities has produced valuable work — real safety improvements in deployed systems, important research on failure modes, and legitimate progress on oversight mechanisms.  But they share a starting point we believe is wrong, and building on it leads somewhere we don't want to go.
 
 The CED-AH project exists to provide what the current discourse lacks: a **philosophical foundation** for evaluating computational systems, grounded in first principles that survive scrutiny, with practical design implications that can be implemented today.
 

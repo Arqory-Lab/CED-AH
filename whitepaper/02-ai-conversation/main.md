@@ -10,7 +10,7 @@
 
 ## The Landscape
 
-AI safety, AI alignment and AI ethics are active, well funded, serious fields.  They are also incoherent at their foundations.  The disagreements reveal the confusion of a field that hasn't truly established its first principals.
+AI safety, AI alignment and AI ethics are active, well funded, serious fields, and each has produced real safety improvements in deployed systems.  Yet persistent disagreements among them suggest something unresolved at the foundational level — the kind of divergence that occurs when a field has not yet identified its shared first principles.
 
 Three dominant frameworks illustrate the problem:
 
@@ -20,7 +20,7 @@ Three dominant frameworks illustrate the problem:
 
 **Control as Containment** asks: how do we maintain authority over increasingly powerful systems? This assumes AI might develop independent goals that conflict with our own.   This is an adversarial framing that describes designs requiring containment rather than collaboration.
 
-All three frameworks share one assumption: **they treat AI as a potential agent.**  Whether focusing on alignment (the agent wants what we want), safety (the agent doesn't cause harm), or control (we maintain authority over the agent), the underlying model is the same.  AI is something with potential objectives, interests, or agency.
+Each of these is a reasonable starting point, and each has advanced our understanding of real risks.  But all three frameworks share one assumption: **they treat AI as a potential agent.**  Whether focusing on alignment (the agent wants what we want), safety (the agent doesn't cause harm), or control (we maintain authority over the agent), the underlying model is the same.  AI is something with potential objectives, interests, or agency.
 
 This assumption is rarely examined because it's embedded in the language itself.  "Artificial intelligence" implies a mind.  And the entire research agenda follows from that implication.
 
