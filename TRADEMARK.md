@@ -17,7 +17,7 @@ The following are trademarks of The Arqory Research Institute:
 - **CED-AH™**
 - **Coherence Dashboard™**
 
-These trademarks are not licensed under the Apache License 2.0 or Creative Commons Attribution 4.0 International license that cover this project's code and documentation respectively.  Trademark rights are separate from copyright and open source licensing.
+These trademarks are not licensed under the Apache License 2.0 or Creative Commons Attribution 4.0 International license that cover this project's code and documentation respectively.  The Arqory Research Institute’s trademark rights are separate from copyright and open source licensing.
 
 ---
 
@@ -50,7 +50,7 @@ You do not need our permission to:
 
 ## Requirements for All Uses
 
-When using our trademarks, please follow these guidelines:
+When using our trademarks to identify the goods and services of The Arqory Research Institute, please follow these guidelines:
 
 ### Use as Adjectives, Not Nouns
 
@@ -83,7 +83,7 @@ For shorter content (blog posts, social media, brief references), the ™ symbol
 
 ### No Implication of Endorsement
 
-Do not use our trademarks in any way that suggests The Arqory Research Institute endorses, sponsors, or is affiliated with your project, product, or organization — unless we have explicitly agreed to such an arrangement in writing.
+Do not use our trademarks in any way that suggests The Arqory Research Institute endorses, sponsors, or is affiliated with your project, product, organization or any third-party project, product, or organization.
 
 > ❌ "Officially CED-AH Certified"
 > ❌ "Recommended by The Arqory"
@@ -112,8 +112,6 @@ If you fork or modify this project, you must make clear that your version is mod
 - **Do not use our trademarks to imply your fork is the official project** or is endorsed by The Arqory Research Institute.
 - **Do include attribution.**  Your fork should acknowledge its origin and link back to this repository.
 
-This is consistent with how forks work throughout the open source ecosystem,  You can fork Firefox, but you can't call it Firefox.
-
 ---
 
 ## Community Projects
@@ -133,9 +131,9 @@ We encourage community projects that build on, extend, or evaluate the CED-AH fr
 
 To be explicit about what this policy does and does not cover:
 
-**The concepts, ideas, arguments, and frameworks described in this repository are openly licensed.**  You are free to discuss coherence as a first principle, to argue that computational systems are instruments rather than agents, to apply the five design imperatives to your own work, and to critique any aspect of the framework.  The open source licenses (Apache 2.0 and CC BY 4.0) grant you broad rights to use, modify, and redistribute this content with attribution.
+**The concepts, ideas, arguments, and frameworks described in this repository are openly licensed.**  You are free to discuss coherence as a first principle, to argue that computational systems are instruments rather than agents, to apply the five design imperatives to your own work, and to critique any aspect of the framework.  The open source licenses (Apache 2.0 and CC BY 4.0) govern the rights to use, modify, and redistribute this content with attribution.
 
-**The trademarks identify the source.**  They tell people "this comes from The Arqory Research Institute" or "this accurately represents the CED-AH project as maintained by its authors."  That identification function is what trademark law protects, and it's what this policy preserves.
+**The trademarks identify the source.**  They tell people "this comes from The Arqory Research Institute" or "this accurately represents the CED-AH project as maintained by its authors."  
 
 We chose this approach deliberately.  Safety frameworks must be open to scrutiny, adoption, and extension.  But the community also needs to know when they're looking at the canonical version versus a derivative.  Both matter.
 
