@@ -29,16 +29,12 @@ The Arqory Research Institute and its affiliated commercial entity develop propr
 
 ---
 
-## How the Apache 2.0 Patent Grant Works
+## The Apache 2.0 Patent Grant
 
-The Apache License 2.0 includes an express patent grant.  Section 3 of the license states that each contributor grants a perpetual, worldwide, non-exclusive, no-charge, royalty free, irrevocable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the work, but only with respect to patent claims that are necessarily infringed by the contributor's contribution alone or in combination with the work.
+Section 3 of the Apache License 2.0 includes an express grant of patent license.
 
-In practical terms, this means:
-
-- **If you use the contents of this repository**, the Apache 2.0 patent grant protects you with respect to any patent claims that would be infringed solely by using this repository's contents as provided.
-- **If you contribute to this repository**, your contribution includes an implicit patent grant under the same terms (and an explicit grant under our [CLA](CLA.md)).
-
-This is the standard patent protection mechanism used by the Apache Software Foundation, Google (Android, TensorFlow, Kubernetes), Meta (React, PyTorch), and thousands of other Apache licensed projects.
+    • If you use the contents of this repository, the Apache License 2.0 governs the terms of the patent license.
+    • If you contribute to this repository, your contribution includes a patent license under the same terms (and an express grant under our CLA).
 
 ---
 
@@ -48,13 +44,13 @@ To eliminate ambiguity:
 
 ### Using This Repository Does NOT Grant Rights To Proprietary Technology
 
-Using, forking, or contributing to the CED-AH open source project does not grant any license, express, implied, or by estoppel, to The Arqory's proprietary patent pending technology.  The Apache 2.0 patent grant covers the contents of this repository and nothing else.
+Using, forking, or contributing to the CED-AH open source project does not grant any license, express, implied, or by estoppel, to The Arqory's proprietary patent pending technology.  The Apache 2.0 applies to the contents of this repository and nothing else owned by The Arqory Research Institute or its affiliated commercial entity.
 
 The safety frameworks described here can be implemented by anyone using any technology.  Our proprietary technology is one implementation among potentially many.  The open framework and the proprietary implementation are legally and architecturally independent.
 
 ### Contributing To This Repository Does NOT Affect Your Own Patents
 
-Contributing to CED-AH grants a patent license only for claims necessarily infringed by your specific contribution (per the Apache 2.0 license and [CLA](CLA.md)).  It does not grant any broader license to your patent portfolio, does not affect patents unrelated to your contribution, and does not create any obligation beyond what is described in those agreements.
+Contributing to CED-AH grants a patent license pursuant to the terms of the (Apache 2.0 license and [CLA](CLA.md)).  It does not grant any broader license to your patent portfolio, does not affect patents unrelated to your contribution, and does not create any obligation beyond what is described in those agreements.
 
 ### The Arqory's Patents Do NOT Restrict Use of This Repository
 
@@ -65,8 +61,6 @@ The Arqory Research Institute commits that its patent holdings and pending appli
 ## Defensive Termination
 
 Consistent with the Apache License 2.0 (Section 3), if you institute patent litigation against any entity alleging that the CED-AH project or a contribution within it constitutes patent infringement, then any patent licenses granted to you under the Apache License 2.0 for the CED-AH project shall terminate as of the date such litigation is filed.
-
-This is a standard defensive provision.  It protects the project and its contributors from patent aggression while preserving all rights for non-litigating users.
 
 ---
 
