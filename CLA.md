@@ -35,11 +35,11 @@ Before you contribute, here's what this agreement does and doesn't do in plain l
 
 ### Definitions
 
-**"You" (or "Your")** means the copyright owner or legal entity authorized by the copyright owner that is entering into this Agreement with The Arqory Research Institute.
+**"You" (or "Your")** means the intellectual property owner or legal entity authorized by the intellectual property owner that is entering into this Agreement with The Arqory Research Institute.
 
 **"The Arqory"** means The Arqory Research Institute, the nonprofit entity that maintains the CED-AH project.
 
-**"Contribution"** means any original work of authorship, including any modifications or additions to an existing work, that is intentionally submitted by You to The Arqory for inclusion in the CED-AH project.  "Submitted" means any form of communication sent to the project, including but not limited to pull requests, issues, commits, emails, and discussion forum posts, but excluding communications that are conspicuously marked or designated in writing by You as "Not a Contribution."
+**"Contribution"** means any original work of authorship, including any modifications or additions to an existing work, or invention that is intentionally submitted by You to The Arqory for inclusion in the CED-AH project.  "Submitted" means any form of communication sent to the project, including but not limited to pull requests, issues, commits, emails, and discussion forum posts, but excluding communications that are conspicuously marked or designated in writing by You as "Not a Contribution."
 
 **"Project License"** means the open source license under which the CED-AH project is distributed at the time of Your Contribution: currently Apache License 2.0 for code and Creative Commons Attribution 4.0 International for documentation.
 
@@ -57,7 +57,7 @@ As a condition on the rights granted in Sections 1 and 2, The Arqory agrees to a
 
 ### 4. Your Ownership
 
-You retain ownership of the copyright in Your Contribution.  This Agreement does not transfer copyright or any other intellectual property rights to The Arqory.  Nothing in this Agreement shall be interpreted to reduce, limit, or restrict any rights arising from fair use, first sale, or other limitations on the exclusive rights of the copyright owner under copyright law.
+You retain ownership of the copyright or patent in Your Contribution. This Agreement does not transfer copyright, patent, or any other intellectual property rights to The Arqory. Nothing in this Agreement shall be interpreted to reduce, limit, or restrict any rights arising from fair use, first sale, or other limitations on the exclusive rights of the copyright owner under copyright law.
 
 ### 5. Your Representations
 
