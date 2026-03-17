@@ -121,7 +121,7 @@ Disagreements are expected and healthy.  The framework improves through structur
 
 **Step 3: BDFL Decision.** If discussion does not resolve the disagreement, the BDFL reviews all arguments and evidence, makes a decision, and documents the reasoning in the thread.  The decision is final for the current version of the framework.
 
-**Step 4: Fork.**  If a contributor fundamentally disagrees with a BDFL decision, the open source licenses (Apache 2.0, CC BY 4.0) grant them the right to fork the project and develop their own direction.  This is not failure, it is the open source safety valve that ensures no single decision maker can suppress legitimate alternative approaches.  Forks must comply with the [trademark policy](TRADEMARK.md).
+**Step 4: Fork.** If a contributor fundamentally disagrees with a BDFL decision, the contributor may fork the project and develop their own direction pursuant to the open source licenses (Apache 2.0, CC BY 4.0). This is not failure, it is the open source safety valve that ensures no single decision maker can suppress legitimate alternative approaches. Forks must comply with the [trademark policy](TRADEMARK.md).
 
 ---
 
