@@ -10,23 +10,24 @@
 
 ## Why Philosophy Before Technology
 
-Every technology embeds assumptions.  The automobile embedded assumptions about individual mobility and fossil fuel consumption.  Those assumptions became highways, suburbs, and a restructured planet.  Early designers thought they were solving the technical problem of horseless carriages, but they were making civilizational choices.
+As new technologies develop they embed structural assumptions.  The automobile embedded assumptions about individual mobility and fossil fuel consumption.  Those assumptions became highways, suburbs, and a restructured planet.  Early designers thought they were solving the technical problem of horseless carriages, but they were making civilizational choices.
 
-Computational intelligence is the same.  The assumptions we embed now about what these systems are, what they should do, how they should relate to humans will shape trajectories for decades or centuries.  Philosophy is the discipline of examining assumptions.  Technology without philosophy is motion without direction.
+Computational intelligence is the same.  The assumptions being embedded now about what these systems are, what they should do and how they should relate to humans will shape trajectories for decades to come.  Philosophy is required as the discipline of examining assumptions - technology without philosophy is motion without direction.
 
 ## The First Principle: Coherence
 
-A first principle is a foundational assumption that cannot be derived from anything more basic.  Different traditions have proposed different ones: Descartes' "I think, therefore I am," utilitarianism's "greatest good for greatest number," virtue ethics' "flourishing."
+By definition a first principle is the most fundamental, foundational truth.  Different traditions have proposed different first principals: Descartes' "I think, therefore I am," utilitarianism's "greatest good for greatest number," virtue ethics' "flourishing."
 
-How do we choose between them?  This seems to create an infinite regression to choose a first principle.  We need a criterion that is itself a first principle.
+Choosing a first principal creates an infinite regression.  We need a criterion that is itself a first principle.
 
-One principle escapes the regression: **coherence.**
+The one principle escapes all regression is **coherence.**
 
-To argue that coherence is not the first principle, you must construct a coherent argument.  To prefer some other principle, you must show that preference is coherent.  To reject coherence, you must do so coherently or your rejection fails on its own terms.
+To argue that coherence is not the first principle, you must construct a coherent argument.  To prefer some other principle, you must show the preference is coherent.  To reject coherence, you must do so coherently or your rejection fails on its own terms.
 
-Every system of thought, in the act of asserting itself, demonstrates dependence on coherence.  **Coherence as a methodological criterion is presupposed by all evaluation.**  It is not arbitrarily chosen but is revealed as necessary by the structure of argumentation itself.
+Every system of thought, in the act of asserting itself, demonstrates dependence on coherence.  **Coherence as a methodological criterion is presupposed by all evaluation.**  It is not randomly chosen but revealed as necessary by the structure of argumentation itself.
 
-Formally: for any evaluative function E over propositions, E presupposes a coherence ordering such that more coherent propositions are preferred over less coherent ones.
+Formally:
+    For any evaluative function E over propositions, E presupposes a coherence ordering such that more coherent propositions are preferred over less coherent ones.
 
 ### What Coherence Does and Does Not Establish
 
@@ -56,19 +57,19 @@ A system can be internally consistent without serving flourishing and be merely 
 
 The step from "coherence is the criterion" to "coherence means flourishing alignment for human affecting systems" is the most important philosophical commitment in this framework.  It deserves direct defense.  Why not operationalize coherence differently?
 
-**Preference satisfaction** is the standard utilitarian answer: a coherent system is one that satisfies people's preferences.  But preferences can be manipulated, adaptive, or self-destructive.  A phenomenon well documented in the behavioral economics literature from Kahneman and Tversky onward.  A system that satisfies preferences while degrading the conditions for *good* preference formation (critical thinking, access to accurate information, autonomy in choice) fails the coherence criterion.  It optimizes the metric while undermining the capacity that makes the metric meaningful.  This is precisely the failure mode of algorithmically optimized social media: preferences are satisfied in the moment while the epistemic conditions for sound preference formation erode.
+**Preference satisfaction** is the standard utilitarian answer.  A coherent system is one that satisfies people's preferences.  But preferences can be manipulated, adaptive, or self-destructive.  This phenomenon is well documented in the behavioral economics literature from Kahneman and Tversky onward.  A system that satisfies preferences while degrading the conditions for *good* preference formation (critical thinking, access to accurate information, autonomy in choice) fails the coherence criterion.  It optimizes the metric while undermining the capacity that makes the metric meaningful.  This is precisely the failure mode of algorithmically optimized social media: preferences are satisfied in the moment while the epistemic conditions for sound preference formation erode.
 
-**Welfare maximization** decouples wellbeing from agency.  But welfare without agency is Reality A, the "comfortable extinction" that [Part 1](../01-two-futures/main.md) described.  Mill himself, in distinguishing higher and lower pleasures in *Utilitarianism* (1863), acknowledged that mere hedonic satisfaction is insufficient, "it is better to be Socrates dissatisfied than a fool satisfied."  A welfare-maximizing system that atrophies the human capacity for judgment, creation, and self directed growth produces welfare at the cost of the conditions that give welfare its meaning.  The framework has already shown this to be incoherent.
+**Welfare maximization** decouples wellbeing from agency.  But welfare without agency is Reality A, the "comfortable extinction" that [Part 1](../01-two-futures/main.md) described.  Mill himself, in distinguishing higher and lower pleasures in *Utilitarianism* (1863), acknowledged that mere hedonistic satisfaction is insufficient, "it is better to be Socrates dissatisfied than a fool satisfied."  A welfare maximizing system atrophies the human capacity for judgment, creation, and self directed growth produces welfare at the expense of meaning.  The framework has already shown this to be incoherent.
 
 **Pure capability preservation** treats capabilities as the end rather than the means.  But capabilities without meaning, direction, or agency are instrumental.  They enable action without ensuring that action serves coherence.  A system could preserve every measurable human capability while draining the motivation, understanding, and sense of purpose that make those capabilities worth having.
 
-S1's commitment to flourishing alignment is doing *ethical* work, not merely logical work.  It is a defended philosophical position.  The claim that for systems whose primary effects fall on human lives, the measure of coherence must include the conditions under which humans can generate understanding, exercise agency, create meaning, and grow in capability.  This is not a self-evident truth.  It is the position this framework defends, and a reader who accepts coherence as the criterion but proposes a different operationalization is engaging in precisely the kind of philosophical challenge the framework invites.
+S1's commitment to flourishing alignment is doing *ethical* work, not merely logical work.  It is a defended philosophical position.  The claim that for systems whose primary effects fall on human lives, the measure of coherence must include the conditions under which humans can generate understanding, exercise agency, create meaning, and grow in capability.  This is not a self evident truth.  It is the position this framework defends, and a reader who accepts coherence as the criterion but proposes a different operationalization is engaging in precisely the kind of philosophical challenge this framework invites.
 
 ## The Physical Grounding
 
 This isn't only a logical argument.  Coherence is the fundamental project of living systems.
 
-The Second Law of Thermodynamics: in an isolated system, entropy (disorder) increases over time.  The default trajectory of the universe is toward chaos.  Against this background, life is remarkable islands of local order maintained against the thermodynamic tide. Every living thing, from bacteria to civilizations, is engaged in coherence maintenance by acquiring resources, repairing damage, reproducing structure and persisting against dissolution.
+The Second Law of Thermodynamics: in an isolated system, entropy (disorder) increases over time.  The default trajectory of the universe is toward chaos.  Against this background, life is remarkable islands of local order maintained against the thermodynamic tide.  Every living thing, from bacteria to civilization, is engaged in coherence maintenance by acquiring resources, repairing damage, reproducing structure and persisting against dissolution.
 
 This creates a hierarchy:
 
@@ -79,9 +80,9 @@ This creates a hierarchy:
 | **Civilization** | Scaled structure maintenance | Language, science, governance |
 | **Computational intelligence** | ? | Substitute for human coherence, or amplify it? |
 
-Computational intelligence is the newest entry.  It could serve the coherence project by amplifying human capacity to generate understanding, create meaning, and maintain structures.  Or it could undermine it by substituting machine maintained order for human generated order, leaving the human level of the hierarchy to atrophy.
+Computational intelligence is the newest entry.  It could serve the coherence project by amplifying human capacity to generate understanding, create meaning, and maintain structures - or it could undermine it by substituting machine maintained order for human generated order, leaving the human level of the hierarchy to atrophy.
 
-The physical grounding offers an illustrative parallel to the logical argument.  We note that "coherence" in the thermodynamic sense (local order maintenance) and "coherence" in the philosophical sense (logical consistency + flourishing alignment) are related by analogy rather than entailment.  The physical grounding illustrates rather than proves the philosophical claim.  The transcendental argument for coherence stands on its own logical merits.  But the parallel is suggestive: what philosophy identifies as the inescapable criterion, physics reveals as the fundamental project of life itself.
+The physical grounding offers an illustrative parallel to the logical argument.  We note that "coherence" in the thermodynamic sense (local order maintenance) and "coherence" in the philosophical sense (logical consistency + flourishing alignment) are related by analogy rather than entailment.  The physical grounding illustrates rather than proves the philosophical claim.  The transcendental argument for coherence stands on its own logical merits.  But the parallel is suggestive: what is philosophically the inescapable criterion, physics reveals as the fundamental project of life itself.
 
 ## The Ethical Criterion
 
@@ -92,7 +93,7 @@ From the first principle (coherence is the evaluative criterion) and the domain 
 
 Applied to the two futures from [Part 1](../01-two-futures/main.md):
 
-**Reality A** maintains physical and civilizational coherence through machines, but the *human* level of coherence generation atrophies.  Humans stop generating understanding, creating meaning, and maintaining structures through their own agency.  The hierarchy is disrupted at the level that matters for human flourishing. **Reality A decreases coherence → Bad.**
+**Reality A** maintains physical and civilizational coherence through machines, but the *human* level of coherence atrophies.  Humans stop learning, understanding and creating meaning through their own agency.  The hierarchy is disrupted at the level that matters for human flourishing. **Reality A decreases coherence → Bad.**
 
 **Reality B** preserves humans as active generators of coherence, with machines enhancing their capacity at every level.  The hierarchy is strengthened and human coherence generation is amplified, not replaced.  **Reality B increases coherence → Good.**
 
@@ -116,17 +117,17 @@ Systems that amplify human capacity for coherence generation are good.  Systems 
 
 ### The Two Commitments as Coherence Requirements
 
-The coherence derivation produces two distinct but interlocking requirements.  The first — which this framework calls the **Instrument Thesis** — follows from the design criterion above: computational systems are instruments for human flourishing, artifacts that amplify human capability while preserving human agency.  This defines *what* these systems are and what design constraints follow (developed fully in [Parts 4–5](../04-amplified-humanity/main.md)).
+The coherence derivation produces two distinct but interlocking requirements.  The first, which this framework calls the **Instrument Thesis**, follows from the design criterion above: Computational systems are instruments for human flourishing, artifacts that amplify human capability while preserving human agency.  This defines *what* these systems are and what design constraints follow (developed fully in [Parts 4–5](../04-amplified-humanity/main.md)).
 
-The second — the **Accountability Principle** — follows from the same coherence criterion by a different path.  If a system's effects fall on humans, and if those effects can be good or bad by the coherence standard, then someone must answer for which it is.  Action requires an actor.  Consequence requires a bearer.  A system that operates consequentially without an identifiable accountable entity — a human person or legally recognized organization — is a system in which coherence violations can propagate without correction.  The Accountability Principle is not a governance add-on; it is a coherence requirement.
+The second, the **Accountability Principle**, follows from the same coherence criterion by a different path: Every entity that deploys such a system bears accountability for it's effects.  A system that operates consequentially without an accountable entity, a citizen or legally recognized organization, is a system where coherence violations can propagate without notice.  The Accountability Principle is not a governance add-on; it is a coherence maintenance requirement.
 
 Together, these two commitments form the foundation on which the framework's formal architecture ([Part 5](../05-formal-architecture/main.md)), design imperatives ([Part 6](../06-design-principles/main.md)), and governance principles ([Part 8](../08-implications-action/main.md)) rest.  Each protects against the failure mode of the other: the Instrument Thesis without accountability is philosophy without teeth; accountability without the Instrument Thesis is governance without a standard.
 
 ## Where This Part Is Weakest
 
-The transcendental argument for coherence (you can't argue against it without using it) is logically strong but may feel circular to some readers.  The move from "coherence as methodological criterion" to "coherence as flourishing alignment for human systems" is the most contestable step.  It's a defended commitment, not a necessary truth. The physical grounding (thermodynamics → life → coherence) is suggestive but the connection between physical entropy and philosophical coherence may be looser than presented.
+The transcendental argument for coherence (you can't argue against it without using it) is logically strong but may feel circular to some readers.  The move from "coherence as methodological criterion" to "coherence as flourishing alignment for human systems" is the most contestable step.  It's a defended commitment, not a necessary truth.  The physical grounding (thermodynamics → life → coherence) is suggestive but the connection between physical entropy and philosophical coherence may be looser than presented.
 
-**How to contribute:** The weakest link is the operationalization step: why should coherence for human affecting systems mean flourishing alignment specifically?  Alternative operationalizations and arguments for why they fail or succeed would directly test this framework's most load-bearing commitment.  Formal analysis of whether the thermodynamic grounding actually supports the philosophical claims, or merely illustrates them, would contribute to the argument's strength.
+**How to contribute:** The weakest link is the operationalization step: why should coherence for human affecting systems mean flourishing alignment specifically?  Alternative operationalizations and arguments for why they fail or succeed would directly test this framework's most load bearing commitment.  Formal analysis of whether the thermodynamic grounding actually supports the philosophical claims, or merely illustrates them, would contribute to the argument's strength.
 
 **For deeper context:** The formal specification of this criterion like what flourishing requires, how coherence is measured and how commitments are structured is in [Part 5: The Formal Architecture](../05-formal-architecture/main.md).
 
