@@ -10,7 +10,7 @@
 
 > We stand at the precipice of a new Renaissance.
 
-Five centuries ago, a civilization that subordinated human judgment to inherited authority reflected at what it had built, and chose differently.  The original Renaissance was not a technological revolution.  It was a philosophical one, a recognition that human beings are capable of understanding the world, shaping institutions, and bearing responsibility for the consequences.  That insistence required courage because the establishment it challenged was powerful, familiar, and genuinely useful.  It required unity because no single tradition could sustain the claim alone.  It took artists, scientists, philosophers, engineers, merchants and monks, all converging on the same dangerous idea.  Human agency is the distinction that allows to be flourish.
+Five centuries ago, a civilization that subordinated human judgment to inherited authority reflected at what it had built, and chose differently.  The first Renaissance was not a technological revolution.  It was a philosophical recognition that human beings are capable of understanding the world, building institutions, and bearing responsibility for the consequences.  That time required courage to challenge the establishment that was powerful, familiar, and genuinely useful.  It required unity because no single tradition could sustain the claim alone.  It took artists, scientists, philosophers, engineers, merchants and monks, all converging on the same dangerous idea.  Human agency is the distinction that allows to be flourish.
 
 We are at that threshold again.
 
@@ -32,7 +32,7 @@ A system anticipates your breakfast, selects your clothes and plans your day. Ev
 
 And humanity dies anyway.
 
-Not biologically.  The bodies persist.  But agency atrophies like an unused muscle.  When nothing requires your choices, your capacity to choose withers and meaning evaporates.  Humans are built for challenge, not for comfort.  Think about the satisfaction of a problem solved versus the relief of problem resolved.  Creativity dies when machines have better solutions.  Even human connections become shallow performances orchestrated by systems that know what each party wants to hear.
+Not biologically.  The bodies persist.  But agency atrophies like an unused muscle.  When you are not required to make choices, your capacity to choose withers and meaning evaporates.  Humans thrive when challenged, not for comforted.  The satisfaction of a problem solved versus the relief of problem resolved comes from the struggle.  Creativity dies when machines have better solutions.  Even human connections become shallow performances orchestrated by systems that know what each party wants to hear.
 
 This is Reality A: `min(H) × max(AI) → 0
 
@@ -40,7 +40,7 @@ Maximum machine capability multiplied by minimum human agency yields nothing of 
 
 ## The Amplification Renaissance
 
-Now picture a different morning.  You rise when you choose.  Systems ensured good sleep and clean air with background tools, not decision systems. You consider what to eat.  Your options are based on your dietary needs, kitchen inventory, and skill level.  It enables your choices and frees your cognitive load.  It does not make choices for you.
+Now picture a different morning.  You rise when you choose.  Systems ensured good sleep and clean air with background tools, not decision systems. You consider what to eat.  Your options are based on your diet, kitchen, and ambition.  It enables your choices and frees your cognitive load, not make choices for you.
 
 You plan your day with tools that amplify your personal capacity.  Your research assistant compiles background you requested. Your communication system delivers your messages the way you prefer. The friction of gathering information is removed and the freedom to decide what to do remains.  Agency is where your humanity lives.
 
@@ -66,7 +66,7 @@ The technology is identical in both futures.  The machines are equally capable. 
 | **Meaning** | Evaporating | Deepening |
 | **Verdict** | Incoherent | Coherent |
 
-When machines substitute for human agency, it doesn't matter how benevolent the intentions or optimized the outcomes.  Substitution is the philosophical path to extinction.  When machines multiply human agency, amplification becomes exponential, delivering new renaissance.
+When machines substitute for human agency, benevolent intentions and optimized the outcomes don't matter.  Substitution is the philosophical path to extinction.  When machines multiply human agency, amplification becomes exponential, delivering new renaissance.
 
 ## Why This Matters Now
 
