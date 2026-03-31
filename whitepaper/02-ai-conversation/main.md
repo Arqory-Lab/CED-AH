@@ -10,15 +10,15 @@
 
 ## The Landscape
 
-AI safety, AI alignment and AI ethics are active, well funded, serious fields, and each has produced real safety improvements in deployed systems.  Yet the depth of their disagreements reveals a field still working to establish its first principles.  The progress is real, the foundations remain contested.
+AI safety, AI alignment and AI ethics are active, well funded, serious fields.  Each has produced real safety improvements in deployed systems.  Yet the depth of their disagreements reveals a field still working to establish its first principles.  The progress is real, the foundations remain contested.
 
 Three dominant frameworks illustrate the problem:
 
 **Alignment as Value Specification** asks: how do we ensure AI objectives match human values?  This assumes that the agent model is correct and AI systems have, or could have, personal objectives.  It never asks whether there should be an agent to align.
 
-**Safety as Constraint Satisfaction** asks: how do we prevent AI from causing harm?  This assumes we know what "harm" means. But "harm" is a philosophical concept, not a technical one, and the framework provides no philosophical grounding for it.
+**Safety as Constraint Satisfaction** asks: how do we prevent AI from causing harm?  This assumes we know what "harm" means.  But "harm" is a philosophical concept, not a technical one, and the framework provides no philosophical grounding for it.
 
-**Control as Containment** asks: how do we maintain authority over increasingly powerful systems? This assumes AI might develop independent goals that conflict with our own.   This is an adversarial framing that describes designs requiring containment rather than collaboration.
+**Control as Containment** asks: how do we maintain authority over increasingly powerful systems?  This assumes AI might develop independent goals that conflict with our own.  This is an adversarial framing that describes designs requiring containment rather than collaboration.
 
 Each of these is a reasonable starting point, and each has advanced our understanding of real risks.  But all three frameworks share one assumption: **they treat AI as a potential agent.**  Whether focusing on alignment (the agent wants what we want), safety (the agent doesn't cause harm), or control (we maintain authority over the agent), the underlying model is the same.  AI is something with potential objectives, interests, or agency.
 
@@ -52,7 +52,7 @@ The discourse debates derivative issues while leaving foundations unexamined.  F
 
 2. **What criterion determines good vs. bad outcomes?**  Various answers exist.  Pleasure, rights, duty and flourishing each imply a different evaluations of AI systems.  The discourse uses "beneficial" as if it were self explanatory, it isn't.
 
-3. **What should the human-machine relationship be?**  Replacement or amplification? Agent or instrument?  The discourse assumes replacement and potential agency without examining alternatives.
+3. **What should the human machine relationship be?**  Replacement or amplification? Agent or instrument?  The discourse assumes replacement and potential agency without examining alternatives.
 
 4. **What does human flourishing require?**  We build AI to serve human purposes, but we've barely asked what those purposes are.  We might optimize for the wrong objectives like comfort and efficiency instead of agency and meaning.  Because we never asked what flourishing requires.
 
@@ -60,9 +60,9 @@ The discourse debates derivative issues while leaving foundations unexamined.  F
 
 This analysis characterizes the AI discourse broadly.  Individual researchers and organizations have more nuanced positions than the three frameworks described here.  The claim that "no first principle" exists could be challenged by pointing to specific research programs that do ground their work in explicit values.  The agent framing critique is strongest for existential risk oriented discourse and weaker for tool oriented AI research that already treats systems as instruments.
 
-Some existing research programs, including Drexler's Comprehensive AI Services (CAIS) framework, elements of the tool AI literature, and certain strands of AI ethics focused on power and accountability, already challenge the agent assumption.  CED-AH shares their starting intuition that the agent framing is misleading, but differs in providing a complete philosophical derivation from first principles through formal architecture to practical design imperatives.  The contribution is not the intuition (which others share) but the systematic grounding (which the framework claims is missing from existing approaches).
+Some existing research programs, including Drexler's Comprehensive AI Services (CAIS) framework, elements of AI literature, and certain strands of AI ethics focus on power and accountability, already challenging the agent assumption.  CED-AH shares their intuition that the agent framing is misleading, but differs in providing a complete philosophical derivation from first principles through formal architecture to practical design imperatives.  The contribution is not the intuition, which others share, but the systematic grounding which is missing from existing approaches.
 
-**How to contribute:** A detailed survey of existing AI ethics frameworks, mapped to each of the five problems they address (or fails to address), would test whether the assessment is accurate.  Identifying frameworks that do establish first principles would either challenge the claim or reveal why those frameworks haven't achieved broad adoption.
+**How to contribute:** A detailed survey of existing AI ethics frameworks, mapped to each of the five problems they address or fails to address, would test whether the assessment is accurate.  Identifying frameworks that do establish first principles would either challenge the claim or reveal why those frameworks haven't achieved broad adoption.
 
 **For deeper context:** The first principle this framework proposes, coherence, is developed in [Part 3: The Foundation](../03-coherence-foundation/main.md). The ontological question about computation is addressed in [Part 4: From AI to Amplified Humanity](../04-amplified-humanity/main.md).  The framework's response to all five structural problems converges on **Two Commitments**: the **Instrument Thesis** (computational systems are instruments for human flourishing, not agents — addressing the agent framing, substitution assumption, and missing criterion) and the **Accountability Principle** (an identifiable entity must be accountable for every deployed system's effects — addressing the accountability gap and making the first principle enforceable).  See [Part 3](../03-coherence-foundation/main.md) and [Part 4](../04-amplified-humanity/main.md) for derivation; [Part 8](../08-implications-action/main.md) for implications.
 
