@@ -19,7 +19,7 @@ The framework is organized by epistemic status, how certain each claim is, and w
 | **3** | 4 bridges (B1–B4)     | Connecting claims   | Show the bridge premise is false |
 | **4** | Design imperatives    | Derived conclusions | Reject a premise in Tiers 1–3    |
 
-This structure matters because intellectual honesty requires distinguishing between what is genuinely unavoidable and what is strongly argued but contestable.  A framework that claims certainty everywhere will be discredited when the overclaiming is exposed.
+This structure matters because intellectual honesty requires distinguishing between what is genuinely unavoidable and what is strongly argued but contestable.  A framework that claims certainty everywhere will be discredited when over ambitions claims are exposed.
 
 ---
 
@@ -69,9 +69,9 @@ Computational systems, as currently constituted and as projectable from known ph
 
 ### S4 - Substitution Degrades; Amplification Grows
 
-When a system performs a task that a human would otherwise perform, and the human doesn't engage the cognitive processes involved, the human's capacity for that process tends to diminish.  Conversely, when a system extends a human's capacity while requiring active cognitive engagement, the human's capacity tends to grow.
+When a system performs a task that a human would otherwise perform, without human engagement in the cognitive processes, capacity for that process tends to diminish.  Conversely, when a system extends a human's capability while requiring active cognitive engagement, the human's capacity tends to grow.
 
-More precisely, systems can be characterized by their position on a **substitution–amplification continuum**, determined by the degree of active human cognitive engagement they require.  The binary framing (substitution vs. amplification) captures the endpoints; real systems exist along the spectrum.  The same underlying technology can occupy different positions depending on design choices: turn-by-turn voice navigation substitutes for spatial reasoning (the user disengages cognitively), while an interactive map display amplifies spatial reasoning (the user builds a mental model with enhanced data).  The continuum position is a *design choice*, not a property of the technology itself.
+Systems can be characterized by their position on a **substitution - amplification continuum**, determined by the degree of active cognitive engagement required.  The binary framing of "substitution vs. amplification" captures the endpoints where real systems exist along the spectrum.  The same underlying technology can occupy different positions depending on design choices: automotive voice navigation substitutes for spatial reasoning (the user disengages cognitively), while an interactive map display amplifies spatial reasoning (the user builds a mental model with enhanced data).  The continuum position is a *design choice*, not a property of the technology itself.
 
 *Defense:* Supported by automation research, pilot skill atrophy, GPS induced spatial reasoning decline, autocomplete induced composition difficulty.  Extends these findings as a general principle.
 
@@ -107,11 +107,11 @@ From S3 + the premise that *legitimate authority over consequential decisions re
 
 *Note:* The italicized premise is contestable.  One could argue authority requires only reliability, not moral responsibility.  We argue for the moral responsibility interpretation because when decisions affect human lives, the decision maker must be capable of bearing accountability.
 
-*The accountability defense of B2:*  Consider what happens when a system exercising decision-making authority produces a catastrophic error — a misdiagnosis that kills, a sentencing recommendation that destroys a life, a financial decision that wipes out a community.  Someone must be accountable.  If the system lacks agency, the accountability must fall somewhere else: on designers (who cannot anticipate every decision context their system will encounter), on deployers (where responsibility diffuses across procurement committees, IT departments, and institutional policies until no one meaningfully bears it), or on no one (which is incoherent with any functional governance system).  Each alternative fails.  The conclusion: authority over consequential decisions should reside with the entity capable of bearing accountability for those decisions, which requires the capacity for moral responsibility, which requires agency.
+*The accountability defense of B2:*  Consider what happens when a system exercising decision making authority produces a catastrophic error - a misdiagnosis that kills, a sentencing recommendation that destroys a life, a financial decision that wipes out a community.  Someone must be accountable.  If the system lacks agency, accountability must fall somewhere else.  Designers who cannot anticipate every decision context their system will encounter?  Deployers, where responsibility diffuses across procurement committees, IT departments, and institutional policies until no one meaningfully bears it?  Or on no one, which is incoherent with any functional governance system.  Each alternative fails as authority over consequential decisions should reside with the entity capable of bearing accountability for those decisions, which requires the capacity for moral responsibility.
 
-*Addressing the accuracy objection:*  A critic may argue that if a diagnostic system is more accurate than any physician, authority *should* transfer to the system regardless of accountability considerations.  This conflates two distinct properties.  Accuracy is a property of outputs; authority is a property of decision-making.  A system can be maximally accurate while the human retains authority — this *is* the Amplified Humanity model.  The physician who uses a highly accurate diagnostic tool and follows its recommendation has exercised authority.  The physician who is removed from the loop because the system "knows better" has had authority transferred to an entity that cannot bear accountability for error.  The quality of the information does not determine who should decide.
+*Addressing the accuracy objection:*  A critic may argue that if a diagnostic system is more accurate than any physician, authority *should* transfer to the system regardless of accountability considerations.  This conflates two distinct properties.  Accuracy is a property of outputs; authority is a property of decision-making.  A system can be maximally accurate while the human retains authority - this *is* the Amplified Humanity model.  The physician who uses a highly accurate diagnostic tool and follows its recommendation has exercised authority.  The physician who is removed from the loop because the system "knows better" has had authority transferred to an entity that cannot bear accountability for error.  The quality of the information does not determine who should decide.
 
-*The time-critical edge case:*  In genuinely time-critical situations where human deliberation would itself cause harm, human-defined parameters with automated execution constitutes delegation of execution within human-set boundaries, not transfer of authority.  The human who sets the parameters bears accountability for the parameter choices; the system executes within those bounds.  This is analogous to a physician writing standing orders — the authority remains with the physician, even though the nurse executes without consulting them in real time.
+*The time-critical edge case:*  In genuinely time critical situations where human deliberation would itself cause harm, parameters with automated execution constitutes delegation of execution within human defined boundaries, not transfer of authority.  The human who sets the parameters bears accountability for the parameter choices; the system executes within those bounds.  This is analogous to a physician writing standing orders, the authority remains with the physician, even though the nurse executes without consulting them in real time.
 
 **B3 - The Amplification Bridge**
 From S4 + S2 + B1: systems that substitute for human cognitive engagement decrease coherence.  Systems that require human engagement while extending its reach increase coherence.
@@ -121,7 +121,7 @@ From S5 + B1: irreversible degradation of flourishing conditions is categoricall
 
 ---
 
-## Tier 4: The Five Design Imperatives (Derived)
+## Tier 4: The Five Design Imperatives - Derived
 
 Everything here is *output*, not input.  Each imperative is a theorem of Tiers 1–3.
 
@@ -156,7 +156,7 @@ A reader who accepts all premises in Tiers 1–3 is committed to these conclusio
 
 ### The Architecture and Both Commitments
 
-This formal architecture establishes the *what* — what computational systems are (instruments), what design constraints follow (five imperatives), and what would count as violation (the failure taxonomy in [Part 7](../07-applications-failures/main.md)).  The **Accountability Principle** ([Part 3](../03-coherence-foundation/main.md), [Part 8](../08-implications-action/main.md)) establishes the *who* — which entity answers when the architecture's constraints are violated.  Together, these constitute the framework's **Two Commitments**: the Instrument Thesis formalized here, and the Accountability Principle that ensures the formalization produces safety in practice, not merely in theory.
+This formal architecture establishes the *what* - what computational systems are (instruments), what design constraints follow (five imperatives), and what would count as violation (the failure taxonomy in [Part 7](../07-applications-failures/main.md)).  The **Accountability Principle** ([Part 3](../03-coherence-foundation/main.md), [Part 8](../08-implications-action/main.md)) establishes the *who* - which entity answers when the architecture's constraints are violated.  Together, these constitute the framework's **Two Commitments**: the Instrument Thesis formalized here, and the Accountability Principle that ensures the formalization produces safety in practice, not merely in theory.
 
 ---
 
