@@ -10,15 +10,15 @@
 
 ## The Language Problem
 
-"Artificial intelligence" is not a neutral term.  It carries two assumptions that shape everything built under its banner.
+The term "Artificial Intelligence" is not neutral. It makes two assumptions that affect everything made with it.
 
 **"Artificial" implies replacement.**  Artificial sweeteners replace sugar.  Artificial flowers replace real flowers.  Artificial intelligence replaces... human intelligence?
 
-**"Intelligence" implies mind.**  We attribute intelligence to beings that think, understand, and choose.  Calling a system "intelligent" implies it has, or could have, these capacities.
+**"Intelligence" implies mind.**  We attribute intelligence to entities that think, understand, and choose.  Calling a system "intelligent" implies it has these capabilities.
 
 Together, the phrase suggests: *a mind made by humans, standing as an alternative to human minds.*  This framing leads directly to the agent model, the substitution assumption, and the containment oriented design philosophy diagnosed in [Part 2](../02-ai-conversation/main.md).
 
-The consequences are predictable.  In research, success means "can the machine do X better than a human?"  In design, the ideal system needs no human input.  In governance, regulations address AI "decision making" as if AI makes decisions.  In public discourse, narratives oscillate between AI-as-savior and AI-as-threat, both assuming agency.
+The consequences are predictable.  In research, success means "can the machine do X better than a human?"  In design, the ideal system needs no human input.  In governance, regulations address AI "decision making" as if AI makes decisions.  In public discourse, narratives oscillate between "AI savior" and "AI threat", both assume agency.
 
 The language could be different.  We don't say "artificial carpentry", we say "power tools."  The tool framing doesn't imply agency.  It implies use.  A tool is wielded, not negotiated with.
 
@@ -26,7 +26,7 @@ The language could be different.  We don't say "artificial carpentry", we say "p
 
 Before reframing the language, we need the ontological facts.  What is computation?
 
-Computation is the manipulation of symbols according to rules.  It requires: physical hardware, energy, human created design, human implementation, and ongoing human maintenance.  Every link in this chain depends on human activity.
+Computation is the storage and manipulation of symbols according to code.  It requires: physical hardware, energy, human created design, human implementation, and ongoing human maintenance.  Every link in this chain depends on human activity.
 
 Consider two categories of phenomena:
 
@@ -46,7 +46,7 @@ This framework scores agency as a conjunction.  A system must satisfy all condit
 
 | Condition                 | Current systems                                             |
 | ------------------------- | ----------------------------------------------------------- |
-| Self sustaining existence | ✗ Requires external power, maintenance, infrastructure      |
+| Self sustaining existence | ✗ Requires power, maintenance, infrastructure      |
 | Genuine self model        | ✗ Models tokens, not selves                                 |
 | Goal generation           | ✗ Optimizes for training objectives, doesn't generate goals |
 | Volition                  | ✗ Executes programs, doesn't will                           |
@@ -54,45 +54,45 @@ This framework scores agency as a conjunction.  A system must satisfy all condit
 
 Current systems fail all five.  Since the scoring is conjunctive, failure on any single condition yields agency = 0.
 
-This is a deliberately demanding threshold.  If agency is the basis for moral status and decision making authority, the bar for attributing it should be high.  Current computational systems, including the most advanced language models, are sophisticated pattern matching engines, not agents.
+This is a deliberately demanding threshold.  If agency is the basis for moral status and decision making authority, the bar for attributing it should be high.  Currently all computational systems are sophisticated pattern matching engines not agents.
 
-### Why Each Condition Is Individually Necessary
+### Why Each Condition Is Important
 
 The conjunction is not arbitrary.  Each condition captures something without which "agency" becomes a misleading label:
 
 - **Without goal generation,** a system is an *optimizer* — it pursues objectives given to it, however sophisticated its pursuit.  An optimizer that appears to "want" things is exhibiting optimization pressure, not desire.
-- **Without volition,** a system is a *reflex* — it responds to inputs according to patterns, however complex the patterns.  Reflex systems can be unpredictable without being willful.
-- **Without a genuine self-model,** a system cannot distinguish itself from its environment, cannot reflect on its own states, and cannot engage in the kind of recursive self-awareness that moral responsibility requires.  Token prediction about the concept of self-reference is not self-reference.
+- **Without volition,** a system is a *reflex* — it responds to inputs according to patterns, however complex the patterns.  Reflex systems are unpredictable without being willful.
+- **Without a genuine self-model,** a system cannot distinguish itself from its environmental attributes, cannot reflect on its own experience, and cannot engage in the kind of self awareness that moral responsibility requires.  Token prediction about the concept of self reference is not self reference.
 - **Without operational independence,** a system is a *tool* — which is precisely what this framework claims computational systems are.  Dependency on continuous human support at every level (design, infrastructure, power, maintenance) is not a contingent feature that engineering might overcome; it reflects the ontological category.
 - **Without moral responsibility capacity,** a system cannot bear accountability for its actions, and therefore cannot legitimately hold authority over consequential decisions (see the [B2 accountability defense](../05-formal-architecture/main.md)).
 
 ### Why the Scoring Must Be Conjunctive
 
-Agency is a unified phenomenon, not a collection of independent properties that can be accumulated piecemeal.  You do not get partial agency from meeting three of five conditions, any more than you get a partial triangle from drawing two of three sides.  A system that generates goals but cannot bear moral responsibility for pursuing them is not "60% an agent" — it is a sophisticated optimizer that requires human oversight.  The conjunction captures the *unity* of agency: the conditions are not a checklist of features but aspects of a single integrated capacity.
+Agency is a unified phenomenon, not a collection of independent properties that can be accumulated piecemeal.  You do not get partial agency from meeting three of five conditions.  A system that generates goals but cannot bear moral responsibility for pursuing them is not "60% an agent".  It is a sophisticated optimizer that requires human oversight.  The conjunction captures the *unity* of agency.  The conditions are not a checklist of features but aspects of an integrated capability.
 
-A disjunctive test (agency if *any* condition is met above threshold) would attribute agency to thermostats (goal-directed behavior), to self-driving cars (operational independence in narrow domains), and to large language models (sophisticated self-referential token generation).  The disjunctive test would make "agency" so common as to be analytically useless — which is precisely why the AI safety field's implicit disjunctive assumptions lead to the confused discourse diagnosed in [Part 2](../02-ai-conversation/main.md).
+A disjunctive test (agency if *any* condition is met above threshold) would attribute agency to thermostats (goal-directed behavior), to self-driving cars (operational independence in narrow domains), and to large language models (sophisticated self-referential token generation).  The disjunctive test would make "agency" so common as to be analytically useless.  This leads to implicit disjunctive assumptions and the confused discourse diagnosed in [Part 2](../02-ai-conversation/main.md).
 
 ### The Infant Objection
 
 A predictable challenge: *Infants fail most of these conditions.  Are infants not agents?*
 
-The answer distinguishes between *developing* agency along a biological trajectory and *lacking* agency in an engineered artifact.  An infant is on a developmental trajectory toward full agency — a trajectory grounded in biological maturation, embodied experience, and social embedding that no computational system shares.  The infant's dependency is temporary and self-resolving; the computational system's dependency is structural and permanent (absent fundamental breakthroughs in physics and engineering that would constitute a different kind of system entirely).  Attributing proto-agency to an infant on a developmental trajectory is categorically different from attributing agency to a system that has no such trajectory.
+The answer distinguishes between *developing* agency along a biological trajectory and *lacking* agency in an engineered artifact.  An infant is on a developmental trajectory toward full agency grounded in biological maturation, embodied experience, and social embedding that no computational system shares.  The infant's dependency is temporary and self resolving; the computational system's dependency is structural and permanent (absent fundamental breakthroughs in physics and engineering that would constitute a different kind of system entirely).  Attributing proto-agency to an infant on a developmental trajectory is categorically different from attributing agency to a system that has no such trajectory.
 
 ### Concrete Revision Triggers
 
-S3 is scoped to "currently constituted and projectable."  Revision would be required if a system demonstrated any of the following — not in principle, but in reproducible, independently verified practice:
+S3 is scoped to "currently constituted and projectable."  Revision would be required if a system demonstrated any of the following - not in principle, but in reproducible, independently verified practice:
 
-1. **Operational continuity independent of external support** — the system maintains its existence and function without human-provided power, infrastructure, or maintenance
-2. **Novel goal generation not traceable to training objectives** — the system pursues ends that cannot be explained as optimization of its training signal or any derivative thereof
-3. **Genuine self-reference** — the system demonstrates recursive self-awareness (not token prediction about the concept of self-awareness, but actual self-modeling that affects its behavior in ways the system can reflect upon)
+1. **Operational continuity independent of external support** - the system maintains its existence and function without human-provided power, infrastructure, or maintenance
+2. **Novel goal generation not traceable to training objectives** - the system pursues ends that cannot be explained as optimization of its training signal or any derivative thereof
+3. **Genuine self-reference** - the system demonstrates recursive self awareness (not token prediction about the concept of self awareness, but actual self modeling that affects its behavior in ways the system can reflect upon)
 
-These triggers are deliberately specific.  Vague thresholds like "approaching human-level" invite premature revision.  The framework's intellectual honesty requires that revision conditions be as clear as the claims they would revise.
+These triggers are deliberately specific.  Vague thresholds like "approaching human level" invite premature revision.  Intellectual honesty requires that revision conditions be as clear as the claims they would revise.
 
 ## The Reframe: Amplified Humanity
 
 With the ontology established, computation is human dependent, not independent. The proper framing follows:
 
-**"Amplified"** implies enhancement, not replacement.  An amplifier increases the power of something that already exists.  A microphone amplifies a voice; it doesn't replace the voice.  A telescope amplifies vision; it doesn't replace the eye.
+**"Amplified"** implies enhancement - an amplifier increases the power of something that already exists.  A microphone amplifies a voice; it doesn't replace the voice.  A telescope amplifies vision; it doesn't replace the eye.
 
 **"Humanity"** centers the human.  The subject is humanity, not the machine.  The human is what is being amplified.  The human remains central.
 
@@ -128,17 +128,17 @@ This isn't cosmetic.  Calling these systems "Amplified Humanity" embeds four cor
 1. **Ontological accuracy:** Reflects what these systems are,  human dependent instruments, not independent entities.
 2. **Design orientation:** Embeds the correct priority, human flourishing, not machine capability.
 3. **Relationship clarity:** Amplification, not replacement.
-4. **Ethical grounding:** Aligned with the coherence criterion, an increase in human coherence, don't substitute for human agency.
+4. **Ethical grounding:** In alignment with the coherence criterion, increasing human coherence, not a substitute for human agency.
 
-As long as we call these systems "artificial intelligence," we will think of them as alternatives to human intelligence, and we will design them that way.
+As long as we call these systems "artificial intelligence," they will be thought of as alternatives to human intelligence, and designs will follow the imperative.
 
-### The Other Half: Accountability
+### Accountability
 
-The ontological argument in this chapter establishes what computational systems are — instruments, not agents.  This is the first of the framework's **Two Commitments**: the **Instrument Thesis** (the *what*).  But an instrument that harms without consequence is a weapon without a safety.  If no one is answerable for what a system does, calling it an instrument changes nothing in practice.
+The ontological argument in this chapter establishes what computational systems are - instruments, not agents.  This is the first of the framework's **Two Commitments**: the **Instrument Thesis** (the *what*).  But an instrument that acts without consequence could be a weapon without a safety.  If no one is answerable for what a system does, calling it an instrument changes nothing in practice.
 
-The second commitment — the **Accountability Principle** (the *who*) — requires that an identifiable entity, a human person or a legally recognized organization, bears responsibility for the design, deployment, and effects of every computational system.  Since the system itself cannot bear moral responsibility (agency = 0), accountability cannot stop at the machine.  It must trace to someone who can be held to account: someone who can explain, correct, compensate, and be sanctioned.
+The second commitment, the **Accountability Principle** (the *who*), requires that an identifiable entity, a human person or a legally recognized organization, who bears responsibility for the design, deployment, and effects of computational systems.  Since the system itself has an agency of zero, accountability cannot reside with the machine.  It must follow someone who can be held responsible - someone who can explain, correct, compensate, and be sanctioned.
 
-The two commitments interlock.  The Instrument Thesis without accountability is toothless: a correct ontology with no enforcement mechanism.  The Accountability Principle without the Instrument Thesis is aimless: enforcement with no standard for what counts as responsible design.  Together they provide both the standard and the enforcement that coherent governance of computational systems requires (see [Part 3](../03-coherence-foundation/main.md), [Part 5](../05-formal-architecture/main.md), and [Part 8](../08-implications-action/main.md)).
+The two commitments interlock.  The Instrument Thesis without accountability is toothless: a correct ontology with no enforcement mechanism.  The Accountability Principle without the Instrument Thesis is aimless: enforcement with no standard for what counts as responsible design.  Together, both the standard and the enforcement, provide what coherent governance of computational systems requires (see [Part 3](../03-coherence-foundation/main.md), [Part 5](../05-formal-architecture/main.md), and [Part 8](../08-implications-action/main.md)).
 
 ## Where This Part Is Weakest
 
