@@ -2,7 +2,7 @@
 
 [← Part 5](../05-formal-architecture/main.md) | [Back to Index](../00-overview/main.md) | [Next: Part 7 →](../07-applications-failures/main.md)
 
-**What this part does:** Translates the formal architecture into practical design guidance.  The master principle, five imperatives in actionable form, the integration architecture, and a hierarchy for resolving conflicts between obligations.
+**What this part does:** Translates the formal architecture into practical design guidance.  The master principle, five imperatives in actionable form, the integration architecture and a hierarchy for resolving conflicts between obligations.
 
 **What you need first:** [Part 5](../05-formal-architecture/main.md) derives the imperatives formally. This part makes them buildable.
 
@@ -141,12 +141,12 @@ When imperatives conflict, resolve by priority:
 
 **When in doubt:** Preserve human authority.
 
-**Who answers when the hierarchy is violated:** The obligation hierarchy specifies *what* must be preserved and in what order.  The **Accountability Principle** — the second of the framework's Two Commitments — specifies *who* bears responsibility when the hierarchy fails.  An identifiable entity (a human person or legally recognized organization) must be accountable for the design, deployment, and operation of every AH system.  Without this, the hierarchy is unenforceable: violations propagate without correction, failures accumulate without consequence, and the entire design architecture becomes aspirational rather than binding.  The integration layer enforces the *what*; accountability enforces the *who*.  Both are necessary (see [Part 3](../03-coherence-foundation/main.md) and [Part 8](../08-implications-action/main.md)).
+**Who answers when the hierarchy is violated:** The obligation hierarchy specifies *what* must be preserved and in what order.  The **Accountability Principle** - the second of the framework's Two Commitments - specifies *who* bears responsibility when the hierarchy fails.  An identifiable entity (a human person or legally recognized organization) must be accountable for the design, deployment, and operation of every AH system.  Without this, the hierarchy is unenforceable: violations propagate without correction, failures accumulate without consequence, and the entire design architecture becomes aspirational rather than binding.  The integration layer enforces the *what*; accountability enforces the *who*.  Both are necessary (see [Part 3](../03-coherence-foundation/main.md) and [Part 8](../08-implications-action/main.md)).
 
 *Example conflicts:*
 - User wants a fast answer; transparency requires explanation → Transparency (L2) beats speed (L3).  Provide explanation, but concise.
-- Decision making would be faster than option presentation → Agency preservation (L1) prohibits.  Present options regardless of efficiency cost.
-- Honest uncertainty might reduce user confidence → Calibrated honesty (L2) beats user comfort (L3).  Communicate uncertainty honestly.
+- Decision making would be faster than option presentation → Agency preservation (L1) prohibits.  Present options regardless of efficiency cost while operationally feasible.
+- Honest uncertainty might reduce user confidence → Calibrated honesty (L2) beats user comfort (L3).  Communicate uncertainty honestly while supporting sound decisions.
 
 ---
 
