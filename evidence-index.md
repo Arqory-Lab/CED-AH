@@ -61,6 +61,13 @@ _Why current AI safety and alignment frameworks fail._
 | phil-027 | Philosophical | [Floridi/Chiriatti GPT-3 analysis](whitepaper/02-ai-conversation/evidence/philosophy/phil-027.md) | Strong | 2.2, 4.1, 4.3 |
 | phil-028 | Philosophical | [Haugeland GOFAI analysis](whitepaper/02-ai-conversation/evidence/philosophy/phil-028.md) | Moderate | 2.1, 2.2 |
 | phil-032 | Philosophical | [Shanahan Talking About LLMs](whitepaper/02-ai-conversation/evidence/philosophy/phil-032.md) | Strong | 2.2, 2.3 |
+| tech-001 | Technical | [Amodei et al. Concrete Problems in AI Safety](whitepaper/02-ai-conversation/evidence/technical/tech-001.md) | Moderate | 2.2 |
+| tech-002 | Technical | [Bai et al. Helpful and Harmless RLHF](whitepaper/02-ai-conversation/evidence/technical/tech-002.md) | Moderate | 2.2, 2.3 |
+| tech-003 | Technical | [Bostrom Superintelligence](whitepaper/02-ai-conversation/evidence/technical/tech-003.md) | Strong | 2.1, 2.2, 4.1 |
+| tech-004 | Technical | [Christian Alignment Problem](whitepaper/02-ai-conversation/evidence/technical/tech-004.md) | Moderate | 2.1, 2.2 |
+| tech-006 | Technical | [Gabriel AI values and alignment](whitepaper/02-ai-conversation/evidence/technical/tech-006.md) | Strong | 2.2, 8.2 |
+| tech-008 | Technical | [Ngo et al. alignment from deep learning perspective](whitepaper/02-ai-conversation/evidence/technical/tech-008.md) | Strong | 2.2 |
+| tech-009 | Technical | [Russell Human Compatible assistance games](whitepaper/02-ai-conversation/evidence/technical/tech-009.md) | Strong | 2.2, 4.1 |
 
 **Known gaps:**
 - Systematic review of definitional inconsistency in "alignment" across major research groups
@@ -129,6 +136,8 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
 | phil-036 | Philosophical | [Vallor Technology and the Virtues](whitepaper/06-design-principles/evidence/philosophy/phil-036.md) | Strong | 6.1, 8.2 |
+| tech-005 | Technical | [Christiano et al. RLHF methodology](whitepaper/06-design-principles/evidence/technical/tech-005.md) | Moderate | 6.1 |
+| tech-007 | Technical | [Hadfield-Menell et al. inverse reward design](whitepaper/06-design-principles/evidence/technical/tech-007.md) | Moderate | 6.1 |
 
 **Known gaps:**
 -
@@ -141,7 +150,7 @@ _Domain applications (healthcare, legal, education, business), systematic failur
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| | | | | |
+| tech-010 | Technical | [Weidinger et al. LLM risk taxonomy](whitepaper/07-applications-failures/evidence/technical/tech-010.md) | Strong | 7.1, 7.2 |
 
 **Known gaps:**
 -
@@ -168,14 +177,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 30 |
+| Total evidence items | 40 |
 | Philosophical | 30 |
 | Historical | 0 |
 | Mathematical | 0 |
 | Empirical | 0 |
-| Technical | 0 |
-| Rated Strong | 22 |
-| Rated Moderate | 8 |
+| Technical | 10 |
+| Rated Strong | 27 |
+| Rated Moderate | 13 |
 | Rated Suggestive | 0 |
 | Known evidence gaps | 0 |
 
@@ -193,6 +202,9 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | phil-027 | Part 2 | Part 4 (§4.1, §4.3) |
 | phil-036 | Part 6 | Part 8 (§8.2) |
 | phil-038 | Part 1 | Part 8 (§8.1) |
+| tech-003 | Part 2 | Part 4 (§4.1) |
+| tech-006 | Part 2 | Part 8 (§8.2) |
+| tech-009 | Part 2 | Part 4 (§4.1) |
 
 ---
 
