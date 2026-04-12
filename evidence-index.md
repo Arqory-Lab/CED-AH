@@ -41,6 +41,7 @@ _The choice between replacement-default and amplification-first AI development._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
+| emp-003 | Empirical | [Carr Glass Cage substitution myth](whitepaper/01-two-futures/evidence/empirical/emp-003.md) | Moderate | 1.1, 1.2 |
 | phil-037 | Philosophical | [Winner Do Artifacts Have Politics](whitepaper/01-two-futures/evidence/philosophy/phil-037.md) | Strong | 1.1, 1.2 |
 | phil-038 | Philosophical | [Zuboff Surveillance Capitalism](whitepaper/01-two-futures/evidence/philosophy/phil-038.md) | Strong | 1.1, 1.2, 8.1 |
 
@@ -110,6 +111,12 @@ _The instrument/agent distinction, capability amplification, and the AH reframe.
 | phil-030 | Philosophical | [Searle Chinese Room argument](whitepaper/04-amplified-humanity/evidence/philosophy/phil-030.md) | Strong | 4.1, 4.2, 4.3 |
 | phil-031 | Philosophical | [Searle Rediscovery of the Mind](whitepaper/04-amplified-humanity/evidence/philosophy/phil-031.md) | Strong | 4.1, 4.2 |
 | phil-034 | Philosophical | [Floridi/Sanders artificial moral agents](whitepaper/04-amplified-humanity/evidence/philosophy/phil-034.md) | Strong | 4.1, 4.2, 4.3 |
+| emp-013 | Empirical | [de Groot chess expertise chunking](whitepaper/04-amplified-humanity/evidence/empirical/emp-013.md) | Strong | 4.2, 4.3 |
+| emp-015 | Empirical | [Gigerenzer ecological rationality](whitepaper/04-amplified-humanity/evidence/empirical/emp-015.md) | Moderate | 4.2, 4.3 |
+| emp-016 | Empirical | [Gigerenzer et al. Simple Heuristics formal](whitepaper/04-amplified-humanity/evidence/empirical/emp-016.md) | Strong | 4.2, 4.3 |
+| emp-017 | Empirical | [Kahneman Thinking Fast and Slow](whitepaper/04-amplified-humanity/evidence/empirical/emp-017.md) | Strong | 4.2, 7.1 |
+| emp-019 | Empirical | [Klein Sources of Power RPD](whitepaper/04-amplified-humanity/evidence/empirical/emp-019.md) | Strong | 4.2, 4.3 |
+| emp-022 | Empirical | [Tetlock & Gardner Superforecasting](whitepaper/04-amplified-humanity/evidence/empirical/emp-022.md) | Strong | 4.3, 4.4 |
 
 **Known gaps:**
 -
@@ -123,6 +130,7 @@ _Formal axiom structure: the four CED axioms, derivations, and mathematical foun
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
 | phil-005 | Philosophical | [Goldman reliabilism and epistemic cognition](whitepaper/05-formal-architecture/evidence/philosophy/phil-005.md) | Moderate | 5.2, 5.3 |
+| emp-020 | Empirical | [Simon Sciences of the Artificial bounded rationality](whitepaper/05-formal-architecture/evidence/empirical/emp-020.md) | Strong | 5.1, 5.2 |
 
 **Known gaps:**
 -
@@ -138,6 +146,14 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 | phil-036 | Philosophical | [Vallor Technology and the Virtues](whitepaper/06-design-principles/evidence/philosophy/phil-036.md) | Strong | 6.1, 8.2 |
 | tech-005 | Technical | [Christiano et al. RLHF methodology](whitepaper/06-design-principles/evidence/technical/tech-005.md) | Moderate | 6.1 |
 | tech-007 | Technical | [Hadfield-Menell et al. inverse reward design](whitepaper/06-design-principles/evidence/technical/tech-007.md) | Moderate | 6.1 |
+| emp-002 | Empirical | [Billings Aviation Automation human-centered](whitepaper/06-design-principles/evidence/empirical/emp-002.md) | Strong | 6.1, 6.2 |
+| emp-004 | Empirical | [Endsley From Here to Autonomy lessons](whitepaper/06-design-principles/evidence/empirical/emp-004.md) | Strong | 6.1, 6.2 |
+| emp-007 | Empirical | [Hoffman et al. Trust in Automation calibration](whitepaper/06-design-principles/evidence/empirical/emp-007.md) | Moderate | 6.1, 6.2 |
+| emp-008 | Empirical | [Lee & See trust model appropriate reliance](whitepaper/06-design-principles/evidence/empirical/emp-008.md) | Strong | 6.1, 6.2 |
+| emp-010 | Empirical | [Parasuraman et al. levels of automation](whitepaper/06-design-principles/evidence/empirical/emp-010.md) | Strong | 6.1, 6.2 |
+| emp-011 | Empirical | [Shneiderman Human-Centered AI](whitepaper/06-design-principles/evidence/empirical/emp-011.md) | Strong | 6.1, 6.2, 6.3 |
+| emp-012 | Empirical | [Wickens et al. Engineering Psychology](whitepaper/06-design-principles/evidence/empirical/emp-012.md) | Strong | 6.1, 6.2 |
+| emp-014 | Empirical | [Ericsson deliberate practice expertise](whitepaper/06-design-principles/evidence/empirical/emp-014.md) | Strong | 6.1 |
 
 **Known gaps:**
 -
@@ -151,6 +167,12 @@ _Domain applications (healthcare, legal, education, business), systematic failur
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
 | tech-010 | Technical | [Weidinger et al. LLM risk taxonomy](whitepaper/07-applications-failures/evidence/technical/tech-010.md) | Strong | 7.1, 7.2 |
+| emp-001 | Empirical | [Bainbridge Ironies of Automation](whitepaper/07-applications-failures/evidence/empirical/emp-001.md) | Strong | 7.1, 7.2 |
+| emp-005 | Empirical | [Endsley & Kiris out-of-the-loop performance](whitepaper/07-applications-failures/evidence/empirical/emp-005.md) | Strong | 7.2, 7.1 |
+| emp-006 | Empirical | [Hancock AV pitfalls](whitepaper/07-applications-failures/evidence/empirical/emp-006.md) | Moderate | 7.3, 7.1 |
+| emp-009 | Empirical | [Parasuraman & Riley use/misuse/disuse/abuse](whitepaper/07-applications-failures/evidence/empirical/emp-009.md) | Strong | 7.1, 7.2 |
+| emp-018 | Empirical | [Kahneman et al. Noise judgment variability](whitepaper/07-applications-failures/evidence/empirical/emp-018.md) | Moderate | 7.1, 7.3 |
+| emp-021 | Empirical | [Tetlock Expert Political Judgment](whitepaper/07-applications-failures/evidence/empirical/emp-021.md) | Strong | 7.1, 7.2 |
 
 **Known gaps:**
 -
@@ -177,14 +199,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 40 |
+| Total evidence items | 62 |
 | Philosophical | 30 |
 | Historical | 0 |
 | Mathematical | 0 |
-| Empirical | 0 |
+| Empirical | 22 |
 | Technical | 10 |
-| Rated Strong | 27 |
-| Rated Moderate | 13 |
+| Rated Strong | 43 |
+| Rated Moderate | 19 |
 | Rated Suggestive | 0 |
 | Known evidence gaps | 0 |
 
@@ -205,6 +227,7 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | tech-003 | Part 2 | Part 4 (§4.1) |
 | tech-006 | Part 2 | Part 8 (§8.2) |
 | tech-009 | Part 2 | Part 4 (§4.1) |
+| emp-017 | Part 4 | Part 7 (§7.1) |
 
 ---
 
