@@ -74,6 +74,10 @@ _Coherence as the first principle, derived from first principles._
 | phil-006 | Philosophical | [Haack foundherentism](whitepaper/03-coherence-foundation/evidence/philosophy/phil-006.md) | Strong | 3.1, 3.4 |
 | phil-007 | Philosophical | [Kant transcendental deduction](whitepaper/03-coherence-foundation/evidence/philosophy/phil-007.md) | Strong | 3.1, 3.3 |
 | phil-008 | Philosophical | [Lehrer coherentist theory of knowledge](whitepaper/03-coherence-foundation/evidence/philosophy/phil-008.md) | Moderate | 3.1, 3.2 |
+| phil-009 | Philosophical | [Quine Two Dogmas confirmation holism](whitepaper/03-coherence-foundation/evidence/philosophy/phil-009.md) | Strong | 3.1, 5.2 |
+| phil-010 | Philosophical | [Sellars Myth of the Given](whitepaper/03-coherence-foundation/evidence/philosophy/phil-010.md) | Strong | 3.1, 3.2 |
+| phil-011 | Philosophical | [Sosa virtue epistemology](whitepaper/03-coherence-foundation/evidence/philosophy/phil-011.md) | Moderate | 3.2, 3.4 |
+| phil-012 | Philosophical | [Thagard coherence as constraint satisfaction](whitepaper/03-coherence-foundation/evidence/philosophy/phil-012.md) | Strong | 3.1, 3.2, 6.1 |
 
 **Known gaps:**
 - Formal comparison of coherence-first vs. utility-first axiom systems
@@ -151,14 +155,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 8 |
-| Philosophical | 8 |
+| Total evidence items | 12 |
+| Philosophical | 12 |
 | Historical | 0 |
 | Mathematical | 0 |
 | Empirical | 0 |
 | Technical | 0 |
-| Rated Strong | 4 |
-| Rated Moderate | 4 |
+| Rated Strong | 7 |
+| Rated Moderate | 5 |
 | Rated Suggestive | 0 |
 | Known evidence gaps | 0 |
 
@@ -170,7 +174,8 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 
 | Evidence ID | Home Part | Also Referenced In |
 |---|---|---|
-| <!-- e.g., emp-007 --> | <!-- e.g., Part 3 --> | <!-- e.g., Part 6, Part 7 --> |
+| phil-009 | Part 3 | Part 5 (§5.2) |
+| phil-012 | Part 3 | Part 6 (§6.1) |
 
 ---
 
