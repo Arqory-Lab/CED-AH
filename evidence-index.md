@@ -41,7 +41,8 @@ _The choice between replacement-default and amplification-first AI development._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| <!-- hist-001 --> | <!-- Historical --> | <!-- [Title](whitepaper/01-two-futures/evidence/hist-001.md) --> | <!-- Strong --> | <!-- 1.2 --> |
+| phil-037 | Philosophical | [Winner Do Artifacts Have Politics](whitepaper/01-two-futures/evidence/philosophy/phil-037.md) | Strong | 1.1, 1.2 |
+| phil-038 | Philosophical | [Zuboff Surveillance Capitalism](whitepaper/01-two-futures/evidence/philosophy/phil-038.md) | Strong | 1.1, 1.2, 8.1 |
 
 **Known gaps:**
 - Longitudinal data on societal outcomes of automation-first vs. augmentation-first deployments
@@ -54,7 +55,12 @@ _Why current AI safety and alignment frameworks fail._
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| | | | | |
+| phil-023 | Philosophical | [Dennett intentional stance](whitepaper/02-ai-conversation/evidence/philosophy/phil-023.md) | Strong | 2.3, 4.2, 4.3 |
+| phil-025 | Philosophical | [Dreyfus What Computers Can't Do](whitepaper/02-ai-conversation/evidence/philosophy/phil-025.md) | Moderate | 2.1, 2.2 |
+| phil-026 | Philosophical | [Dreyfus What Computers Still Can't Do](whitepaper/02-ai-conversation/evidence/philosophy/phil-026.md) | Strong | 2.1, 2.2 |
+| phil-027 | Philosophical | [Floridi/Chiriatti GPT-3 analysis](whitepaper/02-ai-conversation/evidence/philosophy/phil-027.md) | Strong | 2.2, 4.1, 4.3 |
+| phil-028 | Philosophical | [Haugeland GOFAI analysis](whitepaper/02-ai-conversation/evidence/philosophy/phil-028.md) | Moderate | 2.1, 2.2 |
+| phil-032 | Philosophical | [Shanahan Talking About LLMs](whitepaper/02-ai-conversation/evidence/philosophy/phil-032.md) | Strong | 2.2, 2.3 |
 
 **Known gaps:**
 - Systematic review of definitional inconsistency in "alignment" across major research groups
@@ -90,7 +96,13 @@ _The instrument/agent distinction, capability amplification, and the AH reframe.
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| | | | | |
+| phil-021 | Philosophical | [Block A/P consciousness distinction](whitepaper/04-amplified-humanity/evidence/philosophy/phil-021.md) | Strong | 4.2, 4.3 |
+| phil-022 | Philosophical | [Chalmers hard problem of consciousness](whitepaper/04-amplified-humanity/evidence/philosophy/phil-022.md) | Strong | 4.2, 4.3 |
+| phil-024 | Philosophical | [Dennett Consciousness Explained](whitepaper/04-amplified-humanity/evidence/philosophy/phil-024.md) | Strong | 4.2, 4.3 |
+| phil-029 | Philosophical | [Nagel What Is It Like to Be a Bat](whitepaper/04-amplified-humanity/evidence/philosophy/phil-029.md) | Strong | 4.2 |
+| phil-030 | Philosophical | [Searle Chinese Room argument](whitepaper/04-amplified-humanity/evidence/philosophy/phil-030.md) | Strong | 4.1, 4.2, 4.3 |
+| phil-031 | Philosophical | [Searle Rediscovery of the Mind](whitepaper/04-amplified-humanity/evidence/philosophy/phil-031.md) | Strong | 4.1, 4.2 |
+| phil-034 | Philosophical | [Floridi/Sanders artificial moral agents](whitepaper/04-amplified-humanity/evidence/philosophy/phil-034.md) | Strong | 4.1, 4.2, 4.3 |
 
 **Known gaps:**
 -
@@ -116,7 +128,7 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| | | | | |
+| phil-036 | Philosophical | [Vallor Technology and the Virtues](whitepaper/06-design-principles/evidence/philosophy/phil-036.md) | Strong | 6.1, 8.2 |
 
 **Known gaps:**
 -
@@ -142,7 +154,8 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| | | | | |
+| phil-033 | Philosophical | [Floridi Ethics of Information](whitepaper/08-implications-action/evidence/philosophy/phil-033.md) | Moderate | 8.1, 8.2 |
+| phil-035 | Philosophical | [Jonas Imperative of Responsibility](whitepaper/08-implications-action/evidence/philosophy/phil-035.md) | Strong | 8.1, 8.3 |
 
 **Known gaps:**
 -
@@ -155,14 +168,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 12 |
-| Philosophical | 12 |
+| Total evidence items | 30 |
+| Philosophical | 30 |
 | Historical | 0 |
 | Mathematical | 0 |
 | Empirical | 0 |
 | Technical | 0 |
-| Rated Strong | 7 |
-| Rated Moderate | 5 |
+| Rated Strong | 22 |
+| Rated Moderate | 8 |
 | Rated Suggestive | 0 |
 | Known evidence gaps | 0 |
 
@@ -176,6 +189,10 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 |---|---|---|
 | phil-009 | Part 3 | Part 5 (§5.2) |
 | phil-012 | Part 3 | Part 6 (§6.1) |
+| phil-023 | Part 2 | Part 4 (§4.2, §4.3) |
+| phil-027 | Part 2 | Part 4 (§4.1, §4.3) |
+| phil-036 | Part 6 | Part 8 (§8.2) |
+| phil-038 | Part 1 | Part 8 (§8.1) |
 
 ---
 
