@@ -71,6 +71,9 @@ _Coherence as the first principle, derived from first principles._
 | phil-002 | Philosophical | [BonJour epistemological retreat](whitepaper/03-coherence-foundation/evidence/philosophy/phil-002.md) | Moderate | 3.1, 3.4 |
 | phil-003 | Philosophical | [Davidson coherence theory of truth](whitepaper/03-coherence-foundation/evidence/philosophy/phil-003.md) | Strong | 3.1, 3.2 |
 | phil-004 | Philosophical | [Elgin reflective equilibrium](whitepaper/03-coherence-foundation/evidence/philosophy/phil-004.md) | Moderate | 3.2, 3.3 |
+| phil-006 | Philosophical | [Haack foundherentism](whitepaper/03-coherence-foundation/evidence/philosophy/phil-006.md) | Strong | 3.1, 3.4 |
+| phil-007 | Philosophical | [Kant transcendental deduction](whitepaper/03-coherence-foundation/evidence/philosophy/phil-007.md) | Strong | 3.1, 3.3 |
+| phil-008 | Philosophical | [Lehrer coherentist theory of knowledge](whitepaper/03-coherence-foundation/evidence/philosophy/phil-008.md) | Moderate | 3.1, 3.2 |
 
 **Known gaps:**
 - Formal comparison of coherence-first vs. utility-first axiom systems
@@ -96,7 +99,7 @@ _Formal axiom structure: the four CED axioms, derivations, and mathematical foun
 
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
-| | | | | |
+| phil-005 | Philosophical | [Goldman reliabilism and epistemic cognition](whitepaper/05-formal-architecture/evidence/philosophy/phil-005.md) | Moderate | 5.2, 5.3 |
 
 **Known gaps:**
 -
@@ -148,14 +151,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 4 |
-| Philosophical | 4 |
+| Total evidence items | 8 |
+| Philosophical | 8 |
 | Historical | 0 |
 | Mathematical | 0 |
 | Empirical | 0 |
 | Technical | 0 |
-| Rated Strong | 2 |
-| Rated Moderate | 2 |
+| Rated Strong | 4 |
+| Rated Moderate | 4 |
 | Rated Suggestive | 0 |
 | Known evidence gaps | 0 |
 
