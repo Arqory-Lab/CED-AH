@@ -265,6 +265,7 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 | phil-205 | Philosophical | [Taddeo Blanchard moral gambit deployment accountability](whitepaper/08-implications-action/evidence/philosophy/phil-205.md) | Strong | 8.X |
 | phil-206 | Philosophical | [Sparrow killer robots adversarial responsibility gap](whitepaper/08-implications-action/evidence/philosophy/phil-206.md) | Strong | 8.X |
 | phil-210 | Philosophical | [Kaye Speech Police global accountability gap](whitepaper/08-implications-action/evidence/philosophy/phil-210.md) | Moderate | 8.X |
+| hist-204 | Historical | [K.G.M. v. Meta platform liability for design choices](whitepaper/08-implications-action/evidence/history/hist-204.md) | Strong | 8.1, 8.2, 8.3 |
 
 **Known gaps:**
 -
@@ -277,13 +278,13 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 140 |
+| Total evidence items | 141 |
 | Philosophical | 70 |
-| Historical | 20 |
+| Historical | 21 |
 | Mathematical | 2 |
 | Empirical | 34 |
 | Technical | 14 |
-| Rated Strong | 80 |
+| Rated Strong | 81 |
 | Rated Moderate | 54 |
 | Rated Suggestive | 5 |
 | Known evidence gaps | 0 |
@@ -337,6 +338,7 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | math-100 | Part 5 | Part 3 (§3.4) |
 | math-101 | Part 3 | Part 5 (§5.1) |
 | hist-100 | Part 1 | Part 7 (§7.3), Part 8 (§8.2) |
+| hist-204 | Part 8 | Part 2 (§2.5), Part 7 (§7.2) |
 
 ---
 
