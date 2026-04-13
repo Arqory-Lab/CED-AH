@@ -229,6 +229,13 @@ _Domain applications (healthcare, legal, education, business), systematic failur
 | hist-011 | Historical | [CAIB Columbia Report institutional coherence failure](whitepaper/07-applications-failures/evidence/history/hist-011.md) | Strong | 7.1, 7.2 |
 | hist-013 | Historical | [NTSB aviation accident reports out-of-the-loop](whitepaper/07-applications-failures/evidence/history/hist-013.md) | Strong | 7.1, 7.2 |
 | hist-014 | Historical | [Vaughan Challenger Launch Decision normalization of deviance](whitepaper/07-applications-failures/evidence/history/hist-014.md) | Strong | 7.1, 7.3 |
+| phil-207 | Philosophical | [Citron Wittes Section 230 bad Samaritans](whitepaper/07-applications-failures/evidence/philosophy/phil-207.md) | Strong | 7.X |
+| phil-208 | Philosophical | [Rozenshtein Section 230 ambiguity](whitepaper/07-applications-failures/evidence/philosophy/phil-208.md) | Moderate | 7.X |
+| phil-209 | Philosophical | [Gillespie Custodians of Internet platform governance](whitepaper/07-applications-failures/evidence/philosophy/phil-209.md) | Strong | 7.X |
+| hist-200 | Historical | [Wu Master Switch centralization cycle](whitepaper/07-applications-failures/evidence/history/hist-200.md) | Strong | 7.X |
+| hist-201 | Historical | [Zittrain Future of Internet generativity](whitepaper/07-applications-failures/evidence/history/hist-201.md) | Strong | 7.X |
+| hist-202 | Historical | [Benkler Wealth of Networks commons production](whitepaper/07-applications-failures/evidence/history/hist-202.md) | Moderate | 7.X |
+| hist-203 | Historical | [McChesney Digital Disconnect capitalist recapture](whitepaper/07-applications-failures/evidence/history/hist-203.md) | Moderate | 7.X |
 
 **Known gaps:**
 -
@@ -250,6 +257,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 | hist-009 | Historical | [Marchetti & Maassarani Global AI Governance](whitepaper/08-implications-action/evidence/history/hist-009.md) | Moderate | 8.1, 8.3 |
 | hist-010 | Historical | [Ostrom Governing the Commons polycentric](whitepaper/08-implications-action/evidence/history/hist-010.md) | Strong | 8.1, 8.4 |
 | tech-012 | Technical | [Raji et al. SMACTR algorithmic auditing](whitepaper/08-implications-action/evidence/technical/tech-012.md) | Strong | 8.2, 8.3 |
+| phil-200 | Philosophical | [Nissenbaum accountability barriers computerized society](whitepaper/08-implications-action/evidence/philosophy/phil-200.md) | Strong | 8.X |
+| phil-201 | Philosophical | [Thompson many hands problem](whitepaper/08-implications-action/evidence/philosophy/phil-201.md) | Strong | 8.X |
+| phil-202 | Philosophical | [Matthias responsibility gap learning automata](whitepaper/08-implications-action/evidence/philosophy/phil-202.md) | Strong | 8.X |
+| phil-203 | Philosophical | [Santoni de Sio Mecacci four responsibility gaps](whitepaper/08-implications-action/evidence/philosophy/phil-203.md) | Strong | 8.X |
+| phil-204 | Philosophical | [Goetze vicarious moral responsibility](whitepaper/08-implications-action/evidence/philosophy/phil-204.md) | Strong | 8.X |
+| phil-205 | Philosophical | [Taddeo Blanchard moral gambit deployment accountability](whitepaper/08-implications-action/evidence/philosophy/phil-205.md) | Strong | 8.X |
+| phil-206 | Philosophical | [Sparrow killer robots adversarial responsibility gap](whitepaper/08-implications-action/evidence/philosophy/phil-206.md) | Strong | 8.X |
+| phil-210 | Philosophical | [Kaye Speech Police global accountability gap](whitepaper/08-implications-action/evidence/philosophy/phil-210.md) | Moderate | 8.X |
 
 **Known gaps:**
 -
@@ -262,14 +277,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 125 |
-| Philosophical | 59 |
-| Historical | 16 |
+| Total evidence items | 140 |
+| Philosophical | 70 |
+| Historical | 20 |
 | Mathematical | 2 |
 | Empirical | 34 |
 | Technical | 14 |
-| Rated Strong | 69 |
-| Rated Moderate | 51 |
+| Rated Strong | 80 |
+| Rated Moderate | 55 |
 | Rated Suggestive | 5 |
 | Known evidence gaps | 0 |
 
