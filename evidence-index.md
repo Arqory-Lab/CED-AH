@@ -67,6 +67,7 @@ _Why current AI safety and alignment frameworks fail._
 | phil-027 | Philosophical | [Floridi/Chiriatti GPT-3 analysis](whitepaper/02-ai-conversation/evidence/philosophy/phil-027.md) | Strong | 2.2, 4.1, 4.3 |
 | phil-028 | Philosophical | [Haugeland GOFAI analysis](whitepaper/02-ai-conversation/evidence/philosophy/phil-028.md) | Moderate | 2.1, 2.2 |
 | phil-032 | Philosophical | [Shanahan Talking About LLMs](whitepaper/02-ai-conversation/evidence/philosophy/phil-032.md) | Strong | 2.2, 2.3 |
+| phil-105 | Philosophical | [Plato Meno true belief vs knowledge](whitepaper/02-ai-conversation/evidence/philosophy/phil-105.md) | Moderate | 2.1, 4.1 |
 | tech-001 | Technical | [Amodei et al. Concrete Problems in AI Safety](whitepaper/02-ai-conversation/evidence/technical/tech-001.md) | Moderate | 2.2 |
 | tech-002 | Technical | [Bai et al. Helpful and Harmless RLHF](whitepaper/02-ai-conversation/evidence/technical/tech-002.md) | Moderate | 2.2, 2.3 |
 | tech-003 | Technical | [Bostrom Superintelligence](whitepaper/02-ai-conversation/evidence/technical/tech-003.md) | Strong | 2.1, 2.2, 4.1 |
@@ -97,6 +98,10 @@ _Coherence as the first principle, derived from first principles._
 | phil-010 | Philosophical | [Sellars Myth of the Given](whitepaper/03-coherence-foundation/evidence/philosophy/phil-010.md) | Strong | 3.1, 3.2 |
 | phil-011 | Philosophical | [Sosa virtue epistemology](whitepaper/03-coherence-foundation/evidence/philosophy/phil-011.md) | Moderate | 3.2, 3.4 |
 | phil-012 | Philosophical | [Thagard coherence as constraint satisfaction](whitepaper/03-coherence-foundation/evidence/philosophy/phil-012.md) | Strong | 3.1, 3.2, 6.1 |
+| phil-100 | Philosophical | [Aristotle Nicomachean Ethics eudaimonia/flourishing](whitepaper/03-coherence-foundation/evidence/philosophy/phil-100.md) | Moderate | 3.1, 3.4, 4.2 |
+| phil-102 | Philosophical | [Aristotle Prior/Posterior Analytics logical coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-102.md) | Moderate | 3.1, 3.3, 5.1 |
+| phil-104 | Philosophical | [Plato Republic justice as internal harmony](whitepaper/03-coherence-foundation/evidence/philosophy/phil-104.md) | Suggestive | 3.1, 3.2, 6.1 |
+| phil-107 | Philosophical | [Marcus Aurelius Meditations coherence as practice](whitepaper/03-coherence-foundation/evidence/philosophy/phil-107.md) | Suggestive | 3.4, 8.1 |
 
 **Known gaps:**
 - Formal comparison of coherence-first vs. utility-first axiom systems
@@ -116,6 +121,9 @@ _The instrument/agent distinction, capability amplification, and the AH reframe.
 | phil-030 | Philosophical | [Searle Chinese Room argument](whitepaper/04-amplified-humanity/evidence/philosophy/phil-030.md) | Strong | 4.1, 4.2, 4.3 |
 | phil-031 | Philosophical | [Searle Rediscovery of the Mind](whitepaper/04-amplified-humanity/evidence/philosophy/phil-031.md) | Strong | 4.1, 4.2 |
 | phil-034 | Philosophical | [Floridi/Sanders artificial moral agents](whitepaper/04-amplified-humanity/evidence/philosophy/phil-034.md) | Strong | 4.1, 4.2, 4.3 |
+| phil-101 | Philosophical | [Aristotle Politics instrument/agent distinction](whitepaper/04-amplified-humanity/evidence/philosophy/phil-101.md) | Moderate | 4.1, 4.3, 2.2 |
+| phil-103 | Philosophical | [Aristotle De Anima hylomorphism](whitepaper/04-amplified-humanity/evidence/philosophy/phil-103.md) | Moderate | 4.1, 4.3 |
+| phil-106 | Philosophical | [Epictetus Discourses prohairesis/agency](whitepaper/04-amplified-humanity/evidence/philosophy/phil-106.md) | Moderate | 4.2, 6.1 |
 | emp-013 | Empirical | [de Groot chess expertise chunking](whitepaper/04-amplified-humanity/evidence/empirical/emp-013.md) | Strong | 4.2, 4.3 |
 | emp-015 | Empirical | [Gigerenzer ecological rationality](whitepaper/04-amplified-humanity/evidence/empirical/emp-015.md) | Moderate | 4.2, 4.3 |
 | emp-016 | Empirical | [Gigerenzer et al. Simple Heuristics formal](whitepaper/04-amplified-humanity/evidence/empirical/emp-016.md) | Strong | 4.2, 4.3 |
@@ -230,15 +238,15 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 93 |
-| Philosophical | 30 |
+| Total evidence items | 101 |
+| Philosophical | 38 |
 | Historical | 15 |
 | Mathematical | 0 |
 | Empirical | 34 |
 | Technical | 14 |
 | Rated Strong | 65 |
-| Rated Moderate | 28 |
-| Rated Suggestive | 0 |
+| Rated Moderate | 34 |
+| Rated Suggestive | 2 |
 | Known evidence gaps | 0 |
 
 ---
@@ -260,6 +268,13 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | tech-009 | Part 2 | Part 4 (§4.1) |
 | emp-017 | Part 4 | Part 7 (§7.1) |
 | emp-033 | Part 1 | Part 6 (§6.1) |
+| phil-100 | Part 3 | Part 4 (§4.2) |
+| phil-101 | Part 4 | Part 2 (§2.2) |
+| phil-102 | Part 3 | Part 5 (§5.1) |
+| phil-104 | Part 3 | Part 6 (§6.1) |
+| phil-105 | Part 2 | Part 4 (§4.1) |
+| phil-106 | Part 4 | Part 6 (§6.1) |
+| phil-107 | Part 3 | Part 8 (§8.1) |
 
 ---
 
