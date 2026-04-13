@@ -48,6 +48,7 @@ _The choice between replacement-default and amplification-first AI development._
 | hist-012 | Historical | [Mindell Our Robots Ourselves myth of autonomy](whitepaper/01-two-futures/evidence/history/hist-012.md) | Strong | 1.1, 1.3 |
 | hist-015 | Historical | [Zuboff Smart Machine automate/informate distinction](whitepaper/01-two-futures/evidence/history/hist-015.md) | Strong | 1.1, 1.2 |
 | phil-037 | Philosophical | [Winner Do Artifacts Have Politics](whitepaper/01-two-futures/evidence/philosophy/phil-037.md) | Strong | 1.1, 1.2 |
+| hist-101 | Historical | [Ibn Khaldun Muqaddimah civilizational cycles and productive friction](whitepaper/01-two-futures/evidence/history/hist-101.md) | Strong | 1.1, 1.3 |
 | phil-038 | Philosophical | [Zuboff Surveillance Capitalism](whitepaper/01-two-futures/evidence/philosophy/phil-038.md) | Strong | 1.1, 1.2, 8.1 |
 | phil-161 | Philosophical | [Marx Capital machinery deskilling](whitepaper/01-two-futures/evidence/philosophy/phil-161.md) | Moderate | 1.2, 7.1 |
 | phil-165 | Philosophical | [Heidegger Question Concerning Technology enframing](whitepaper/01-two-futures/evidence/philosophy/phil-165.md) | Moderate | 1.1, 4.1 |
@@ -278,13 +279,13 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 141 |
+| Total evidence items | 142 |
 | Philosophical | 70 |
-| Historical | 21 |
+| Historical | 22 |
 | Mathematical | 2 |
 | Empirical | 34 |
 | Technical | 14 |
-| Rated Strong | 81 |
+| Rated Strong | 82 |
 | Rated Moderate | 54 |
 | Rated Suggestive | 5 |
 | Known evidence gaps | 0 |
@@ -338,6 +339,7 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | math-100 | Part 5 | Part 3 (§3.4) |
 | math-101 | Part 3 | Part 5 (§5.1) |
 | hist-100 | Part 1 | Part 7 (§7.3), Part 8 (§8.2) |
+| hist-101 | Part 1 | Part 5 (§S5), Part 6 (§6.2), Part 8 (§8.1) |
 | hist-204 | Part 8 | Part 2 (§2.5), Part 7 (§7.2) |
 
 ---
