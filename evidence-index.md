@@ -49,6 +49,8 @@ _The choice between replacement-default and amplification-first AI development._
 | hist-015 | Historical | [Zuboff Smart Machine automate/informate distinction](whitepaper/01-two-futures/evidence/history/hist-015.md) | Strong | 1.1, 1.2 |
 | phil-037 | Philosophical | [Winner Do Artifacts Have Politics](whitepaper/01-two-futures/evidence/philosophy/phil-037.md) | Strong | 1.1, 1.2 |
 | phil-038 | Philosophical | [Zuboff Surveillance Capitalism](whitepaper/01-two-futures/evidence/philosophy/phil-038.md) | Strong | 1.1, 1.2, 8.1 |
+| phil-161 | Philosophical | [Marx Capital machinery deskilling](whitepaper/01-two-futures/evidence/philosophy/phil-161.md) | Moderate | 1.2, 7.1 |
+| phil-165 | Philosophical | [Heidegger Question Concerning Technology enframing](whitepaper/01-two-futures/evidence/philosophy/phil-165.md) | Moderate | 1.1, 4.1 |
 
 **Known gaps:**
 - Longitudinal data on societal outcomes of automation-first vs. augmentation-first deployments
@@ -68,6 +70,8 @@ _Why current AI safety and alignment frameworks fail._
 | phil-028 | Philosophical | [Haugeland GOFAI analysis](whitepaper/02-ai-conversation/evidence/philosophy/phil-028.md) | Moderate | 2.1, 2.2 |
 | phil-032 | Philosophical | [Shanahan Talking About LLMs](whitepaper/02-ai-conversation/evidence/philosophy/phil-032.md) | Strong | 2.2, 2.3 |
 | phil-105 | Philosophical | [Plato Meno true belief vs knowledge](whitepaper/02-ai-conversation/evidence/philosophy/phil-105.md) | Moderate | 2.1, 4.1 |
+| phil-164 | Philosophical | [Wittgenstein Philosophical Investigations language games](whitepaper/02-ai-conversation/evidence/philosophy/phil-164.md) | Moderate | 2.2, 4.1 |
+| phil-168 | Philosophical | [Kuhn Structure of Scientific Revolutions paradigms](whitepaper/02-ai-conversation/evidence/philosophy/phil-168.md) | Suggestive | 2.1, 8.3 |
 | tech-001 | Technical | [Amodei et al. Concrete Problems in AI Safety](whitepaper/02-ai-conversation/evidence/technical/tech-001.md) | Moderate | 2.2 |
 | tech-002 | Technical | [Bai et al. Helpful and Harmless RLHF](whitepaper/02-ai-conversation/evidence/technical/tech-002.md) | Moderate | 2.2, 2.3 |
 | tech-003 | Technical | [Bostrom Superintelligence](whitepaper/02-ai-conversation/evidence/technical/tech-003.md) | Strong | 2.1, 2.2, 4.1 |
@@ -105,6 +109,10 @@ _Coherence as the first principle, derived from first principles._
 | phil-120 | Philosophical | [Aquinas Summa Theologica natural law coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-120.md) | Suggestive | 3.2, 5.1 |
 | phil-121 | Philosophical | [Descartes Meditations foundationalism foil](whitepaper/03-coherence-foundation/evidence/philosophy/phil-121.md) | Moderate | 3.1, 4.1 |
 | phil-122 | Philosophical | [Spinoza Ethics monism conatus coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-122.md) | Moderate | 3.1, 3.2, 4.2 |
+| phil-160 | Philosophical | [Hegel Phenomenology dialectical coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-160.md) | Moderate | 3.2, 4.2 |
+| phil-162 | Philosophical | [Nietzsche Beyond Good and Evil adversarial challenge](whitepaper/03-coherence-foundation/evidence/philosophy/phil-162.md) | Moderate | 3.1, 5.1 |
+| phil-167 | Philosophical | [Popper Open Society critical rationalism](whitepaper/03-coherence-foundation/evidence/philosophy/phil-167.md) | Moderate | 3.3, 5.2 |
+| phil-169 | Philosophical | [Mill On Liberty utilitarianism competing framework](whitepaper/03-coherence-foundation/evidence/philosophy/phil-169.md) | Moderate | 3.1, 6.1 |
 
 **Known gaps:**
 - Formal comparison of coherence-first vs. utility-first axiom systems
@@ -130,6 +138,7 @@ _The instrument/agent distinction, capability amplification, and the AH reframe.
 | phil-123 | Philosophical | [Locke Two Treatises consent self-ownership](whitepaper/04-amplified-humanity/evidence/philosophy/phil-123.md) | Moderate | 4.1, 4.3, 8.1 |
 | phil-125 | Philosophical | [Kant Groundwork categorical imperative dignity](whitepaper/04-amplified-humanity/evidence/philosophy/phil-125.md) | Moderate | 4.1, 4.3, 6.1, 8.2 |
 | phil-126 | Philosophical | [Kant Critique of Practical Reason autonomy](whitepaper/04-amplified-humanity/evidence/philosophy/phil-126.md) | Moderate | 4.1, 4.3, 5.2 |
+| phil-166 | Philosophical | [Arendt Human Condition action natality](whitepaper/04-amplified-humanity/evidence/philosophy/phil-166.md) | Moderate | 4.1, 1.2 |
 | emp-013 | Empirical | [de Groot chess expertise chunking](whitepaper/04-amplified-humanity/evidence/empirical/emp-013.md) | Strong | 4.2, 4.3 |
 | emp-015 | Empirical | [Gigerenzer ecological rationality](whitepaper/04-amplified-humanity/evidence/empirical/emp-015.md) | Moderate | 4.2, 4.3 |
 | emp-016 | Empirical | [Gigerenzer et al. Simple Heuristics formal](whitepaper/04-amplified-humanity/evidence/empirical/emp-016.md) | Strong | 4.2, 4.3 |
@@ -177,6 +186,7 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 | tech-011 | Technical | [Friedman & Hendry Value Sensitive Design](whitepaper/06-design-principles/evidence/technical/tech-011.md) | Strong | 6.1, 6.2 |
 | tech-014 | Technical | [Shneiderman HCAI framework reliability/safety/trustworthiness](whitepaper/06-design-principles/evidence/technical/tech-014.md) | Strong | 6.1, 6.3 |
 | phil-127 | Philosophical | [Federalist Papers institutional design checks](whitepaper/06-design-principles/evidence/philosophy/phil-127.md) | Moderate | 6.1, 6.2, 8.1 |
+| phil-163 | Philosophical | [Dewey Democracy and Education growth](whitepaper/06-design-principles/evidence/philosophy/phil-163.md) | Moderate | 6.2, 7.3 |
 | hist-005 | Historical | [Taleb Antifragile capability growth](whitepaper/06-design-principles/evidence/history/hist-005.md) | Moderate | 6.1, 6.3 |
 | hist-006 | Historical | [Woods & Hollnagel Joint Cognitive Systems](whitepaper/06-design-principles/evidence/history/hist-006.md) | Strong | 6.1, 6.2 |
 
@@ -246,15 +256,15 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 109 |
-| Philosophical | 46 |
+| Total evidence items | 119 |
+| Philosophical | 56 |
 | Historical | 15 |
 | Mathematical | 0 |
 | Empirical | 34 |
 | Technical | 14 |
 | Rated Strong | 65 |
-| Rated Moderate | 40 |
-| Rated Suggestive | 4 |
+| Rated Moderate | 49 |
+| Rated Suggestive | 5 |
 | Known evidence gaps | 0 |
 
 ---
@@ -291,6 +301,16 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | phil-125 | Part 4 | Part 6 (§6.1), Part 8 (§8.2) |
 | phil-126 | Part 4 | Part 5 (§5.2) |
 | phil-127 | Part 6 | Part 8 (§8.1) |
+| phil-160 | Part 3 | Part 4 (§4.2) |
+| phil-161 | Part 1 | Part 7 (§7.1) |
+| phil-162 | Part 3 | Part 5 (§5.1) |
+| phil-163 | Part 6 | Part 7 (§7.3) |
+| phil-164 | Part 2 | Part 4 (§4.1) |
+| phil-165 | Part 1 | Part 4 (§4.1) |
+| phil-166 | Part 4 | Part 1 (§1.2) |
+| phil-167 | Part 3 | Part 5 (§5.2) |
+| phil-168 | Part 2 | Part 8 (§8.3) |
+| phil-169 | Part 3 | Part 6 (§6.1) |
 
 ---
 
