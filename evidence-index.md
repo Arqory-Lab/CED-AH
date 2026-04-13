@@ -284,7 +284,7 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 | Empirical | 34 |
 | Technical | 14 |
 | Rated Strong | 80 |
-| Rated Moderate | 55 |
+| Rated Moderate | 54 |
 | Rated Suggestive | 5 |
 | Known evidence gaps | 0 |
 
