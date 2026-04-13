@@ -42,6 +42,9 @@ _The choice between replacement-default and amplification-first AI development._
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
 | emp-003 | Empirical | [Carr Glass Cage substitution myth](whitepaper/01-two-futures/evidence/empirical/emp-003.md) | Moderate | 1.1, 1.2 |
+| emp-032 | Empirical | [Brynjolfsson & McAfee Second Machine Age](whitepaper/01-two-futures/evidence/empirical/emp-032.md) | Strong | 1.1, 1.2 |
+| emp-033 | Empirical | [Davenport & Kirby Only Humans Need Apply](whitepaper/01-two-futures/evidence/empirical/emp-033.md) | Moderate | 1.2, 6.1 |
+| emp-034 | Empirical | [Raisch & Krakowski automation-augmentation paradox](whitepaper/01-two-futures/evidence/empirical/emp-034.md) | Strong | 1.2, 1.3 |
 | phil-037 | Philosophical | [Winner Do Artifacts Have Politics](whitepaper/01-two-futures/evidence/philosophy/phil-037.md) | Strong | 1.1, 1.2 |
 | phil-038 | Philosophical | [Zuboff Surveillance Capitalism](whitepaper/01-two-futures/evidence/philosophy/phil-038.md) | Strong | 1.1, 1.2, 8.1 |
 
@@ -131,6 +134,7 @@ _Formal axiom structure: the four CED axioms, derivations, and mathematical foun
 |---|---|---|---|---|
 | phil-005 | Philosophical | [Goldman reliabilism and epistemic cognition](whitepaper/05-formal-architecture/evidence/philosophy/phil-005.md) | Moderate | 5.2, 5.3 |
 | emp-020 | Empirical | [Simon Sciences of the Artificial bounded rationality](whitepaper/05-formal-architecture/evidence/empirical/emp-020.md) | Strong | 5.1, 5.2 |
+| hist-002 | Historical | [Meadows Thinking in Systems leverage points](whitepaper/05-formal-architecture/evidence/history/hist-002.md) | Strong | 5.1, 5.3 |
 
 **Known gaps:**
 -
@@ -154,6 +158,8 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 | emp-011 | Empirical | [Shneiderman Human-Centered AI](whitepaper/06-design-principles/evidence/empirical/emp-011.md) | Strong | 6.1, 6.2, 6.3 |
 | emp-012 | Empirical | [Wickens et al. Engineering Psychology](whitepaper/06-design-principles/evidence/empirical/emp-012.md) | Strong | 6.1, 6.2 |
 | emp-014 | Empirical | [Ericsson deliberate practice expertise](whitepaper/06-design-principles/evidence/empirical/emp-014.md) | Strong | 6.1 |
+| hist-005 | Historical | [Taleb Antifragile capability growth](whitepaper/06-design-principles/evidence/history/hist-005.md) | Moderate | 6.1, 6.3 |
+| hist-006 | Historical | [Woods & Hollnagel Joint Cognitive Systems](whitepaper/06-design-principles/evidence/history/hist-006.md) | Strong | 6.1, 6.2 |
 
 **Known gaps:**
 -
@@ -173,6 +179,17 @@ _Domain applications (healthcare, legal, education, business), systematic failur
 | emp-009 | Empirical | [Parasuraman & Riley use/misuse/disuse/abuse](whitepaper/07-applications-failures/evidence/empirical/emp-009.md) | Strong | 7.1, 7.2 |
 | emp-018 | Empirical | [Kahneman et al. Noise judgment variability](whitepaper/07-applications-failures/evidence/empirical/emp-018.md) | Moderate | 7.1, 7.3 |
 | emp-021 | Empirical | [Tetlock Expert Political Judgment](whitepaper/07-applications-failures/evidence/empirical/emp-021.md) | Strong | 7.1, 7.2 |
+| emp-023 | Empirical | [O'Neil Weapons of Math Destruction](whitepaper/07-applications-failures/evidence/empirical/emp-023.md) | Moderate | 7.1, 7.3 |
+| emp-025 | Empirical | [Cabitza et al. unintended consequences ML in medicine](whitepaper/07-applications-failures/evidence/empirical/emp-025.md) | Strong | 7.1, 7.3 |
+| emp-026 | Empirical | [Topol Deep Medicine amplification case](whitepaper/07-applications-failures/evidence/empirical/emp-026.md) | Moderate | 7.3, 7.4 |
+| emp-027 | Empirical | [Wachter Digital Doctor EHR coherence erosion](whitepaper/07-applications-failures/evidence/empirical/emp-027.md) | Strong | 7.1, 7.3 |
+| emp-028 | Empirical | [Pasquale Black Box Society transparency](whitepaper/07-applications-failures/evidence/empirical/emp-028.md) | Strong | 7.1, 7.3 |
+| emp-029 | Empirical | [Susskind Tomorrow's Lawyers legal automation](whitepaper/07-applications-failures/evidence/empirical/emp-029.md) | Moderate | 7.3, 7.4 |
+| emp-030 | Empirical | [du Boulay AI classroom assistant](whitepaper/07-applications-failures/evidence/empirical/emp-030.md) | Moderate | 7.3, 7.4 |
+| emp-031 | Empirical | [Selwyn Should Robots Replace Teachers](whitepaper/07-applications-failures/evidence/empirical/emp-031.md) | Moderate | 7.3, 7.1 |
+| hist-001 | Historical | [Leveson STAMP systems safety](whitepaper/07-applications-failures/evidence/history/hist-001.md) | Strong | 7.1, 7.2 |
+| hist-003 | Historical | [Perrow Normal Accidents tight coupling](whitepaper/07-applications-failures/evidence/history/hist-003.md) | Strong | 7.1, 7.4 |
+| hist-004 | Historical | [Reason Human Error Swiss cheese model](whitepaper/07-applications-failures/evidence/history/hist-004.md) | Strong | 7.1, 7.2 |
 
 **Known gaps:**
 -
@@ -187,6 +204,11 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 |---|---|---|---|---|
 | phil-033 | Philosophical | [Floridi Ethics of Information](whitepaper/08-implications-action/evidence/philosophy/phil-033.md) | Moderate | 8.1, 8.2 |
 | phil-035 | Philosophical | [Jonas Imperative of Responsibility](whitepaper/08-implications-action/evidence/philosophy/phil-035.md) | Strong | 8.1, 8.3 |
+| emp-024 | Empirical | [Tutt FDA for Algorithms regulatory model](whitepaper/08-implications-action/evidence/empirical/emp-024.md) | Moderate | 8.3, 8.2 |
+| hist-007 | Historical | [Jasanoff Ethics of Invention governance](whitepaper/08-implications-action/evidence/history/hist-007.md) | Strong | 8.1, 8.2 |
+| hist-008 | Historical | [Lessig Code is Law architecture as regulation](whitepaper/08-implications-action/evidence/history/hist-008.md) | Strong | 8.1, 8.2 |
+| hist-009 | Historical | [Marchetti & Maassarani Global AI Governance](whitepaper/08-implications-action/evidence/history/hist-009.md) | Moderate | 8.1, 8.3 |
+| hist-010 | Historical | [Ostrom Governing the Commons polycentric](whitepaper/08-implications-action/evidence/history/hist-010.md) | Strong | 8.1, 8.4 |
 
 **Known gaps:**
 -
@@ -199,14 +221,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 62 |
+| Total evidence items | 84 |
 | Philosophical | 30 |
-| Historical | 0 |
+| Historical | 10 |
 | Mathematical | 0 |
-| Empirical | 22 |
+| Empirical | 34 |
 | Technical | 10 |
-| Rated Strong | 43 |
-| Rated Moderate | 19 |
+| Rated Strong | 56 |
+| Rated Moderate | 28 |
 | Rated Suggestive | 0 |
 | Known evidence gaps | 0 |
 
@@ -228,6 +250,7 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | tech-006 | Part 2 | Part 8 (§8.2) |
 | tech-009 | Part 2 | Part 4 (§4.1) |
 | emp-017 | Part 4 | Part 7 (§7.1) |
+| emp-033 | Part 1 | Part 6 (§6.1) |
 
 ---
 
