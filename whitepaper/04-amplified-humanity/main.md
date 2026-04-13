@@ -54,21 +54,21 @@ This framework scores agency as a conjunction.  A system must satisfy all condit
 
 Current systems fail all five.  Since the scoring is conjunctive, failure on any single condition yields agency = 0.
 
-This is a deliberately demanding threshold.  If agency is the basis for moral status and decision making authority, the bar for attributing it should be high.  Currently all computational systems are sophisticated pattern matching engines not agents.
+This is a deliberately demanding threshold.  If agency is the basis for moral status and decision making authority, the bar for attributing it should be high.  Dennett's deflationary functionalism presents the strongest challenge: if agency is simply a useful explanatory stance we adopt toward any system whose behavior is best predicted by attributing beliefs and desires, then the conjunction test is too restrictive (Dennett, 1987).  This framework acknowledges the challenge and responds: adopting the "intentional stance" toward a thermostat or a language model may be predictively useful, but predictive usefulness does not constitute moral status.  The question is not whether attributing agency *helps us predict* the system but whether the system *bears the moral weight* that agency implies.  Floridi and Sanders (2004) propose that moral agency can be attributed at appropriate levels of abstraction — a view that would expand the set of moral agents beyond this framework's threshold.  CED-AH responds that levels-of-abstraction agency without the conjunction conditions produces accountability that cannot be discharged: you cannot hold an abstraction responsible.  Currently all computational systems are sophisticated pattern matching engines not agents.
 
 ### Why Each Condition Is Important
 
 The conjunction is not arbitrary.  Each condition captures something without which "agency" becomes a misleading label:
 
 - **Without goal generation,** a system is an *optimizer* — it pursues objectives given to it, however sophisticated its pursuit.  An optimizer that appears to "want" things is exhibiting optimization pressure, not desire.
-- **Without volition,** a system is a *reflex* — it responds to inputs according to patterns, however complex the patterns.  Reflex systems are unpredictable without being willful.
-- **Without a genuine self-model,** a system cannot distinguish itself from its environmental attributes, cannot reflect on its own experience, and cannot engage in the kind of self awareness that moral responsibility requires.  Token prediction about the concept of self reference is not self reference.
+- **Without volition,** a system is a *reflex* — it responds to inputs according to patterns, however complex the patterns.  Searle's Chinese Room argument remains instructive here: syntactic manipulation, however sophisticated, does not constitute semantic understanding (Searle, 1980).  Reflex systems are unpredictable without being willful.
+- **Without a genuine self-model,** a system cannot distinguish itself from its environmental attributes, cannot reflect on its own experience, and cannot engage in the kind of self awareness that moral responsibility requires.  The phenomenological tradition — from Nagel's insistence that consciousness requires "something it is like" to be that entity (1974), to Block's distinction between access consciousness and phenomenal consciousness (1995), to Chalmers's "hard problem" (1995) — converges on a point: whatever computation does, it does not constitute first-person experience.  Token prediction about the concept of self reference is not self reference.  Polanyi's insight that tacit knowledge — the kind that resists formalization — is constitutive of human understanding underscores the gap: much of what grounds genuine self-awareness cannot be captured in explicit rules or statistical patterns (Polanyi, 1966).
 - **Without operational independence,** a system is a *tool* — which is precisely what this framework claims computational systems are.  Dependency on continuous human support at every level (design, infrastructure, power, maintenance) is not a contingent feature that engineering might overcome; it reflects the ontological category.
 - **Without moral responsibility capacity,** a system cannot bear accountability for its actions, and therefore cannot legitimately hold authority over consequential decisions (see the [B2 accountability defense](../05-formal-architecture/main.md)).
 
 ### Why the Scoring Must Be Conjunctive
 
-Agency is a unified phenomenon, not a collection of independent properties that can be accumulated piecemeal.  You do not get partial agency from meeting three of five conditions.  A system that generates goals but cannot bear moral responsibility for pursuing them is not "60% an agent".  It is a sophisticated optimizer that requires human oversight.  The conjunction captures the *unity* of agency.  The conditions are not a checklist of features but aspects of an integrated capability.
+Agency is a unified phenomenon, not a collection of independent properties that can be accumulated piecemeal — a distinction Aristotle drew between instruments and agents, where instruments act only through the purposes of their wielders (Aristotle, *Politics* I.4).  You do not get partial agency from meeting three of five conditions.  A system that generates goals but cannot bear moral responsibility for pursuing them is not "60% an agent".  It is a sophisticated optimizer that requires human oversight.  The conjunction captures the *unity* of agency.  The conditions are not a checklist of features but aspects of an integrated capability.
 
 A disjunctive test (agency if *any* condition is met above threshold) would attribute agency to thermostats (goal-directed behavior), to self-driving cars (operational independence in narrow domains), and to large language models (sophisticated self-referential token generation).  The disjunctive test would make "agency" so common as to be analytically useless.  This leads to implicit disjunctive assumptions and the confused discourse diagnosed in [Part 2](../02-ai-conversation/main.md).
 
@@ -96,39 +96,41 @@ With the ontology established, computation is human dependent, not independent. 
 
 **"Humanity"** centers the human.  The subject is humanity, not the machine.  The human is what is being amplified.  The human remains central.
 
+This is not theoretical.  Human-centered automation has been engineered successfully in aviation, medicine, nuclear operations, and military systems for over forty years.  The design patterns exist.  The measurement frameworks exist.  What "Amplified Humanity" names is an engineering tradition with proven results, not an aspiration.
+
 | | AI Framing | AH Framing |
 |---|---|---|
 | **Goal** | Machine capability | Human capability |
 | **Success metric** | Can the machine do X? | Can the human do more? |
-| **Ideal system** | Fully autonomous | Maximally supportive |
+| **Ideal system** | High automation without human authority | High automation with human authority preserved |
 | **Human role** | Obstacle to overcome | Center to serve |
 | **Design priority** | Machine performance | Human flourishing |
 
 Mathematically:
 
-- **AI/AGI goal:** `Capability(AI) ≥ Capability(Human)` for all tasks → human becomes unnecessary → `min(H) × max(AI) → 0`
-- **AH goal:** `Capability(Human × AH) → maximum` while `Agency(Human) = preserved` → human becomes more capable than ever → `max(H × AH) → ∞`
+- **Replacement design:** `Capability(System) → maximum` while `Authority(Human) → 0` → human becomes unnecessary → `min(H) × max(AI) → 0`
+- **Amplification design:** `Capability(Human × AH) → maximum` while `Authority(Human) = preserved` → human becomes more capable than ever → `max(H × AH) → ∞`
 
-The technology can be identical.  The difference is what happens to the human in the equation.  In the AI framing, the human is gradually diminished.  In the AH framing, the human grows without bound.
+The technology can be identical.  The capability level can be identical.  The difference is the design relationship: whether the human retains authority over consequential decisions or is gradually removed from the loop.  In the replacement framing, the human is diminished regardless of how capable the system becomes.  In the amplification framing, the human grows without bound — and the system can be just as capable, or more so.
 
 ### Historical Precedent
 
-This pattern is not new:
+This pattern is not new.  Each of these technologies achieved high automation while preserving human authority — not by limiting capability, but through design that kept humans in the authority loop:
 
-- **Writing** amplified human memory without replacing it.  The human remained the author, reader, and interpreter.
-- **The printing press** amplified the reach of human ideas without replacing thought.  Humans remained the writers and thinkers.
-- **The calculator** amplified mathematical capacity without replacing problem solving.  Humans remained the questioners and interpreters.
+- **Writing** automated memory storage at a scale no human brain could match.  The human remained the author, reader, and interpreter.
+- **The printing press** automated the reproduction of ideas beyond anything scribes could achieve.  Humans remained the writers and thinkers.
+- **The calculator** automated mathematical computation far beyond human speed and accuracy.  Humans remained the questioners and interpreters.
 
-Each technology could have been designed for replacement or amplification.  The framing determined the design.  Computational intelligence is no different.
+Each technology was massively more capable than the human process it augmented.  The framing determined the design: amplification, not replacement.  Tetlock's research on superforecasting demonstrates the same pattern in cognitive domains: the best predictions come not from algorithms alone or humans alone, but from humans who use computational tools while exercising structured judgment — amplified humanity in practice (Tetlock & Gardner, 2015).  Computational intelligence is no different.
 
 ### Why the Term Change Matters
 
 This isn't cosmetic.  Calling these systems "Amplified Humanity" embeds four correct assumptions:
 
-1. **Ontological accuracy:** Reflects what these systems are,  human dependent instruments, not independent entities.
-2. **Design orientation:** Embeds the correct priority, human flourishing, not machine capability.
-3. **Relationship clarity:** Amplification, not replacement.
-4. **Ethical grounding:** In alignment with the coherence criterion, increasing human coherence, not a substitute for human agency.
+1. **Ontological accuracy:** Reflects what these systems are, human dependent instruments, not independent entities.
+2. **Design orientation:** Embeds the correct priority, human flourishing, not machine capability.  Kant's Formula of Humanity — treat humanity always as an end and never merely as a means (1785) — is not a constraint on what systems can do; it is the design specification for what they should serve.
+3. **Relationship clarity:** Amplification, not replacement.  Arendt's distinction between *action* (the exercise of human initiative that discloses who we are) and *behavior* (predictable, rule-governed response) illuminates the stakes: systems designed for replacement reduce humans from actors to behaving organisms; systems designed for amplification expand the space for action (Arendt, 1958).
+4. **Ethical grounding:** In alignment with the coherence criterion, increasing human coherence, not a substitute for human agency.  The authority requirement traces to Locke's foundational insight that self-ownership — the capacity to direct one's own labor and judgment — is the basis of legitimate authority (Locke, 1689).  A system that removes decision authority undermines the condition that makes human governance legitimate.
 
 As long as we call these systems "artificial intelligence," they will be thought of as alternatives to human intelligence, and designs will follow the imperative.
 
