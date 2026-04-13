@@ -51,6 +51,8 @@ _The choice between replacement-default and amplification-first AI development._
 | phil-038 | Philosophical | [Zuboff Surveillance Capitalism](whitepaper/01-two-futures/evidence/philosophy/phil-038.md) | Strong | 1.1, 1.2, 8.1 |
 | phil-161 | Philosophical | [Marx Capital machinery deskilling](whitepaper/01-two-futures/evidence/philosophy/phil-161.md) | Moderate | 1.2, 7.1 |
 | phil-165 | Philosophical | [Heidegger Question Concerning Technology enframing](whitepaper/01-two-futures/evidence/philosophy/phil-165.md) | Moderate | 1.1, 4.1 |
+| phil-171 | Philosophical | [Wiener Human Use of Human Beings amplification](whitepaper/01-two-futures/evidence/philosophy/phil-171.md) | Strong | 1.1, 4.1 |
+| hist-100 | Historical | [Tocqueville Democracy in America soft despotism](whitepaper/01-two-futures/evidence/history/hist-100.md) | Strong | 1.2, 7.3, 8.2 |
 
 **Known gaps:**
 - Longitudinal data on societal outcomes of automation-first vs. augmentation-first deployments
@@ -113,6 +115,8 @@ _Coherence as the first principle, derived from first principles._
 | phil-162 | Philosophical | [Nietzsche Beyond Good and Evil adversarial challenge](whitepaper/03-coherence-foundation/evidence/philosophy/phil-162.md) | Moderate | 3.1, 5.1 |
 | phil-167 | Philosophical | [Popper Open Society critical rationalism](whitepaper/03-coherence-foundation/evidence/philosophy/phil-167.md) | Moderate | 3.3, 5.2 |
 | phil-169 | Philosophical | [Mill On Liberty utilitarianism competing framework](whitepaper/03-coherence-foundation/evidence/philosophy/phil-169.md) | Moderate | 3.1, 6.1 |
+| phil-170 | Philosophical | [Darwin Origin of Species biological coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-170.md) | Moderate | 3.3 |
+| math-101 | Mathematical | [Whitehead Russell Principia Mathematica foundationalism](whitepaper/03-coherence-foundation/evidence/mathematics/math-101.md) | Moderate | 3.1, 5.1 |
 
 **Known gaps:**
 - Formal comparison of coherence-first vs. utility-first axiom systems
@@ -139,6 +143,7 @@ _The instrument/agent distinction, capability amplification, and the AH reframe.
 | phil-125 | Philosophical | [Kant Groundwork categorical imperative dignity](whitepaper/04-amplified-humanity/evidence/philosophy/phil-125.md) | Moderate | 4.1, 4.3, 6.1, 8.2 |
 | phil-126 | Philosophical | [Kant Critique of Practical Reason autonomy](whitepaper/04-amplified-humanity/evidence/philosophy/phil-126.md) | Moderate | 4.1, 4.3, 5.2 |
 | phil-166 | Philosophical | [Arendt Human Condition action natality](whitepaper/04-amplified-humanity/evidence/philosophy/phil-166.md) | Moderate | 4.1, 1.2 |
+| phil-172 | Philosophical | [Polanyi Personal Knowledge tacit knowledge](whitepaper/04-amplified-humanity/evidence/philosophy/phil-172.md) | Strong | 4.3, 6.2 |
 | emp-013 | Empirical | [de Groot chess expertise chunking](whitepaper/04-amplified-humanity/evidence/empirical/emp-013.md) | Strong | 4.2, 4.3 |
 | emp-015 | Empirical | [Gigerenzer ecological rationality](whitepaper/04-amplified-humanity/evidence/empirical/emp-015.md) | Moderate | 4.2, 4.3 |
 | emp-016 | Empirical | [Gigerenzer et al. Simple Heuristics formal](whitepaper/04-amplified-humanity/evidence/empirical/emp-016.md) | Strong | 4.2, 4.3 |
@@ -160,6 +165,7 @@ _Formal axiom structure: the four CED axioms, derivations, and mathematical foun
 | phil-005 | Philosophical | [Goldman reliabilism and epistemic cognition](whitepaper/05-formal-architecture/evidence/philosophy/phil-005.md) | Moderate | 5.2, 5.3 |
 | emp-020 | Empirical | [Simon Sciences of the Artificial bounded rationality](whitepaper/05-formal-architecture/evidence/empirical/emp-020.md) | Strong | 5.1, 5.2 |
 | hist-002 | Historical | [Meadows Thinking in Systems leverage points](whitepaper/05-formal-architecture/evidence/history/hist-002.md) | Strong | 5.1, 5.3 |
+| math-100 | Mathematical | [Godel incompleteness theorems formal limits](whitepaper/05-formal-architecture/evidence/mathematics/math-100.md) | Strong | 5.2, 3.4 |
 
 **Known gaps:**
 -
@@ -256,14 +262,14 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 119 |
-| Philosophical | 56 |
-| Historical | 15 |
-| Mathematical | 0 |
+| Total evidence items | 125 |
+| Philosophical | 59 |
+| Historical | 16 |
+| Mathematical | 2 |
 | Empirical | 34 |
 | Technical | 14 |
-| Rated Strong | 65 |
-| Rated Moderate | 49 |
+| Rated Strong | 69 |
+| Rated Moderate | 51 |
 | Rated Suggestive | 5 |
 | Known evidence gaps | 0 |
 
@@ -311,6 +317,11 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | phil-167 | Part 3 | Part 5 (§5.2) |
 | phil-168 | Part 2 | Part 8 (§8.3) |
 | phil-169 | Part 3 | Part 6 (§6.1) |
+| phil-171 | Part 1 | Part 4 (§4.1) |
+| phil-172 | Part 4 | Part 6 (§6.2) |
+| math-100 | Part 5 | Part 3 (§3.4) |
+| math-101 | Part 3 | Part 5 (§5.1) |
+| hist-100 | Part 1 | Part 7 (§7.3), Part 8 (§8.2) |
 
 ---
 
