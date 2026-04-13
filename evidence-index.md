@@ -102,6 +102,9 @@ _Coherence as the first principle, derived from first principles._
 | phil-102 | Philosophical | [Aristotle Prior/Posterior Analytics logical coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-102.md) | Moderate | 3.1, 3.3, 5.1 |
 | phil-104 | Philosophical | [Plato Republic justice as internal harmony](whitepaper/03-coherence-foundation/evidence/philosophy/phil-104.md) | Suggestive | 3.1, 3.2, 6.1 |
 | phil-107 | Philosophical | [Marcus Aurelius Meditations coherence as practice](whitepaper/03-coherence-foundation/evidence/philosophy/phil-107.md) | Suggestive | 3.4, 8.1 |
+| phil-120 | Philosophical | [Aquinas Summa Theologica natural law coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-120.md) | Suggestive | 3.2, 5.1 |
+| phil-121 | Philosophical | [Descartes Meditations foundationalism foil](whitepaper/03-coherence-foundation/evidence/philosophy/phil-121.md) | Moderate | 3.1, 4.1 |
+| phil-122 | Philosophical | [Spinoza Ethics monism conatus coherence](whitepaper/03-coherence-foundation/evidence/philosophy/phil-122.md) | Moderate | 3.1, 3.2, 4.2 |
 
 **Known gaps:**
 - Formal comparison of coherence-first vs. utility-first axiom systems
@@ -124,6 +127,9 @@ _The instrument/agent distinction, capability amplification, and the AH reframe.
 | phil-101 | Philosophical | [Aristotle Politics instrument/agent distinction](whitepaper/04-amplified-humanity/evidence/philosophy/phil-101.md) | Moderate | 4.1, 4.3, 2.2 |
 | phil-103 | Philosophical | [Aristotle De Anima hylomorphism](whitepaper/04-amplified-humanity/evidence/philosophy/phil-103.md) | Moderate | 4.1, 4.3 |
 | phil-106 | Philosophical | [Epictetus Discourses prohairesis/agency](whitepaper/04-amplified-humanity/evidence/philosophy/phil-106.md) | Moderate | 4.2, 6.1 |
+| phil-123 | Philosophical | [Locke Two Treatises consent self-ownership](whitepaper/04-amplified-humanity/evidence/philosophy/phil-123.md) | Moderate | 4.1, 4.3, 8.1 |
+| phil-125 | Philosophical | [Kant Groundwork categorical imperative dignity](whitepaper/04-amplified-humanity/evidence/philosophy/phil-125.md) | Moderate | 4.1, 4.3, 6.1, 8.2 |
+| phil-126 | Philosophical | [Kant Critique of Practical Reason autonomy](whitepaper/04-amplified-humanity/evidence/philosophy/phil-126.md) | Moderate | 4.1, 4.3, 5.2 |
 | emp-013 | Empirical | [de Groot chess expertise chunking](whitepaper/04-amplified-humanity/evidence/empirical/emp-013.md) | Strong | 4.2, 4.3 |
 | emp-015 | Empirical | [Gigerenzer ecological rationality](whitepaper/04-amplified-humanity/evidence/empirical/emp-015.md) | Moderate | 4.2, 4.3 |
 | emp-016 | Empirical | [Gigerenzer et al. Simple Heuristics formal](whitepaper/04-amplified-humanity/evidence/empirical/emp-016.md) | Strong | 4.2, 4.3 |
@@ -170,6 +176,7 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 | emp-014 | Empirical | [Ericsson deliberate practice expertise](whitepaper/06-design-principles/evidence/empirical/emp-014.md) | Strong | 6.1 |
 | tech-011 | Technical | [Friedman & Hendry Value Sensitive Design](whitepaper/06-design-principles/evidence/technical/tech-011.md) | Strong | 6.1, 6.2 |
 | tech-014 | Technical | [Shneiderman HCAI framework reliability/safety/trustworthiness](whitepaper/06-design-principles/evidence/technical/tech-014.md) | Strong | 6.1, 6.3 |
+| phil-127 | Philosophical | [Federalist Papers institutional design checks](whitepaper/06-design-principles/evidence/philosophy/phil-127.md) | Moderate | 6.1, 6.2, 8.1 |
 | hist-005 | Historical | [Taleb Antifragile capability growth](whitepaper/06-design-principles/evidence/history/hist-005.md) | Moderate | 6.1, 6.3 |
 | hist-006 | Historical | [Woods & Hollnagel Joint Cognitive Systems](whitepaper/06-design-principles/evidence/history/hist-006.md) | Strong | 6.1, 6.2 |
 
@@ -223,6 +230,7 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 | emp-024 | Empirical | [Tutt FDA for Algorithms regulatory model](whitepaper/08-implications-action/evidence/empirical/emp-024.md) | Moderate | 8.3, 8.2 |
 | hist-007 | Historical | [Jasanoff Ethics of Invention governance](whitepaper/08-implications-action/evidence/history/hist-007.md) | Strong | 8.1, 8.2 |
 | hist-008 | Historical | [Lessig Code is Law architecture as regulation](whitepaper/08-implications-action/evidence/history/hist-008.md) | Strong | 8.1, 8.2 |
+| phil-124 | Philosophical | [Montesquieu Spirit of Laws separation of powers](whitepaper/08-implications-action/evidence/philosophy/phil-124.md) | Suggestive | 8.1, 6.1 |
 | hist-009 | Historical | [Marchetti & Maassarani Global AI Governance](whitepaper/08-implications-action/evidence/history/hist-009.md) | Moderate | 8.1, 8.3 |
 | hist-010 | Historical | [Ostrom Governing the Commons polycentric](whitepaper/08-implications-action/evidence/history/hist-010.md) | Strong | 8.1, 8.4 |
 | tech-012 | Technical | [Raji et al. SMACTR algorithmic auditing](whitepaper/08-implications-action/evidence/technical/tech-012.md) | Strong | 8.2, 8.3 |
@@ -238,15 +246,15 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 101 |
-| Philosophical | 38 |
+| Total evidence items | 109 |
+| Philosophical | 46 |
 | Historical | 15 |
 | Mathematical | 0 |
 | Empirical | 34 |
 | Technical | 14 |
 | Rated Strong | 65 |
-| Rated Moderate | 34 |
-| Rated Suggestive | 2 |
+| Rated Moderate | 40 |
+| Rated Suggestive | 4 |
 | Known evidence gaps | 0 |
 
 ---
@@ -275,6 +283,14 @@ Some evidence items are referenced by multiple parts. This section tracks eviden
 | phil-105 | Part 2 | Part 4 (§4.1) |
 | phil-106 | Part 4 | Part 6 (§6.1) |
 | phil-107 | Part 3 | Part 8 (§8.1) |
+| phil-120 | Part 3 | Part 5 (§5.1) |
+| phil-121 | Part 3 | Part 4 (§4.1) |
+| phil-122 | Part 3 | Part 4 (§4.2) |
+| phil-123 | Part 4 | Part 8 (§8.1) |
+| phil-124 | Part 8 | Part 6 (§6.1) |
+| phil-125 | Part 4 | Part 6 (§6.1), Part 8 (§8.2) |
+| phil-126 | Part 4 | Part 5 (§5.2) |
+| phil-127 | Part 6 | Part 8 (§8.1) |
 
 ---
 
