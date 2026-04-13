@@ -10,33 +10,35 @@
 
 ## The Landscape
 
-AI safety, AI alignment and AI ethics are active, well funded, serious fields.  Each has produced real safety improvements in deployed systems.  Yet the depth of their disagreements reveals a field still working to establish its first principles.  The progress is real, the foundations remain contested.
+AI safety, AI alignment and AI ethics are active, well funded, serious fields.  Each has produced real engineering improvements in deployed systems — RLHF training, robustness testing, concrete safety specifications (Amodei et al., 2016; Bai et al., 2022).  Yet the depth of their disagreements reveals fields still working to establish first principles.  The useful engineering work succeeds *despite* foundational confusion, not because of it: these techniques improve instruments, regardless of whether the researchers frame them as solving an "alignment problem."
 
-Three dominant frameworks illustrate the problem:
+Three dominant frameworks illustrate the foundational error:
 
 **Alignment as Value Specification** asks: how do we ensure AI objectives match human values?  This assumes that the agent model is correct and AI systems have, or could have, personal objectives.  It never asks whether there should be an agent to align.
 
-**Safety as Constraint Satisfaction** asks: how do we prevent AI from causing harm?  This assumes we know what "harm" means.  But "harm" is a philosophical concept, not a technical one, and the framework provides no philosophical grounding for it.
+**Safety as Constraint Satisfaction** asks: how do we prevent AI from causing harm?  This treats safety as a constraint imposed on a dangerous thing.  But safety is an engineering property of a well-built thing.  We do not "constrain" a bridge to prevent it from falling; we engineer it to stand.  The safety community's language betrays its assumption: that systems are inherently dangerous and must be restrained.
 
-**Control as Containment** asks: how do we maintain authority over increasingly powerful systems?  This assumes AI might develop independent goals that conflict with our own.  This is an adversarial framing that describes designs requiring containment rather than collaboration.
+**Control as Containment** asks: how do we maintain authority over increasingly powerful systems?  This assumes AI might develop independent goals that conflict with our own.  This is the decelerationist framing — design for containment rather than collaboration.
 
-Each of these is a reasonable starting point, and each has advanced our understanding of real risks.  But all three frameworks share one assumption: **they treat AI as a potential agent.**  Whether focusing on alignment (the agent wants what we want), safety (the agent doesn't cause harm), or control (we maintain authority over the agent), the underlying model is the same.  AI is something with potential objectives, interests, or agency.
+The accelerationist position makes the complementary error: it treats AI as a potential partner or successor, and biases design toward autonomy without accountability.
 
-This assumption is rarely examined because it's embedded in the language itself.  "Artificial intelligence" implies a mind.  And the entire research agenda follows from that implication.
+Both camps share one assumption: **they treat AI as a potential agent.**  Whether focusing on alignment (the agent wants what we want), safety (the agent doesn't cause harm), control (we contain the agent), or acceleration (we unleash the agent), the underlying model is the same.  AI is something with potential objectives, interests, or agency.
+
+This assumption is rarely examined because it is embedded in the language itself.  "Artificial intelligence" implies a mind.  And the entire research agenda — on both sides — follows from that implication.  Hubert Dreyfus identified this pattern in 1972: AI research repeatedly embeds unexamined philosophical assumptions, builds systems on those assumptions, encounters crisis when the assumptions prove false, and proceeds to the next paradigm with similarly unexamined assumptions.  The current cycle is no different.
 
 ## The Five Structural Problems
 
 | Problem | What happens | Consequence |
 |---------|-------------|-------------|
 | **No first principle** | Debates reduce to competing preferences | No grounding for any decision |
-| **Agent framing** | AI treated as potential adversary | Design biased toward containment, not amplification |
+| **Agent framing** | AI treated as potential adversary *or* potential partner | Design biased toward containment (decelerationist) or unconstrained autonomy (accelerationist), not amplification |
 | **Substitution assumption** | AI framed as replacement for human capability | Dependency creation treated as progress |
 | **Missing criterion** | "Beneficial," "safe," "aligned" used without definition | Cannot evaluate whether anything is working |
 | **Accountability gap** | No requirement that consequential actions trace to responsible moral agents | Empowering technologies recaptured for centralized control |
 
-**No first principle.**  The arguments that powerful AI poses existential risk, benefits outweigh risks and risks are design dependent are positions that cannot be adjudicated because there is no shared criterion for evaluation.  Without a shared first principle, the loudest voice or the deepest pocket will win, not the most coherent argument.
+**No first principle.**  The arguments that powerful AI poses existential risk, that benefits outweigh risks, and that risks are design-dependent are positions that cannot be adjudicated because there is no shared criterion for evaluation.  The third position — risks are design-dependent — is the one best supported by empirical evidence: forty years of human-automation research demonstrates that identical technology produces opposite safety outcomes depending on whether it is designed for amplification or replacement (Bainbridge, 1983; Endsley, 2017; Billings, 1997).  But even this position lacks the philosophical grounding — a first principle — that would make it actionable.  Without a shared first principle, the loudest voice or the deepest pocket will win, not the most coherent argument.
 
-**Agent framing.**  If AI is an agent, it might have conflicting interests, resist control, or pursue unintended objectives.  This leads to containment oriented design.  What if the assumption is wrong?  We don't ask how to prevent a hammer from pursuing its own objectives.  We ask how to design a hammer that serves human purposes.  These are categorically different questions, and the agent assumption determines which one we ask.
+**Agent framing.**  If AI is an agent, it might have conflicting interests, resist control, or pursue unintended objectives.  This leads to containment-oriented design.  What if the assumption is wrong?  We do not ask how to prevent a hammer from pursuing its own objectives.  We ask how to design a hammer that serves human purposes.  These are categorically different questions, and the agent assumption determines which one we ask.  Computational systems have extraordinary capabilities — they affect systems at scale, process information beyond human bandwidth, and operate with consistency no human can match.  But they lack the necessary conditions for agency: self-sustaining existence, genuine self-model, goal generation, volition, and moral responsibility capacity.  Treating them as instruments is not a design preference; it is ontological accuracy about what they are, despite their enormous capabilities.  As Floridi and Chiriatti have argued, even the most impressive contemporary language models are "agentless" — generating statistically likely text, not comprehending what they produce.  Attributing agency to such systems is a category error that distorts evaluation of what they are and what they can do.
 
 **Substitution assumption.**  The default trajectory is AI replacing human activity.  Driving cars, writing documents and making diagnoses can be off loaded.  This assumption seems natural given the language of "artificial intelligence" suggests an alternative to human intelligence and is reinforced by economic incentives.  But substitution is a design choice, not a technological necessity.  We could measure success by capability enhanced rather than tasks automated.  The discourse doesn't consider this because it hasn't asked what the human machine relationship should be.
 
@@ -48,9 +50,9 @@ This assumption is rarely examined because it's embedded in the language itself.
 
 The discourse debates derivative issues while leaving foundations unexamined.  Four questions establish those foundations:
 
-1. **What is computation, ontologically?**  Can it be intelligent or conscious?  Or is it categorically different from the processes that produce mind?  The answer determines whether the agent framing is even appropriate.
+1. **What is computation, ontologically?**  Can it be intelligent or conscious?  Or is it categorically different from the processes that produce mind?  The answer determines whether the agent framing is even appropriate.  Shanahan's analysis of language models as engaged in "role-play" — occupying a conversational role without possessing the understanding the role requires — and Haugeland's distinction between "derived intentionality" (meaning attributed by designers) and "original intentionality" (intrinsic aboutness) both suggest computation is categorically different.
 
-2. **What criterion determines good vs. bad outcomes?**  Various answers exist.  Pleasure, rights, duty and flourishing each imply a different evaluations of AI systems.  The discourse uses "beneficial" as if it were self explanatory, it isn't.
+2. **What criterion determines good vs. bad outcomes?**  Various answers exist.  Pleasure, rights, duty and flourishing each imply different evaluations of AI systems.  The discourse uses "beneficial" as if it were self-explanatory; it is not.  Plato's ancient distinction between true belief and knowledge remains operative: a system that produces correct outputs is not the same as a system that produces understanding.  A traveler with true belief about the road to Larissa arrives as reliably as one with knowledge — until conditions change, explanation is needed, or generalization is required.  The criterion must address understanding, not merely output accuracy.
 
 3. **What should the human machine relationship be?**  Replacement or amplification? Agent or instrument?  The discourse assumes replacement and potential agency without examining alternatives.
 
