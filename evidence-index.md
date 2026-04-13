@@ -45,6 +45,8 @@ _The choice between replacement-default and amplification-first AI development._
 | emp-032 | Empirical | [Brynjolfsson & McAfee Second Machine Age](whitepaper/01-two-futures/evidence/empirical/emp-032.md) | Strong | 1.1, 1.2 |
 | emp-033 | Empirical | [Davenport & Kirby Only Humans Need Apply](whitepaper/01-two-futures/evidence/empirical/emp-033.md) | Moderate | 1.2, 6.1 |
 | emp-034 | Empirical | [Raisch & Krakowski automation-augmentation paradox](whitepaper/01-two-futures/evidence/empirical/emp-034.md) | Strong | 1.2, 1.3 |
+| hist-012 | Historical | [Mindell Our Robots Ourselves myth of autonomy](whitepaper/01-two-futures/evidence/history/hist-012.md) | Strong | 1.1, 1.3 |
+| hist-015 | Historical | [Zuboff Smart Machine automate/informate distinction](whitepaper/01-two-futures/evidence/history/hist-015.md) | Strong | 1.1, 1.2 |
 | phil-037 | Philosophical | [Winner Do Artifacts Have Politics](whitepaper/01-two-futures/evidence/philosophy/phil-037.md) | Strong | 1.1, 1.2 |
 | phil-038 | Philosophical | [Zuboff Surveillance Capitalism](whitepaper/01-two-futures/evidence/philosophy/phil-038.md) | Strong | 1.1, 1.2, 8.1 |
 
@@ -158,6 +160,8 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 | emp-011 | Empirical | [Shneiderman Human-Centered AI](whitepaper/06-design-principles/evidence/empirical/emp-011.md) | Strong | 6.1, 6.2, 6.3 |
 | emp-012 | Empirical | [Wickens et al. Engineering Psychology](whitepaper/06-design-principles/evidence/empirical/emp-012.md) | Strong | 6.1, 6.2 |
 | emp-014 | Empirical | [Ericsson deliberate practice expertise](whitepaper/06-design-principles/evidence/empirical/emp-014.md) | Strong | 6.1 |
+| tech-011 | Technical | [Friedman & Hendry Value Sensitive Design](whitepaper/06-design-principles/evidence/technical/tech-011.md) | Strong | 6.1, 6.2 |
+| tech-014 | Technical | [Shneiderman HCAI framework reliability/safety/trustworthiness](whitepaper/06-design-principles/evidence/technical/tech-014.md) | Strong | 6.1, 6.3 |
 | hist-005 | Historical | [Taleb Antifragile capability growth](whitepaper/06-design-principles/evidence/history/hist-005.md) | Moderate | 6.1, 6.3 |
 | hist-006 | Historical | [Woods & Hollnagel Joint Cognitive Systems](whitepaper/06-design-principles/evidence/history/hist-006.md) | Strong | 6.1, 6.2 |
 
@@ -173,6 +177,7 @@ _Domain applications (healthcare, legal, education, business), systematic failur
 | ID | Type | Title | Strength | Section(s) |
 |---|---|---|---|---|
 | tech-010 | Technical | [Weidinger et al. LLM risk taxonomy](whitepaper/07-applications-failures/evidence/technical/tech-010.md) | Strong | 7.1, 7.2 |
+| tech-013 | Technical | [Selbst et al. fairness abstraction traps](whitepaper/07-applications-failures/evidence/technical/tech-013.md) | Strong | 7.1, 7.3 |
 | emp-001 | Empirical | [Bainbridge Ironies of Automation](whitepaper/07-applications-failures/evidence/empirical/emp-001.md) | Strong | 7.1, 7.2 |
 | emp-005 | Empirical | [Endsley & Kiris out-of-the-loop performance](whitepaper/07-applications-failures/evidence/empirical/emp-005.md) | Strong | 7.2, 7.1 |
 | emp-006 | Empirical | [Hancock AV pitfalls](whitepaper/07-applications-failures/evidence/empirical/emp-006.md) | Moderate | 7.3, 7.1 |
@@ -190,6 +195,9 @@ _Domain applications (healthcare, legal, education, business), systematic failur
 | hist-001 | Historical | [Leveson STAMP systems safety](whitepaper/07-applications-failures/evidence/history/hist-001.md) | Strong | 7.1, 7.2 |
 | hist-003 | Historical | [Perrow Normal Accidents tight coupling](whitepaper/07-applications-failures/evidence/history/hist-003.md) | Strong | 7.1, 7.4 |
 | hist-004 | Historical | [Reason Human Error Swiss cheese model](whitepaper/07-applications-failures/evidence/history/hist-004.md) | Strong | 7.1, 7.2 |
+| hist-011 | Historical | [CAIB Columbia Report institutional coherence failure](whitepaper/07-applications-failures/evidence/history/hist-011.md) | Strong | 7.1, 7.2 |
+| hist-013 | Historical | [NTSB aviation accident reports out-of-the-loop](whitepaper/07-applications-failures/evidence/history/hist-013.md) | Strong | 7.1, 7.2 |
+| hist-014 | Historical | [Vaughan Challenger Launch Decision normalization of deviance](whitepaper/07-applications-failures/evidence/history/hist-014.md) | Strong | 7.1, 7.3 |
 
 **Known gaps:**
 -
@@ -209,6 +217,7 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 | hist-008 | Historical | [Lessig Code is Law architecture as regulation](whitepaper/08-implications-action/evidence/history/hist-008.md) | Strong | 8.1, 8.2 |
 | hist-009 | Historical | [Marchetti & Maassarani Global AI Governance](whitepaper/08-implications-action/evidence/history/hist-009.md) | Moderate | 8.1, 8.3 |
 | hist-010 | Historical | [Ostrom Governing the Commons polycentric](whitepaper/08-implications-action/evidence/history/hist-010.md) | Strong | 8.1, 8.4 |
+| tech-012 | Technical | [Raji et al. SMACTR algorithmic auditing](whitepaper/08-implications-action/evidence/technical/tech-012.md) | Strong | 8.2, 8.3 |
 
 **Known gaps:**
 -
@@ -221,13 +230,13 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 
 | Metric | Count |
 |---|---|
-| Total evidence items | 84 |
+| Total evidence items | 93 |
 | Philosophical | 30 |
-| Historical | 10 |
+| Historical | 15 |
 | Mathematical | 0 |
 | Empirical | 34 |
-| Technical | 10 |
-| Rated Strong | 56 |
+| Technical | 14 |
+| Rated Strong | 65 |
 | Rated Moderate | 28 |
 | Rated Suggestive | 0 |
 | Known evidence gaps | 0 |
