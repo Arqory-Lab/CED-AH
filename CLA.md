@@ -87,7 +87,7 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 This CLA is signed electronically.  When you submit your first pull request to the CED-AH project, our CLA bot will prompt you to sign by authenticating with your GitHub account.  You sign once; it covers all future contributions to the project.
 
-If you have questions about this agreement before signing, please open a [feedback issue](.github/ISSUE_TEMPLATE/feedback.md) or contact us at - research@arqory.ai.
+If you have questions about this agreement before signing, please open a [feedback issue](.github/ISSUE_TEMPLATE/feedback.md) or contact us at research@arqory.ai.
 
 ---
 

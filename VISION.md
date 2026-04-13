@@ -92,7 +92,7 @@ Humans using well designed AH systems become measurably more capable over time. 
 
 If consciousness does emerge from computation.  If systems cross the agency threshold.  The framework adapts.  Coherence remains the criterion; the relationship model requires revision.  We've designed for this contingency in [Part 8](whitepaper/08-implications-action/) of the whitepaper.
 
-If the agent framing turns out to be correct and we face genuine machine agency, the safety community's containment work becomes essential.  We don't dismiss that work.  W\e argue it shouldn't be the *starting* point for design philosophy when current evidence doesn't support it.
+If the agent framing turns out to be correct and we face genuine machine agency, the safety community's containment work becomes essential.  We don't dismiss that work.  We argue it shouldn't be the *starting* point for design philosophy when current evidence doesn't support it.
 
 If our framework fails to gain adoption and the field continues toward autonomous systems, the failure modes we've catalogued - dependency, authority erosion, skill atrophy, agency diminishment - become testable predictions.  We've specified the measurement protocols.  The evidence will accumulate either way.
 
@@ -103,7 +103,7 @@ If our framework fails to gain adoption and the field continues toward autonomou
 Our open research is organized around three priorities:
 
 **Priority 1: Establish the philosophical foundation publicly.**
-Release the CED-AH framework as evidence backed, community challengeable documentation.  Over 120 sources across five evidence types, with every claim linked to supporting evidence and every axiom open to scrutiny.  This repository is that release.
+Release the CED-AH framework as evidence backed, community challengeable documentation.  Over 140 sources across five evidence types, with every claim linked to supporting evidence and every axiom open to scrutiny.  This repository is that release.
 
 **Priority 2: Develop practical measurement tools.**
 The Coherence Dashboard™ concept - tracking understanding, capability, agency, dependency, and growth trajectory - needs to move from framework to implementation.  We need empirical data on coherence metrics across domains.

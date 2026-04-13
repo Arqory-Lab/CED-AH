@@ -30,7 +30,7 @@ CED-AH delivers a **complete philosophical framework**, from first principles th
 
 **Amplified Humanity™ (AH)** applies that foundation to computational systems: five enforceable design imperatives, systematic failure mode analysis, and a measurement framework for tracking coherence impact over time.
 
-This is not a position paper.  It is an **evidence-backed, modular, community-challengeable body of work** - grounded in over 120 sources spanning philosophical argument, empirical research, technical analysis, historical precedent, and mathematical proof.  Every claim can be traced to its supporting evidence, and every axiom can be formally contested.
+This is not a position paper.  It is an **evidence-backed, modular, community-challengeable body of work** - grounded in over 140 sources spanning philosophical argument, empirical research, technical analysis, historical precedent, and mathematical proof.  Every claim can be traced to its supporting evidence, and every axiom can be formally contested.
 
 ---
 
@@ -207,7 +207,7 @@ Our current priorities and their status:
 
 | Phase | Focus | Status |
 |---|---|---|
-| **Foundation** | Complete whitepaper (9 parts), evidence base (~125 sources, 5 evidence types), repository infrastructure | ✅ Current |
+| **Foundation** | Complete whitepaper (9 parts), evidence base (~140 sources, 5 evidence types), repository infrastructure | ✅ Current |
 | **Community** | Launch, initial engagement, evidence challenges and extensions | 🔜 Next |
 | **Measurement** | Coherence Dashboard™ reference implementation, empirical validation | 📋 Planned |
 | **Domain Guides** | Detailed implementation guidance for healthcare, legal, education, finance | 📋 Planned |
@@ -223,7 +223,7 @@ The Arqory™ Research Institute is a nonprofit research organization dedicated 
 
 Our dual-entity structure, nonprofit research, commercial deployment, ensures that safety work remains independent while infrastructure development is commercially sustainable.  Both entities operate under a Delaware parent and share a single mission: computational systems that amplify human flourishing.
 
-**Contact:** - research@arqory.ai
+**Contact:** research@arqory.ai
 **Website:** research.arqory.ai
 
 ---

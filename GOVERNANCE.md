@@ -172,7 +172,7 @@ This project is maintained by The Arqory Research Institute, a nonprofit researc
 
 The Arqory Research Institute's organizational governance (board composition, nonprofit compliance, financial oversight) is separate from and not determined by this project's governance.  The Arqory's affiliated commercial entity operates under its own corporate governance.
 
-As the project grows, the relationship between project governance and organizational governance may need to be formalized.  Ffor example, through a foundation structure or fiscal sponsorship arrangement.  That structure will be designed when it is needed.
+As the project grows, the relationship between project governance and organizational governance may need to be formalized.  For example, through a foundation structure or fiscal sponsorship arrangement.  That structure will be designed when it is needed.
 
 ---
 
