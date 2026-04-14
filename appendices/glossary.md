@@ -10,6 +10,9 @@ Contributors: please link to glossary entries on first use of a term within each
 
 ## A
 
+### Accountability Gap
+**[CED-AH]** The structural evasion of accountability that occurs when distributed causation in computational systems obscures responsibility.  Manifests as "the algorithm decided" or "the AI did it" — diffusing accountability across developers, integrators, deployers, and operators until no identifiable entity is answerable.  The accountability principle is the framework's response to this gap.  See [Part 2](../whitepaper/02-ai-conversation/main.md), [Part 8](../whitepaper/08-implications-action/main.md).
+
 ### Accountability Principle
 **[CED-AH]** The second of the framework's Two Commitments.  States that every entity deploying a computational system — whether an individual person or a legally recognized organization — bears accountability for the system's effects on the humans it touches.  The five Design Imperatives define the standard against which this accountability is assessed.  The principle is derived from the coherence first principle: if computational systems are instruments (Commitment 1), then accountability for their effects cannot rest with the instrument but must rest with the entity that deploys it.  The accountability principle is not a legal claim about liability in any jurisdiction; it is a philosophical commitment about the necessary relationship between consequential action and moral responsibility.  See [Part 8](../whitepaper/08-implications-action/main.md).
 
@@ -27,6 +30,12 @@ The capacity to make decisions, take actions, and bear responsibility for their 
 
 ### Authority Retention
 **[CED-AH]** The first of the five Design Imperatives. Requires that humans make all consequential decisions, with AH systems providing support, analysis, and options but never deciding autonomously. The failure signal is when "the AI recommended it" becomes a sufficient justification for action. See [Part 6](../whitepaper/06-design-principles/main.md).
+
+### Authority Erosion
+**[CED-AH]** A failure mode in which "AH said to do it" becomes sufficient justification for action — the human stops engaging in decision-making and defers to system output without independent evaluation.  Authority erosion violates the Authority Retention imperative and is tracked as a failure signal in the Coherence Dashboard.  See [Part 7](../whitepaper/07-applications-failures/main.md).
+
+### Automation Complacency
+**[CED-AH]** Reduced vigilance in monitoring an automated system when it performs well, resulting in missed failure cases.  Distinct from authority erosion: complacency is a monitoring failure (the human is nominally in the loop but not attending), while authority erosion is a decision failure (the human delegates decisions entirely).  See [Part 7](../whitepaper/07-applications-failures/main.md).
 
 ### Automation Dominion
 **[CED-AH]** One of two possible futures described in the framework. In this scenario, computational systems progressively replace human decision-making, capability, and agency — initially for efficiency, eventually by default. Contrasted with Amplified Humanity. See [Part 1](../whitepaper/01-two-futures/main.md).
@@ -62,11 +71,20 @@ The CED-AH framework's preferred term for what is commonly called "AI," "artific
 
 ## D
 
+### Dependency Alerts
+**[CED-AH]** A design mechanism that increases productive friction when dependency patterns are detected — requiring more explanation, reasoning, and explicit decision-making from the user as reliance on the system increases.  Implements the Capability Growth imperative by counteracting the natural tendency toward passive consumption of system output.  See [Part 6](../whitepaper/06-design-principles/main.md).
+
 ### Dependency
 **[CED-AH]** A state in which a human's ability to function is diminished by the absence of a computational system. Distinguished from productive tool use by the direction of capability: tool use increases capability over time; dependency erodes it. Dependency is a failure mode, not a feature. See [Part 7](../whitepaper/07-applications-failures/main.md).
 
+### Derived Intentionality
+Meaning attributed to a system by its designers or users rather than possessed intrinsically.  Computational systems exhibit derived intentionality: their "aboutness" is a product of human design and interpretation, not an intrinsic property.  Contrasted with original intentionality (the intrinsic aboutness of human thought).  The distinction grounds the framework's instrument thesis — systems with only derived intentionality are instruments, not agents.  See [Part 2](../whitepaper/02-ai-conversation/main.md), [Part 4](../whitepaper/04-amplified-humanity/main.md).
+
 ### Deploying Entity
 **[CED-AH]** The human person or legally recognized organization that makes the decision to put a computational system into consequential operation.  The deploying entity is the accountability target in the framework's Accountability Principle: it bears accountability for the system's effects, assessed against the five Design Imperatives.  In simple deployments, the deploying entity is obvious (the company that releases the product).  In complex deployment chains (model developer → integrator → deployer → operator → end user), identifying the deploying entity requires tracing the deployment decision — the choice to configure and release the system for consequential use.  The framework treats complex deployment chains as an open research problem.  See [Part 8](../whitepaper/08-implications-action/main.md).
+
+### Directed Automation
+**[CED-AH]** A design pattern in which highly automated background processes handle routine operations while the human retains decision authority over consequential matters.  Directed automation may involve *more* automation than conventional systems — the distinction is not the level of automation but the location of authority.  The Amplification Renaissance scenario in Part 1 is characterized by directed automation.  See [Part 1](../whitepaper/01-two-futures/main.md).
 
 ### Design Imperatives
 **[CED-AH]** The five non-negotiable requirements for AH-compliant systems: Authority Retention, Capability Growth, Transparency, Calibrated Honesty, and Reversibility. Derived from the CED axiom structure, not selected ad hoc. Each imperative has defined success criteria and failure signals. See [Part 6](../whitepaper/06-design-principles/main.md).
@@ -81,13 +99,24 @@ Relating to knowledge — its nature, sources, scope, and limits. In the CED-AH 
 
 ## F
 
+### Formal Architecture Labels
+**[CED-AH]** The framework's formal structure uses labeled tiers: **T1** (the Coherence Presupposition — transcendental axiom), **S1–S6** (six defended substantive commitments), **B1–B4** (four bridging principles connecting commitments to imperatives), and the five Design Imperatives (Tier 4).  See [Part 5](../whitepaper/05-formal-architecture/main.md).
+
 ### Failure Mode
 **[CED-AH]** A specific, identifiable way in which a computational system can decrease human coherence. The framework catalogs failure modes systematically, organized by which Design Imperative they violate. Each failure mode has defined detection criteria and intervention protocols. See [Part 7](../whitepaper/07-applications-failures/main.md).
 
 ### Flourishing
 Human flourishing in the CED-AH framework refers to the sustained development of human capability, understanding, agency, and wellbeing. It is the purpose that coherent computational systems should serve. The framework does not prescribe a specific theory of flourishing but requires that any AH-compliant system demonstrably contributes to — and does not undermine — the conditions for flourishing. See [Part 3](../whitepaper/03-coherence-foundation/main.md), [Part 4](../whitepaper/04-amplified-humanity/main.md).
 
+## H
+
+### Hard Gates
+**[CED-AH]** Structural design requirements mandating explicit human confirmation at consequential decision points before automated processes execute.  Hard gates implement the Authority Retention imperative by ensuring that automation handles routine operations while humans authorize consequential actions.  The system halts and waits for human input — it does not proceed by default.  Distinguished from traditional safeguards by being architectural (built into system flow) rather than procedural (added as policy).  See [Part 6](../whitepaper/06-design-principles/main.md).
+
 ## I
+
+### Integration Layer
+**[CED-AH]** The architectural component in an AH-compliant system that translates human intent into AH-processable form and enforces all five Design Imperatives at every interaction.  The integration layer mediates between user and system, ensuring authority retention, capability growth, transparency, calibrated honesty, and reversibility are maintained structurally.  See [Part 6](../whitepaper/06-design-principles/main.md).
 
 ### Instrument
 **[CED-AH]** The ontological classification of computational systems in the CED-AH framework. Instruments are human-created, human-dependent, human-purposed tools. They require human-designed hardware, human-generated power, human-maintained infrastructure, and human-provided purpose. The framework argues that classifying computational systems as instruments is not a limitation but an accurate description with important design implications.  This classification is formalized as the Instrument Thesis, the first of the framework's Two Commitments, and produces both the five Design Imperatives (what instruments must do) and the standard against which the Accountability Principle (the second commitment) assesses deploying entities.  Contrasted with agent. See [Part 4](../whitepaper/04-amplified-humanity/main.md).
@@ -98,10 +127,29 @@ Human flourishing in the CED-AH framework refers to the sustained development of
 ### Interlock
 **[CED-AH]** The structural relationship between the framework's Two Commitments.  The framework claims that the instrument thesis and the accountability principle are structurally interlocking: each is necessary but insufficient without the other.  The instrument thesis without accountability is a design standard without enforcement (it specifies what to build but not who answers when it's built wrong).  The accountability principle without the instrument thesis is enforcement without a standard (it specifies that someone is responsible but not for what).  The interlock claim is the framework's most distinctive and — by its own self-critique — most vulnerable assertion.  See [Part 8](../whitepaper/08-implications-action/main.md).
 
+### Irreversibility Gradient
+**[CED-AH]** The principle that capability degradation compounds over time and across generations: early-stage degradation is more reversible than late-stage.  Formalized as S5 in the formal architecture.  Early choices have outsized influence on long-term trajectories; institutional path dependencies amplify reversal difficulty.  Historically documented by Ibn Khaldun's three-generation model and Tocqueville's soft despotism analysis.  See [Part 5](../whitepaper/05-formal-architecture/main.md).
+
 ## L
 
 ### Lazy Consensus
 A decision-making process adopted from the Apache Software Foundation. A proposal is announced publicly; if no reasoned objection is raised within a defined period (72 hours for routine decisions, 7 days for significant decisions), silence constitutes approval. Objections must include a specific alternative. See [GOVERNANCE](../GOVERNANCE.md), [CONTRIBUTING](../CONTRIBUTING.md).
+
+## O
+
+### Original Intentionality
+The intrinsic "aboutness" of human thought — mental states that are genuinely *about* something by their nature, not by convention or design.  Contrasted with derived intentionality.  The framework argues that computational systems possess only derived intentionality, which is why they are instruments rather than agents.  See [Part 2](../whitepaper/02-ai-conversation/main.md), [Part 4](../whitepaper/04-amplified-humanity/main.md).
+
+### Out-of-the-Loop Problem
+The measurable degradation in situational awareness and intervention ability that occurs when human operators are placed in passive monitoring roles rather than active control.  First documented by Endsley & Kiris (1995).  The framework treats the out-of-the-loop problem as a structural consequence of substitutive design — not a human failing but a predictable design outcome.  See [Part 7](../whitepaper/07-applications-failures/main.md).
+
+## P
+
+### Phase Protocol
+**[CED-AH]** A three-phase deployment structure for AH-compliant systems: (1) pre-deployment training — onboarding users on AH nature, authority responsibility, and override use; (2) active deployment with dependency monitoring — ongoing assessment tracking dependency indicators; (3) coherence review — periodic assessment of whether the system increases human coherence.  See [Part 8](../whitepaper/08-implications-action/main.md).
+
+### Productive Friction
+**[CED-AH]** Difficulty calibrated to build human capability — challenge that stretches capacity without overwhelming it.  Not busywork, not artificial obstacles, but the structured resistance necessary for growth.  The framework's central claim is that humans thrive when challenged and atrophy when insulated from difficulty; productive friction is the design mechanism that preserves this dynamic in computational systems.  Implements the Capability Growth imperative.  See [Part 1](../whitepaper/01-two-futures/main.md), [Part 6](../whitepaper/06-design-principles/main.md).
 
 ## R
 
@@ -111,13 +159,37 @@ A decision-making process adopted from the Apache Software Foundation. A proposa
 ### Reversibility
 **[CED-AH]** The fifth of the five Design Imperatives. Requires that every action taken by or through an AH-compliant system can be undone, and that humans can always override system behavior. The failure signal is irreversible actions taken without explicit human confirmation. See [Part 6](../whitepaper/06-design-principles/main.md).
 
+## S
+
+### Skill Tracking
+**[CED-AH]** The practice of monitoring human capability development over time, not just task completion.  An AH-compliant system tracks whether users are becoming more capable through interaction, measured by performance without system assistance.  A core component of the Coherence Dashboard.  See [Part 6](../whitepaper/06-design-principles/main.md).
+
+### Substitution-Amplification Continuum
+**[CED-AH]** The spectrum along which all computational system deployments exist, ranging from pure substitution (system replaces human capability entirely) to pure amplification (system extends human capability while preserving and growing it).  The position on this continuum is determined by the degree of active cognitive engagement required of the user — a design choice, not a technological property.  Technology-independent: the same system can be deployed at different points on the continuum depending on design decisions.  Formalized as S4 in the formal architecture.  See [Part 5](../whitepaper/05-formal-architecture/main.md), [Part 7](../whitepaper/07-applications-failures/main.md).
+
+### Systemic Incoherence
+**[CED-AH]** A population-level failure mode in which a system increases individual coherence while decreasing it systemically — through judgment homogenization, emergent dependencies, or erosion of cognitive diversity.  The "seventh mode" of failure identified in Part 7.  A system that makes every individual more efficient but makes the population less resilient or less capable of independent thought has produced systemic incoherence.  See [Part 7](../whitepaper/07-applications-failures/main.md).
+
 ## T
+
+### Teaching Mode
+**[CED-AH]** A system design feature in which the system explains its reasoning process, not just its results, to support human capability growth.  Teaching mode implements the Capability Growth imperative by ensuring that system use builds understanding rather than replacing it.  See [Part 6](../whitepaper/06-design-principles/main.md), [Part 7](../whitepaper/07-applications-failures/main.md).
+
+### Third-Position Safety Stance
+**[CED-AH]** The framework's position on AI safety: neither deceleration (slow down, regulate, stop) nor acceleration (build faster, regulate less), but safety through amplification engineering.  The third position holds that the relevant question is not "how fast?" but "what relationship?" — systems designed for amplification are inherently safer than systems designed for replacement, regardless of capability level.  See [Part 1](../whitepaper/01-two-futures/main.md), [Part 8](../whitepaper/08-implications-action/main.md).
 
 ### Transcendental Precondition
 A condition that must be presupposed for a given activity to be possible. In the CED-AH framework, coherence is argued to be a transcendental precondition of rational discourse: any attempt to argue against coherence must itself be coherent to succeed, thereby presupposing what it attempts to deny. This argument structure draws on the Kantian tradition but is applied specifically to epistemic frameworks rather than to experience in general. See [Part 3](../whitepaper/03-coherence-foundation/main.md).
 
 ### Transparency
 **[CED-AH]** The third of the five Design Imperatives. Requires that a system's reasoning process is explicable to its users and that its limitations are disclosed. The failure signal is when users cannot explain the basis of system outputs they rely on. Transparency is not the same as interpretability (a technical property of models) — it is a relational property between system and user. See [Part 6](../whitepaper/06-design-principles/main.md).
+
+## U
+
+### Unassisted Capability
+**[CED-AH]** Task performance measured without system assistance — the core metric for the Capability Growth imperative.  The test is whether the human can do more *without* AH than before they started using it.  If unassisted capability declines over time, the system is producing dependency, not growth, regardless of how effective assisted performance appears.  See [Part 7](../whitepaper/07-applications-failures/main.md).
+
+---
 
 ### Two Commitments
 **[CED-AH]** The paired foundational claims of the CED-AH framework, both derived from the coherence first principle.  **Commitment 1 (The Instrument Thesis):** Computational systems are instruments for human flourishing, producing five Design Imperatives and a measurement framework.  **Commitment 2 (The Accountability Principle):** Every deploying entity bears accountability for its system's effects, assessed against those imperatives.  The Two Commitments are structurally interlocking (see [Interlock](#interlock)): together they constitute the framework's complete safety specification — what computational systems are, what they must do, how to measure their effects, and who answers when they fail.  See [Part 4](../whitepaper/04-amplified-humanity/main.md), [Part 6](../whitepaper/06-design-principles/main.md), [Part 8](../whitepaper/08-implications-action/main.md).
@@ -130,12 +202,15 @@ For quick reference: which chapters introduce or primarily develop each term.
 
 | Term | Primary Part(s) |
 |---|---|
+| Accountability Gap | 2, 8 |
 | Accountability Principle | 8 |
 | Agency | 3, 4 |
 | AH (Amplified Humanity) | 4, 6 |
 | AH-Compliant | 6, 7 |
 | Amplification | 4 |
+| Authority Erosion | 7 |
 | Authority Retention | 6 |
+| Automation Complacency | 7 |
 | Automation Dominion | 1 |
 | Calibrated Honesty | 6 |
 | Capability Atrophy | 4, 7 |
@@ -145,22 +220,39 @@ For quick reference: which chapters introduce or primarily develop each term.
 | Coherence Dashboard | 7 |
 | Compound Failure | 7, 8 |
 | Computational System | 2, 4 |
-| Deploying Entity | 8 |
 | Dependency | 7 |
+| Dependency Alerts | 6 |
+| Deploying Entity | 8 |
+| Derived Intentionality | 2, 4 |
 | Design Imperatives | 6 |
+| Directed Automation | 1 |
 | Epistemic | 3 |
 | Evidence Item | — (project infrastructure) |
 | Failure Mode | 7 |
 | Flourishing | 3, 4 |
+| Formal Architecture Labels (T1, S1–S6, B1–B4) | 5 |
+| Hard Gates | 6 |
 | Instrument | 4 |
 | Instrument Thesis | 4 |
+| Integration Layer | 6 |
 | Interlock | 8 |
+| Irreversibility Gradient | 5 |
 | Lazy Consensus | — (project governance) |
+| Original Intentionality | 2, 4 |
+| Out-of-the-Loop Problem | 7 |
+| Phase Protocol | 8 |
+| Productive Friction | 1, 6 |
 | Replacement | 4 |
 | Reversibility | 6 |
+| Skill Tracking | 6 |
+| Substitution-Amplification Continuum | 5, 7 |
+| Systemic Incoherence | 7 |
+| Teaching Mode | 6, 7 |
+| Third-Position Safety Stance | 1, 8 |
 | Transcendental Precondition | 3 |
 | Transparency | 6 |
 | Two Commitments | 4, 6, 8 |
+| Unassisted Capability | 7 |
 
 ---
 

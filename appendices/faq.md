@@ -20,9 +20,19 @@ AI safety typically focuses on preventing catastrophic outcomes.  Systems that a
 
 A system can be "safe" by every conventional metric.  No deception, no misalignment, no catastrophic failure can still produce capability atrophy, dependency, and agency erosion in its users.  CED-AH's measurement framework is designed to detect this slower, structural form of harm.  Additionally, CED-AH insists on entity-level accountability for deployed systems — a dimension most safety frameworks leave implicit.  The framework's accountability principle requires that every deploying entity bears accountability for its system's effects, assessed against specific, measurable design imperatives.  Safety without accountability is diagnosis without treatment.  See [Part 7](../whitepaper/07-applications-failures/main.md) and [Part 8](../whitepaper/08-implications-action/main.md).
 
+### Why does CED-AH rename "AI" to "Amplified Humanity"?
+
+Because the name shapes the design.  "Artificial Intelligence" embeds two assumptions: that the system is *artificial* (separate from human endeavor) and *intelligent* (possessing a property that invites agent-framing).  Both assumptions produce replacement-oriented design — if the system is independently intelligent, the natural trajectory is for it to take over tasks.
+
+"Amplified Humanity" describes what these systems actually are: human-created instruments that extend human capability.  The reframe is not cosmetic.  It changes the design question from "How capable can we make the AI?" to "How much more capable does the human become?"  The term encodes the instrument thesis and the amplification commitment directly.  See [Part 4](../whitepaper/04-amplified-humanity/main.md).
+
 ### Is CED-AH anti-AI?
 
-No.  CED-AH is pro-amplification.  The framework does not argue against computational systems.  It argues for a specific relationship between computational systems and humans.  The same technology deployed as amplification (increasing human capability) produces different outcomes than the same technology deployed as replacement (substituting for human capability).  CED-AH provides criteria for distinguishing between the two and design imperatives for building the former. See [Part 4](../whitepaper/04-amplified-humanity/main.md).
+No.  CED-AH is pro-amplification.  The framework argues for a specific relationship between computational systems and humans — one in which systems amplify human capability rather than replace it.  The same technology deployed as amplification produces different outcomes than the same technology deployed as replacement.  The framework provides the philosophical foundation (the instrument thesis), the design standard (five Design Imperatives), and the measurement framework (Coherence Dashboard) for building amplification systems.  See [Part 4](../whitepaper/04-amplified-humanity/main.md).
+
+### Is CED-AH anti-automation?
+
+No.  The Amplification Renaissance scenario described in Part 1 may involve *more* automation than the Automation Dominion scenario — the distinction is not the *level* of automation but the *location of authority*.  Directed automation, in which highly automated background processes handle routine operations while humans retain decision authority over consequential matters, is a core CED-AH design pattern.  The framework is not "less automation" but "different relationship to automation."  Hard gates, for example, wrap automated processes in human-authorization structures — the automation runs; the human decides when it matters.  See [Part 1](../whitepaper/01-two-futures/main.md), [Part 6](../whitepaper/06-design-principles/main.md).
 
 ### What are the Two Commitments?
 
@@ -38,9 +48,11 @@ See [Part 4](../whitepaper/04-amplified-humanity/main.md) for the instrument the
 
 ### Who is accountable when a computational system causes harm?
 
-The deploying entity.  The human person or legally recognized organization that makes the decision to put the system into consequential operation bears accountability for the system's effects.
+The deploying entity — the human person or legally recognized organization that makes the *deployment decision*: the choice to put the system into consequential operation.  The deployment decision is the accountability boundary, regardless of who built the underlying model.  An entity that fine-tunes, configures, and releases a system for consequential use is the deploying entity, even if it did not train the base model.
 
 This is not a claim about legal liability in any specific jurisdiction.  It is a philosophical commitment: consequential action requires an accountable moral agent.  Computational systems are not moral agents (see [instrument](glossary.md#instrument) in the glossary).  Therefore accountability cannot stop at "the AI did it."  It must trace to the entity that chose to deploy the system, configured its behavior, and released it into consequential operation.
+
+The legal system is independently converging on this position.  In *K.G.M. v. Meta Platforms, Inc.* (2026), the first jury verdict holding social media platforms liable for design choices under product liability theory, the court distinguished platform *conduct* (design features like infinite scroll, algorithmic recommendation) from platform *content* (third-party posts) — assigning liability for design choices to the deploying entity, not the algorithm.
 
 The five Design Imperatives provide the specific standard: a deploying entity is accountable for whether its system maintains Authority Retention, produces Capability Growth, operates with Transparency, practices Calibrated Honesty, and preserves Reversibility.  The measurement framework provides the evidence.  Together, they make accountability concrete and assessable rather than abstract and unenforceable.
 
@@ -68,9 +80,31 @@ The framework argues that coherence, defined as internal consistency combined wi
 
 This is not an arbitrary starting point.  It is an argument that coherence cannot be rationally rejected, which makes it the only viable foundation for a framework that claims to derive its imperatives from first principles rather than from preference or convention.  The full argument, including its formal structure and anticipated objections, is in [Part 3](../whitepaper/03-coherence-foundation/main.md).
 
+### What is "productive friction" and why does the framework require it?
+
+Productive friction is difficulty calibrated to build capability — not busywork, not artificial obstacles, but the structured resistance necessary for growth.  The framework's central empirical claim is that humans thrive when challenged and atrophy when insulated from difficulty.  This is documented across domains: pilots lose manual flying skills with autopilot reliance (Ebbatson et al., 2010; Casner et al., 2014), GPS users lose spatial reasoning (Ruginski et al., 2019), autocomplete users struggle to compose without it (Arnold et al., 2020).
+
+Productive friction is not anti-efficiency.  It is the design mechanism that ensures efficiency gains do not come at the cost of human capability.  An AH-compliant system introduces friction where it builds skills and removes friction where it doesn't — the calibration is the design challenge.  Dependency alerts, teaching mode, and progressive scaffolding reduction are all implementations of productive friction.  See [Part 1](../whitepaper/01-two-futures/main.md) and [Part 6](../whitepaper/06-design-principles/main.md).
+
+### What are "hard gates" and how do they implement Authority Retention?
+
+Hard gates are structural design requirements that mandate explicit human confirmation at consequential decision points before automated processes execute.  The system halts and waits — it does not proceed by default.
+
+Hard gates differ from traditional safeguards in that they are architectural, not procedural.  A procedural safeguard says "the operator should review before approving."  A hard gate says "the system cannot proceed without the operator's explicit authorization."  The distinction matters because procedural safeguards erode under time pressure; architectural gates do not.  Human-centered automation in aviation, medicine, and safety-critical systems has demonstrated this pattern for decades — the design patterns are proven.  See [Part 6](../whitepaper/06-design-principles/main.md).
+
+### What is the "third position" on AI safety?
+
+CED-AH occupies a third position in the AI safety discourse: neither deceleration (AI is existentially dangerous; slow down, regulate, stop) nor acceleration (AI is transformative; build faster, regulate less).  The third position holds that the relevant question is not "how fast?" but "what relationship?"
+
+Systems designed for amplification are inherently safer than systems designed for replacement, regardless of capability level.  Safety is a property of the human-system relationship, not the system's power.  This means the framework does not oppose increasing system capability — it insists that capability increases serve human capability growth rather than human capability replacement.  See [Part 1](../whitepaper/01-two-futures/main.md) and [Part 8](../whitepaper/08-implications-action/main.md).
+
 ### Can I apply the five Design Imperatives to existing systems?
 
-Yes.  The Design Imperatives (Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility) are technology agnostic.  They describe properties of the relationship between a system and its users, not properties of the system's architecture.  They can be applied as evaluation criteria to any deployed computational system and as design requirements for new ones.  When applied as evaluation criteria, the Design Imperatives also reveal accountability obligations: if a system violates Authority Retention, who chose to deploy it without adequate human oversight?  If a system produces Capability Atrophy rather than Capability Growth, who is accountable for the dependency it created?  The imperatives are simultaneously a design checklist and an accountability standard.  See [Part 6](../whitepaper/06-design-principles/main.md) for the imperatives and [Part 7](../whitepaper/07-applications-failures/main.md) for domain specific application.
+Yes.  The Design Imperatives (Authority Retention, Capability Growth, Transparency, Calibrated Honesty, Reversibility) are technology-agnostic.  They describe properties of the relationship between a system and its users, not properties of the system's architecture.  They can be applied as evaluation criteria to any deployed computational system and as design requirements for new ones.
+
+These are not theoretical ideals.  Human-centered automation has been engineered successfully in aviation, medicine, and safety-critical systems for decades.  The design patterns — hard gates, teaching mode, dependency alerts, progressive scaffolding — are proven engineering practice, not speculative proposals.  The framework formalizes what works and makes it measurable.
+
+When applied as evaluation criteria, the Design Imperatives also reveal accountability obligations: if a system violates Authority Retention, who chose to deploy it without adequate human oversight?  If a system produces Capability Atrophy rather than Capability Growth, who is accountable for the dependency it created?  The imperatives are simultaneously a design checklist and an accountability standard.  See [Part 6](../whitepaper/06-design-principles/main.md) for the imperatives and [Part 7](../whitepaper/07-applications-failures/main.md) for domain-specific application.
 
 ### Is the axiom structure falsifiable?
 

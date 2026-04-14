@@ -9,6 +9,17 @@ The final part of the whitepaper. Opens with the fullest statement of the **Two 
 - [**Part Text**](main.md) — The full part
 - [**Evidence Directory**](evidence/) — Supporting evidence organized by type
 
+## Key Sections
+
+| Section | What It Covers |
+|---|---|
+| **The Two Commitments** | Instrument Thesis + Accountability Principle; structural interlock |
+| **Discourse Transformation** | From "AI as adversary" to "AH as amplifier"; third-position safety stance |
+| **Stakeholder Guidance** | Developers, deployers, policymakers, users — specific action checklists |
+| **Governance Implications** | What governance should do; accountability traceability; tiered regulation |
+| **Honest Limitations** | What the framework doesn't address; revision conditions per tier |
+| **Vulnerability Ranking** | Most to least vulnerable claims, ranked by impact if challenged |
+
 ## The Discourse Transformation
 
 | Current Narrative | CED-AH Narrative |
@@ -33,17 +44,23 @@ The final part of the whitepaper. Opens with the fullest statement of the **Two 
 | Tier | Revises If... |
 |---|---|
 | **T1** | Someone demonstrates evaluation without presupposing coherence |
-| **S1–S6** | Better alternatives proposed or empirical evidence contradicts |
-| **B1–B4** | Bridge premises shown false or better bridges proposed |
+| **S1-S6** | Better alternatives proposed or empirical evidence contradicts |
+| **B1-B4** | Bridge premises shown false or better bridges proposed |
 | **Tier 4** | Automatically when any premise in derivation chain is revised |
 
 ## Vulnerability Ranking (by impact if challenged)
 
 1. **S3** — Computational ontology (instrument framing collapses)
 2. **S4** — Substitution dynamics (urgency argument weakens)
-3. **B2** — Authority requires moral responsibility — now defended via accountability argument, accuracy objection rebuttal, and time-critical edge case
+3. **B2** — Authority requires moral responsibility, not just reliability (defended via accountability argument, accuracy objection rebuttal, and time-critical edge case)
 4. **S1** — Flourishing operationalization
 5. **Implementation gap** — Principle-to-engineering translation unfinished
+
+## Evidence Base
+
+18 evidence items: 11 philosophical, 5 historical, 1 empirical, 1 technical.
+
+Accountability theory: Nissenbaum (accountability barriers), Thompson (many hands), Matthias (responsibility gap), Santoni de Sio & Mecacci (four responsibility gaps), Goetze (vicarious moral responsibility), Taddeo & Blanchard (moral gambit), Sparrow (killer robots), Kaye (global speech governance). Legal precedent: K.G.M. v. Meta (first platform liability jury verdict for design choices). Governance: Lessig (code is law), Jasanoff (ethics of invention), Ostrom (polycentric governance), Marchetti & Maassarani (global AI governance). Ethics: Floridi (ethics of information), Jonas (imperative of responsibility). Classical: Montesquieu (separation of powers). Regulatory: Tutt (FDA for algorithms), Raji et al. (algorithmic auditing).
 
 ## Evidence Gaps
 

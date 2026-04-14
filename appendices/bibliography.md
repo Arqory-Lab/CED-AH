@@ -36,6 +36,8 @@ Works on the nature of knowledge, coherence theory, and the epistemological foun
 
 BonJour, L. (1985). *The Structure of Empirical Knowledge*. Harvard University Press.
 
+BonJour, L. (1999). The dialectic of foundationalism and coherentism. In J. Greco & E. Sosa (Eds.), *The Blackwell Guide to Epistemology* (pp. 117–142). Blackwell.
+
 BonJour, L. (2002). *Epistemology: Classic Problems and Contemporary Responses*. Rowman & Littlefield.
 
 Davidson, D. (1986). A coherence theory of truth and knowledge. In E. LePore (Ed.), *Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson* (pp. 307–319). Blackwell.
@@ -44,9 +46,13 @@ Elgin, C. Z. (2017). *True Enough*. MIT Press.
 
 Goldman, A. I. (1986). *Epistemology and Cognition*. Harvard University Press.
 
+Goldman, A. I. (1999). *Knowledge in a Social World*. Oxford University Press.
+
 Haack, S. (1993). *Evidence and Inquiry: Towards Reconstruction in Epistemology*. Blackwell.
 
 Kant, I. (1781/1998). *Critique of Pure Reason* (P. Guyer & A. W. Wood, Trans.). Cambridge University Press.
+
+Lehrer, K. (1990). *Theory of Knowledge* (1st ed.). Westview Press.
 
 Lehrer, K. (2000). *Theory of Knowledge* (2nd ed.). Westview Press.
 
@@ -55,6 +61,8 @@ Quine, W. V. O. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60
 Sellars, W. (1956). Empiricism and the philosophy of mind. In H. Feigl & M. Scriven (Eds.), *Minnesota Studies in the Philosophy of Science* (Vol. 1, pp. 253–329). University of Minnesota Press.
 
 Sosa, E. (2007). *A Virtue Epistemology: Apt Belief and Reflective Knowledge, Volume I*. Oxford University Press.
+
+Zagzebski, L. T. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.
 
 Thagard, P. (2000). *Coherence in Thought and Action*. MIT Press.
 
@@ -162,6 +170,20 @@ Shneiderman, B. (2022). *Human-Centered AI*. Oxford University Press.
 
 Wickens, C. D., Hollands, J. G., Banbury, S., & Parasuraman, R. (2013). *Engineering Psychology and Human Performance* (4th ed.). Pearson.
 
+### Automation Skill Atrophy Studies
+
+Arnold, K., Chauncey, K., & Gajos, K. Z. (2020). Predictive text encourages predictable writing. *Proceedings of the 25th International Conference on Intelligent User Interfaces*, 128–138. ACM.
+
+Buschek, D., Zürn, M., & Eiber, M. (2021). The impact of multiple AI recommendations on writing quality and trust. *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems*. ACM.
+
+Casner, S. M., Geven, R. W., Recker, M. P., & Schooler, J. W. (2014). The retention of manual flying skills in the automated cockpit. *Human Factors*, 56(8), 1506–1516.
+
+Ebbatson, M., Harris, D., Huddlestone, J., & Sears, R. (2010). The relationship between manual handling performance and recent flying experience in air transport pilots. *Ergonomics*, 53(2), 268–277.
+
+McKinlay, R. (2016). Use or lose: Technology and the loss of navigational skill. *Royal Institute of Navigation Journal*, 69(4), 433–436.
+
+Ruginski, I. T., Creem-Regehr, S. H., Stefanucci, J. K., & Cashdan, E. (2019). GPS use negatively affects environmental learning through spatial transformation abilities. *Journal of Environmental Psychology*, 64, 12–20.
+
 ---
 
 ## 6. Cognitive Science and Decision-Making
@@ -182,6 +204,8 @@ Kahneman, D., Sibony, O., & Sunstein, C. R. (2021). *Noise: A Flaw in Human Judg
 
 Klein, G. (1998). *Sources of Power: How People Make Decisions*. MIT Press.
 
+Simon, H. A. (1969). *The Sciences of the Artificial* (1st ed.). MIT Press.
+
 Simon, H. A. (1996). *The Sciences of the Artificial* (3rd ed.). MIT Press.
 
 Tetlock, P. E. (2005). *Expert Political Judgment: How Good Is It? How Can We Know?* Princeton University Press.
@@ -194,7 +218,9 @@ Tetlock, P. E., & Gardner, D. (2015). *Superforecasting: The Art and Science of 
 
 Works on complex adaptive systems, emergence, and systemic risk — informing the framework's treatment of failure modes and institutional dynamics.
 
-Leveson, N. G. (2012). *Engineering a Safer World: Systems Thinking Applied to Safety*. MIT Press.
+Leveson, N. G. (2011). *Engineering a Safer World: Systems Thinking Applied to Safety*. MIT Press. [Published November 2011; some catalogs list 2012.]
+
+Meadows, D. H. (1999). Leverage points: Places to intervene in a system. *The Sustainability Institute*.
 
 Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green Publishing.
 
@@ -241,6 +267,8 @@ Works informing the framework's domain-specific application chapters (healthcare
 Cabitza, F., Rasoini, R., & Gensini, G. F. (2017). Unintended consequences of machine learning in medicine. *JAMA*, 318(6), 517–518.
 
 Topol, E. J. (2019). *Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again*. Basic Books.
+
+Gaube, S., Suresh, H., Raber, M., Merz, A., Sendak, M., Ghassemi, M., ... & Obermeyer, Z. (2021). Do as AI say: Susceptibility in deployment of clinical decision-making tools. *npj Digital Medicine*, 4, article 31.
 
 Wachter, R. (2015). *The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine's Computer Age*. McGraw-Hill Education.
 
@@ -326,6 +354,10 @@ Works that inform multiple thematic categories:
 | Sparrow (2007) | Accountability | AI Safety, Ethics & Technology |
 | Thompson (1980) | Accountability | Governance, Systems Theory |
 | Wu (2010) | Historical Precedents | Accountability, Governance |
+| Zagzebski (1996) | Epistemology | Ethics & Technology |
+| Goldman (1999) | Epistemology | Measurement |
+| Ibn Khaldun (1377) | Great Books | Historical Precedents, Systems Theory |
+| K.G.M. v. Meta (2026) | Accountability | Governance, Historical Precedents |
 | Zittrain (2008) | Historical Precedents | Accountability, Governance |
 
 ---
@@ -354,6 +386,9 @@ are not novel inventions but formalizations of insights developed across
 
 ### Medieval & Early Modern (c. 1265 – 1785)
 
+- Ibn Khaldun, A. *The Muqaddimah: An Introduction to History*. (1377). Trans. Franz Rosenthal,
+  abridged N. J. Dawood. Princeton University Press, 2005. ISBN 978-0691166285.
+  [hist-101: asabiyyah, civilizational cycles, productive friction, irreversibility gradient]
 - Aquinas, T. *Summa Theologiae*. (c. 1265-1274). Fathers of the English Dominican Province trans.
   [phil-120: instrumental causation, ordered reason]
 - Descartes, R. *Meditations on First Philosophy*. (1641). Cottingham trans., Cambridge, 1996.
@@ -402,6 +437,8 @@ are not novel inventions but formalizations of insights developed across
   [phil-171: cybernetics and society, amplification vs. replacement]
 - Polanyi, M. *Personal Knowledge*. (1958). Chicago, 2015.
   [phil-172: tacit knowledge, personal knowledge, indwelling]
+- Polanyi, M. *The Tacit Dimension*. (1966). Chicago, 2009.
+  [Part 4: tacit knowing and the limits of explicit formalization]
 
 ### Mathematical Foundations
 
@@ -430,6 +467,8 @@ Rozenshtein, A. Z. (2024). Interpreting the ambiguities of Section 230. *Yale Jo
 Santoni de Sio, F., & Mecacci, G. (2021). Four responsibility gaps with artificial intelligence: Why they matter and how to address them. *Philosophy & Technology*, 34(4), 1057–1084.
 
 Sparrow, R. (2007). Killer robots. *Journal of Applied Philosophy*, 24(1), 62–77.
+
+K.G.M. v. Meta Platforms, Inc. et al. (2026). Los Angeles County Superior Court (verdict March 25, 2026) (Kuhl, J.). First jury verdict holding social media platforms financially liable for adolescent psychological harm under product liability theory. Supported by: Anderson v. TikTok, Inc., No. 22-3061 (3d Cir. Aug. 27, 2024); Moody v. NetChoice, LLC, 603 U.S. ___ (2024).
 
 Taddeo, M., & Blanchard, A. (2022). Accepting moral responsibility for the actions of autonomous weapons systems — A moral gambit. *Philosophy & Technology*, 35(3), article 62.
 

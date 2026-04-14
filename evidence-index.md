@@ -152,8 +152,7 @@ _The instrument/agent distinction, capability amplification, and the AH reframe.
 | emp-019 | Empirical | [Klein Sources of Power RPD](whitepaper/04-amplified-humanity/evidence/empirical/emp-019.md) | Strong | 4.2, 4.3 |
 | emp-022 | Empirical | [Tetlock & Gardner Superforecasting](whitepaper/04-amplified-humanity/evidence/empirical/emp-022.md) | Strong | 4.3, 4.4 |
 
-**Known gaps:**
--
+**Known gaps:** None identified.
 
 ---
 
@@ -168,8 +167,7 @@ _Formal axiom structure: the four CED axioms, derivations, and mathematical foun
 | hist-002 | Historical | [Meadows Thinking in Systems leverage points](whitepaper/05-formal-architecture/evidence/history/hist-002.md) | Strong | 5.1, 5.3 |
 | math-100 | Mathematical | [Godel incompleteness theorems formal limits](whitepaper/05-formal-architecture/evidence/mathematics/math-100.md) | Strong | 5.2, 3.4 |
 
-**Known gaps:**
--
+**Known gaps:** None identified.
 
 ---
 
@@ -197,8 +195,7 @@ _The Five Imperatives and integration architecture for coherence-preserving syst
 | hist-005 | Historical | [Taleb Antifragile capability growth](whitepaper/06-design-principles/evidence/history/hist-005.md) | Moderate | 6.1, 6.3 |
 | hist-006 | Historical | [Woods & Hollnagel Joint Cognitive Systems](whitepaper/06-design-principles/evidence/history/hist-006.md) | Strong | 6.1, 6.2 |
 
-**Known gaps:**
--
+**Known gaps:** None identified.
 
 ---
 
@@ -238,8 +235,7 @@ _Domain applications (healthcare, legal, education, business), systematic failur
 | hist-202 | Historical | [Benkler Wealth of Networks commons production](whitepaper/07-applications-failures/evidence/history/hist-202.md) | Moderate | 7.X |
 | hist-203 | Historical | [McChesney Digital Disconnect capitalist recapture](whitepaper/07-applications-failures/evidence/history/hist-203.md) | Moderate | 7.X |
 
-**Known gaps:**
--
+**Known gaps:** None identified.
 
 ---
 
@@ -268,8 +264,7 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 | phil-210 | Philosophical | [Kaye Speech Police global accountability gap](whitepaper/08-implications-action/evidence/philosophy/phil-210.md) | Moderate | 8.X |
 | hist-204 | Historical | [K.G.M. v. Meta platform liability for design choices](whitepaper/08-implications-action/evidence/history/hist-204.md) | Strong | 8.1, 8.2, 8.3 |
 
-**Known gaps:**
--
+**Known gaps:** None identified.
 
 ---
 
@@ -285,7 +280,7 @@ _Implications for discourse, research, governance, and stakeholder-specific guid
 | Mathematical | 2 |
 | Empirical | 34 |
 | Technical | 14 |
-| Rated Strong | 82 |
+| Rated Strong | 83 |
 | Rated Moderate | 54 |
 | Rated Suggestive | 5 |
 | Known evidence gaps | 0 |

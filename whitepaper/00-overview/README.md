@@ -6,7 +6,7 @@ This part provides the executive summary and reader's guide for the CED-AH white
 
 ## Contents
 
-- [**Chapter Text**](main.md) — The full overview and executive summary
+- [**Part Text**](main.md) — The full overview and executive summary
 - [**Evidence Directory**](evidence/) — Supporting evidence organized by type
 
 ## Evidence Base
