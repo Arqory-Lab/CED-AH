@@ -4,7 +4,7 @@ Thank you to everyone who has contributed to the CED-AH framework.  This project
 
 ## Project Founder
 
-- The Arqory Research Institute
+- **Douglas Doane** — [@Arqory-Lab](https://github.com/Arqory-Lab) — Framework architect, whitepaper author, evidence base, repository infrastructure
 
 ## How Contributors Are Recognized
 
@@ -18,7 +18,9 @@ Contributors whose work strengthens the philosophical framework.  Evidence submi
   Format: - [@github-handle](https://github.com/handle) — Brief description of contribution
 -->
 
-*No contributions yet.  Be the first — see [CONTRIBUTING.md](CONTRIBUTING.md).*
+- **Deena Doane** — Research, editorial review, evidence curation
+
+*Want to contribute?  See [CONTRIBUTING.md](CONTRIBUTING.md).*
 
 ### Evidence Contributors
 
