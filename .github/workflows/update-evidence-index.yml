@@ -1,4 +1,4 @@
-name: Update Evidence Index
+name: Count Evidence Items
 
 on:
   push:

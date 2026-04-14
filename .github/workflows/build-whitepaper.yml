@@ -14,24 +14,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Concatenate whitepaper parts
-        run: |
-          echo "# CED-AH: Contextual Epistemic Dynamics — Amplified Humanity" > whitepaper-complete.md
-          echo "" >> whitepaper-complete.md
-          echo "*Auto-generated from individual chapter files. Do not edit directly.*" >> whitepaper-complete.md
-          echo "" >> whitepaper-complete.md
-          echo "---" >> whitepaper-complete.md
-          echo "" >> whitepaper-complete.md
-          for dir in 00-overview 01-two-futures 02-ai-conversation \
-                     03-coherence-foundation 04-amplified-humanity \
-                     05-formal-architecture 06-design-principles \
-                     07-applications-failures 08-implications-action; do
-            if [ -f "whitepaper/$dir/main.md" ]; then
-              cat "whitepaper/$dir/main.md" >> whitepaper-complete.md
-              echo "" >> whitepaper-complete.md
-              echo "---" >> whitepaper-complete.md
-              echo "" >> whitepaper-complete.md
-            fi
-          done
+        run: bash scripts/build-whitepaper.sh
 
       - name: Commit if changed
         run: |

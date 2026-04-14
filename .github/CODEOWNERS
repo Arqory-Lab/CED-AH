@@ -1,0 +1,10 @@
+# Default owner for everything
+* @Arqory-Lab
+
+# Evidence files
+whitepaper/**/evidence/ @Arqory-Lab
+
+# Governance and legal
+GOVERNANCE.md @Arqory-Lab
+CLA.md @Arqory-Lab
+LICENSE @Arqory-Lab
