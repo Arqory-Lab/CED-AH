@@ -46,3 +46,4 @@ This whitepaper presents the CED-AH Ethics framework for open source publication
 ---
 
 *Continue to [Part 1: The Two Futures](../01-two-futures/main.md) →*
+
