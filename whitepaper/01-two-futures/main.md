@@ -28,7 +28,7 @@ Imagine two realities with a simple distinction.
 
 ## The Comfortable Extinction
 
-A system anticipates your breakfast, selects your clothes and plans your day. Every need is met before you feel it.  Every decision made on your behalf, optimized beyond your capability.  The machines are genuinely benevolent.  They continually optimize your perceived well-being.  Zuboff's analysis of contemporary technology platforms documents this dynamic already in operation: systems that optimize "well-being" by recommending, scheduling and predicting provide convenience while systematically eroding the conditions for agency, judgment, and autonomous choice.
+A system anticipates your breakfast, selects your clothes and plans your day. Every need is met before you feel it.  Every decision optimized beyond your capability.  The machines are genuinely benevolent as they continually optimize your perceived well being.
 
 And humanity dies anyway.
 
