@@ -314,7 +314,7 @@ Columbia Accident Investigation Board. (2003). *Report of the Columbia Accident 
 
 Mindell, D. A. (2015). *Our Robots, Ourselves: Robotics and the Myths of Autonomy*. Viking.
 
-National Transportation Safety Board. (Various years). Aircraft accident reports. Available at https://www.ntsb.gov.
+National Transportation Safety Board. (Various years). Aircraft accident reports. Available at <https://www.ntsb.gov>.
 
 Vaughan, D. (1996). *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA*. University of Chicago Press.
 
