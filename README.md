@@ -26,7 +26,7 @@ Without a coherent first principle, the field cannot distinguish systems that se
 
 The AI debate has two dominant positions.  The first treats AI as a potential threat requiring restriction.  The second treats it as a net benefit requiring acceleration.  Both accept the same unexamined premise: that computational systems are or could become agents.
 
-CED-AH rejects the shared premise.  Computational systems are neither threats to contain nor gifts to accelerate.  They are **instruments to design well** — with accountability falling to those who design and deploy them.  This is not a compromise between the two positions.  It is a different starting point, and it leads to different questions, different designs, and different outcomes.
+CED-AH rejects the shared premise.  Computational systems are neither threats to contain nor gifts to accelerate.  They are **instruments to design well**, with accountability falling to those who design and deploy them.  This is not a compromise between the two positions.  It is a different starting point, and it leads to different questions, different designs, and different outcomes.
 
 ## What This Project Provides
 

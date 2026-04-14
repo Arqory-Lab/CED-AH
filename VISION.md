@@ -11,9 +11,9 @@
 
 ## Why This Exists
 
-Every major AI safety framework shares an unexamined assumption: that the systems we're building are, or could become, agents.  The alignment community asks how to align agent values.  The safety community asks how to constrain agent behavior.  The governance community asks how to regulate agent decisions.
+Every major AI safety framework shares an unexamined assumption: that the systems we're building are, or could become agents.  The alignment community asks how to align agent values.  The safety community asks how to constrain agent behavior.  The governance community asks how to regulate agent decisions.
 
-Each of these communities has produced valuable work.  Real safety improvements in deployed systems, important research on failure modes, and legitimate progress on oversight mechanisms.  But they share a starting point we believe is wrong, and building on it leads somewhere we don't want to go.
+Each of these communities has produced valuable work.  Real safety improvements in deployed systems, important research on failure modes and legitimate progress on oversight mechanisms.  But they share a starting point we believe is wrong and building on it leads somewhere we don't want to go.
 
 The CED-AH project exists to provide what the current discourse lacks: a **philosophical foundation** for evaluating computational systems, grounded in first principles that survive scrutiny, with practical design implications that can be implemented today.
 
@@ -23,31 +23,17 @@ The foundation is **Contextual Epistemic Dynamics™ (CED)** - a formal philosop
 
 ## What We Believe
 
-We hold these positions with conviction, but also with the intellectual honesty to acknowledge where uncertainty remains.  What follows are our core claims, each defended with evidence drawn from philosophical analysis, empirical research, historical case studies, mathematical foundations, and technical demonstrations.  Sourced across traditions from antiquity to the present.
+We hold these positions with conviction, but also with the intellectual honesty to acknowledge where uncertainty remains.  What follows are our core claims, each defended with evidence drawn from philosophical analysis, empirical research, historical case studies, mathematical foundations and technical demonstrations.  Sourced across traditions from antiquity to the present.
 
 **Coherence is the unavoidable criterion.**  Every argument, including any argument against coherence, presupposes that coherent reasoning is preferable to incoherent reasoning.  Philosophers from Plato through Hegel to BonJour have recognized this.  CED formalizes the insight and makes it operational.  This makes coherence the one evaluative standard that cannot be rejected without self contradiction.  We define coherence precisely: internal consistency combined with alignment with human flourishing requirements.
 
-**Computational systems are instruments, not agents.**  Computation is entirely human dependent.  It requires human designed hardware, human generated power, human maintained infrastructure, and human provided purpose.  Remove humans, and computational systems cease to exist within days.  This is not a limitation to be overcome.  It is the ontological reality of what computation is.  We formalize this through CED's agency threshold: current systems score zero on every dimension of genuine agency.
+**Computational systems are instruments, not agents.**  Computation is entirely human dependent.  It requires human designed hardware, human generated power, human maintained infrastructure and human provided purpose.  Remove humans and computational systems cease to exist within days.  This is not a limitation to be overcome.  It is the ontological reality of what computation is.  We formalize this through CED's agency threshold: current systems score zero on every dimension of genuine agency.
 
 **The difference between a diminished future and a flourishing one is the relationship between human and machine not the power of the technology.**  Systems that replace human capability decrease coherence.  Systems that amplify human capability increase it.  The same computational power can serve either end.  The determining factor is design philosophy.
 
-**Human authority over decisions is non-negotiable.**  Because computational systems lack agency, decision making authority cannot be legitimately transferred to them.  When we "let the AI decide," we haven't delegated we've abdicated.  The CED-AH framework makes this constraint architecturally enforceable through what we call the Five Design Imperatives.
+**Human authority over decisions is non-negotiable.**  Because computational systems lack agency, decision making authority cannot be legitimately transferred to them.  When we "let the AI decide," we haven't delegated, we've abdicated.  The CED-AH framework makes this constraint architecturally enforceable through what we call the Five Design Imperatives.
 
-**Those who deploy instruments answer for what those instruments do.**  If computational systems are instruments — and we have argued they are — then they cannot bear moral or legal accountability for their effects.  A scalpel doesn't answer for malpractice; the surgeon does.  An algorithm doesn't answer for discriminatory outcomes; the organization that deployed it does.  We call this the Accountability Principle, and we derive it from the same coherence criterion that produces the instrument classification.  Together, the Instrument Thesis and the Accountability Principle form the two foundational commitments of the CED-AH framework.  Each protects against the failure mode of the other: the instrument classification without accountability is philosophy without teeth; accountability without the instrument classification is governance without a standard.
-
-### Where We Hold Uncertainty
-
-We are committed to epistemic honesty about the boundaries of our claims:
-
-- Our position on consciousness (that it may be fundamental rather than emergent from computation) is a stance within an ongoing philosophical debate, not a settled truth.  If evidence emerged that computational systems could cross the agency threshold, our framework has the resources to adapt but we see no credible development path to that outcome.
-
-- The optimal balance between AI support and unassisted human practice is an empirical question we don't yet have enough data to answer precisely.  We provide principles; calibration requires ongoing research.
-
-- How the framework applies across different cultural contexts requires further development.  We treat coherence as universal but acknowledge that its implementation may vary.
-
-- The accountability principle requires a designated accountable entity for every consequential deployment.  In complex deployment chains — model developer, integrator, deploying organization, end user — apportioning accountability is genuinely difficult.  We have the principle; the operational details require further development.
-
-We would rather be honestly uncertain than confidently wrong.
+**Those who deploy instruments answer for what those instruments do.**  If computational systems are instruments then they cannot bear moral or legal accountability for their effects.  A scalpel doesn't answer for malpractice, the surgeon does.  An algorithm doesn't answer for discriminatory outcomes, the organization that deployed it does.  We call this the Accountability Principle, and we derive it from the same coherence criterion that produces the instrument classification.  Together, the Instrument Thesis and the Accountability Principle form the two foundational commitments of the CED-AH framework.  Each protects against the failure mode of the other: the instrument classification without accountability is philosophy without teeth; accountability without the instrument classification is governance without a standard.
 
 ---
 
@@ -55,9 +41,9 @@ We would rather be honestly uncertain than confidently wrong.
 
 The AI debate has two dominant positions.  The first treats AI as a potential threat requiring restriction.  The second treats it as a net benefit requiring acceleration.  Both have produced valuable work.  Both accept the same unexamined premise: that computational systems are or could become agents.
 
-CED-AH occupies a third position.  We reject the shared premise.  Computational systems are neither threats to contain nor gifts to accelerate.  They are **instruments to design well** — with accountability falling to those who design and deploy them.  This is not a compromise between restriction and acceleration.  It is a different starting point entirely.
+CED-AH occupies a third position.  We reject the shared premise.  Computational systems are neither threats to contain nor gifts to accelerate.  They are **instruments to design well**, with accountability falling to those who design and deploy them.  This is not a compromise between restriction and acceleration.  It is a different starting point entirely.
 
-Where most AI safety work starts from a technical problem — how do we constrain a potentially dangerous system? — CED-AH starts from a philosophical question: **what should the relationship between humans and computational systems be?**
+Where most AI safety work starts from a technical problem, "how do we constrain a potentially dangerous system?"  CED-AH starts from a philosophical question: **what should the relationship between humans and computational systems be?**
 
 This difference in starting point leads to fundamentally different conclusions:
 
@@ -86,9 +72,9 @@ These are not aspirational guidelines.  They are architecturally enforceable req
 
 ### If We're Right
 
-The efficiency safety tradeoff dissolves.  Organizations deploying multi-agent AI systems discover that the architectural patterns enabling human oversight are the same patterns that reduce compute costs, improve auditability, and create regulatory compliance.  Safety properties emerge from the efficiency architecture.  They don't compete with it.
+The efficiency safety tradeoff dissolves.  Organizations deploying multi-agent AI systems discover that the architectural patterns enabling human oversight are the same patterns that reduce compute costs, improve auditability and create regulatory compliance.  Safety properties emerge from the efficiency architecture.  They don't compete with it.
 
-The AI safety discourse shifts from containment to integration.  Instead of asking "how do we prevent AI from harming us?" practitioners ask "how do we design systems that make humans more capable?"  Research priorities realign toward coherence measurement, dependency detection, capability tracking, and teaching oriented system design.
+The AI safety discourse shifts from containment to integration.  Instead of asking "how do we prevent AI from harming us?" practitioners ask "how do we design systems that make humans more capable?"  Research priorities realign toward coherence measurement, dependency detection, capability tracking and teaching oriented system design.
 
 Humans using well designed AH systems become measurably more capable over time.  Not just with the system, but without it.   The physician using diagnostic support makes better diagnoses even when the system is offline.  The attorney using research tools develops stronger legal reasoning.  The student using tutoring support masters the subject more deeply.
 
@@ -99,6 +85,20 @@ If consciousness does emerge from computation.  If systems cross the agency thre
 If the agent framing turns out to be correct and we face genuine machine agency, the safety community's containment work becomes essential.  We don't dismiss that work.  We argue it shouldn't be the *starting* point for design philosophy when current evidence doesn't support it.
 
 If our framework fails to gain adoption and the field continues toward autonomous systems, the failure modes we've catalogued - dependency, authority erosion, skill atrophy, agency diminishment - become testable predictions.  We've specified the measurement protocols.  The evidence will accumulate either way.
+
+### Where We Hold Uncertainty
+
+We are committed to epistemic honesty about the boundaries of our claims:
+
+- Our position on consciousness (that it may be fundamental rather than emergent from computation) is a stance within an ongoing philosophical debate not a settled truth.  If evidence emerged that computational systems could cross the agency threshold our framework has the resources to adapt but we see no credible development path to that outcome.
+
+- The optimal balance between AI support and unassisted human practice is an empirical question we don't yet have enough data to answer precisely.  We provide principles, calibration requires ongoing research.
+
+- How the framework applies across different cultural contexts requires further development.  We treat coherence as universal but acknowledge that its implementation may vary.
+
+- The accountability principle requires a designated accountable entity for every consequential deployment.  Due to complex deployment chains that involve many entities like the model developer, integrator, deploying organization and end user, apportioning accountability is genuinely difficult.  We have the principle; the operational details require further development.
+
+We would rather be honestly uncertain than confidently wrong.
 
 ---
 
@@ -127,7 +127,7 @@ The Arqory Research Institute is a nonprofit research entity dedicated to indepe
 
 **What's open (this repository):** The philosophical framework, safety standards, design imperatives, measurement protocols, failure mode analysis, and evidence base.  Licensed under Apache 2.0 (code) and CC BY 4.0 (documentation).
 
-**What's separate:** Patent pending AI infrastructure technology, multi-model orchestration, context management, compression, and reasoning architectures. Revenue from commercial deployment supports continued open research.
+**What's separate:** Patent pending AI infrastructure technology, multi-model orchestration, context management, compression and reasoning architectures. Revenue from commercial deployment supports continued open research.
 
 This dual structure is intentional.  It follows the model established by organizations like the Mozilla Foundation/Corporation: the research serves the public good independently; the commercial entity scales the technology; both serve the same mission.  We believe safety work must be independently funded and publicly available.  We also believe the technology that implements these principles has commercial value that can sustain the research long term.
 
@@ -161,9 +161,9 @@ We invite scrutiny.  Here are the metrics by which we ask to be judged:
 
 ## The Core Claim, Stated Simply
 
-The future of computational systems is not artificial intelligence.  It is Amplified Humanity™ - tools that make humans more capable, not less necessary.  The criterion for evaluating these systems is coherence: do they increase human understanding, capability, agency, and meaning?  Or do they create dependency, erode authority, and diminish the conditions for human flourishing?
+The future of computational systems is not artificial intelligence.  It is Amplified Humanity™, tools that make humans more capable, not less necessary.  The criterion for evaluating these systems is coherence: do they increase human understanding, capability, agency and meaning?  Or do they create dependency, erode authority and diminish the conditions for human flourishing?
 
-The technology is neutral.  Our design choices determine which future we create.  We choose amplification — and we accept that the entities making those choices must answer for them.  That is the accountability principle, and it is the structural partner of our instrument thesis.  Together, they form the foundation we believe any viable safety framework must rest on.
+The technology is neutral.  Our design choices determine which future we create.  We choose amplification and we accept that the entities making those choices must answer for them.  That is the accountability principle and it is the structural partner of our instrument thesis.  Together, they form the foundation we believe any viable safety framework must rest on.
 
 ---
 
