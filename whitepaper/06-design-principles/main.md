@@ -4,7 +4,7 @@
 
 **What this part does:** Translates the formal architecture into practical design guidance.  The master principle, five imperatives in actionable form, the integration architecture and a hierarchy for resolving conflicts between obligations.
 
-**What you need first:** [Part 5](../05-formal-architecture/main.md) derives the imperatives formally.  This part makes them buildable.  The principles that follow are not speculative — they draw on forty years of human-automation interaction research, from Endsley's ten lessons for keeping the human in the loop (2017) to Billings's human-centered aviation automation (1997), distilled into design imperatives for computational systems.
+**What you need first:** [Part 5](../05-formal-architecture/main.md) derives the imperatives formally.  This part makes them buildable.  The principles that follow are not speculative, they draw on forty years of human-automation interaction research, from Endsley's ten lessons for keeping the human in the loop (2017) to Billings's human-centered aviation automation (1997), distilled into design imperatives for computational systems.
 
 ---
 
@@ -16,7 +16,7 @@ All AH design flows from one rule, derived from B3 (amplification increases cohe
 
 Formula: `max(H × AH) → ∞` subject to `Agency(Human) = preserved`.
 
-When efficiency suggests the AH should decide for the human, preserve agency.  When convenience suggests the AH should handle everything, preserve agency.  This is not a constraint on capability — it is the engineering architecture that makes high capability trustworthy and deployable.  Authority retention enables higher automation, not less, because systems operating within this architecture earn the trust that permits greater scope.  The architecture is non-negotiable.
+When efficiency suggests the AH should decide for the human, preserve agency with strategic gating.  When convenience suggests the AH should handle everything, preserve agency while expanding capability.  This is not a constraint, it is the engineering architecture that makes high capability trustworthy and deployable.  Authority retention enables higher automation, not less, because systems operating within this architecture earn the trust that permits greater scope.  The architecture is non-negotiable.
 
 ---
 
@@ -27,20 +27,20 @@ When efficiency suggests the AH should decide for the human, preserve agency.  W
 AH systems have agency = 0 and cannot bear moral responsibility.  All decision making authority stays with the human.
 
 **Build this way:**
-- **Hard gates** at consequential decision points — the system performs extensive automated analysis, synthesis, and preparation, but the human confirms before consequential action.  Hard gates wrap highly automated processes; they structure how automation gets deployed, they don't limit it.
-- **Multiple options** presented, not single recommendations — the human selects, not accepts/rejects
+- **Hard gates** at consequential decision points.  The system performs extensive automated analysis, synthesis and preparation, but the human confirms before consequential action.  Hard gates wrap highly automated processes; they structure how automation gets deployed, they don't limit it.
+- **Multiple options** presented, not single recommendations.  The human selects, not accepts/rejects
 - **Override always visible** — not hidden in menus, not disabled by default
 - **Responsibility language** — "Based on your decision to..." never "I decided to..."
 
 Billings's research in aviation automation demonstrates the principle: the most effective cockpit designs are not the least automated but the ones that preserve pilot authority over consequential decisions while automating extensively at every other level (Billings, 1997).
 
-**It's working when:** The human engages with options, asks follow-up questions, and selects with understanding.  AH handles extensive background processing while the human retains command of consequential choices.
+**It's working when:** The human engages with options, asks follow up questions and selects with understanding.  AH handles extensive background processing while the human retains command of consequential choices.
 
 **It's failing when:** AH recommendation acceptance rate exceeds 90-95%.  Users say "AH said to do X, so I did X."  Decisions happen faster than evaluation permits.
 
 ### 2. Capability Growth - Each interaction leaves the human more capable.
 
-If a user is less capable after a year of AH use than before, the AH has failed, regardless of how well tasks were completed.  Growth requires productive friction — difficulty that builds capability, not busywork that frustrates.  The system should ensure that difficulty is growth-enabling: challenges calibrated to stretch the human's current capacity, not overwhelm or bore it.
+If a user is less capable after a year of AH use than before, the AH has failed, regardless of how well tasks were completed.  Growth requires productive friction which is difficulty that builds capability not busywork that frustrates.  The system should ensure that friction is growth enabling with challenges calibrated to stretch the human's current capacity.
 
 **The test:** Can the human do more *without* AH than before?
 
@@ -70,27 +70,27 @@ Without understanding, no judgment.  Without judgment, no agency.  Transparency 
 
 ### 4. Calibrated Honesty - Stated confidence matches actual accuracy.
 
-A diagnostic system says "85% confident this is pneumonia, and here's what would change my assessment" — that's calibrated honesty.  A system that says "this is pneumonia" when it's actually uncertain 40% of the time is systematically deceptive.  Expressing genuine uncertainty is itself productive friction: when the system says "I'm uncertain," it invites human expertise to engage, keeping the human's judgment sharp and growing.  As Lee and See's research on trust calibration demonstrates, well-calibrated systems produce well-calibrated users — trust that matches actual system reliability, not blind reliance (Lee & See, 2004).
+A diagnostic system says "85% confident this is pneumonia, and here's what would change my assessment", that's calibrated honesty.  A system that says "this is pneumonia" when it's actually uncertain 40% of the time is systematically deceptive.  Expressing genuine uncertainty is itself productive friction: when the system says "I'm uncertain," it invites human expertise to engage, keeping the human's judgment sharp and growing.  As Lee and See's research on trust calibration demonstrates, well-calibrated systems produce well-calibrated users.  This is trust that matches actual system reliability not blind reliance (Lee & See, 2004).
 
 **Build this way:**
-- **Uncertainty quantification** on all outputs — not "X is the answer" but "X with 80% confidence"
-- **Calibration training** — systems tested for match between stated and actual accuracy
-- **"I don't know" or "More context is required before responding"** as valid, expected outputs — not a failure state
-- **Calibration auditing** — regular checks for drift between stated confidence and actual accuracy
+- **Uncertainty quantification** on all outputs, not "X is the answer" but "X with 80% confidence"
+- **Calibration training** - systems tested for match between stated and actual accuracy
+- **"I don't know" or "More context is required before responding"** as valid, expected outputs, not a failure state
+- **Calibration auditing** - regular checks for drift between stated confidence and actual accuracy
 
-**It's working when:** Users develop calibrated expectations of system reliability.  Users engage more deeply when the system expresses uncertainty.  Trust tracks actual accuracy — neither blind nor dismissive.  Hoffman et al.'s research on trust failure confirms the inverse: when calibration breaks down, so does the human-system relationship (Hoffman et al., 2013).
+**It's working when:** Users develop calibrated expectations of system reliability.  Users engage more deeply when the system expresses uncertainty.  Perceived trust tracks actual accuracy.  Hoffman et al.'s research on trust failure confirms the inverse: when calibration breaks down so does the human system relationship (Hoffman et al., 2013).
 
 **It's failing when:** Users say "AH is always right."  Users are surprised by errors.  AH outputs never express uncertainty.
 
 ### 5. Reversibility - Every AH action can be undone by the human.
 
-If AH takes an action that can't be undone, it has effectively made a decision — the human can't override what can't be reversed.  Irreversibility equals authority transfer.  But reversibility also *enables* automation rather than constraining it: because actions can be undone, the system can operate at higher speed and broader scope.  Reversibility is what makes high automation safe.
+If AH takes an action that can't be undone, it has effectively made a decision, the human can't override what can't be reversed.  Irreversibility equals authority transfer.  But reversibility also *enables* automation rather than constraining it: because actions can be undone, the system can operate at higher speed and broader scope.  Reversibility is what makes high automation safe.
 
 **Build this way:**
-- **Undo at every level** — no point of no return
-- **State preservation** — previous states can be restored
-- **Draft mode** — AH produces drafts, human finalizes
-- **Reversibility check** — before any action, verify it can be undone; if not, require explicit warning and confirmation
+- **Undo at every level** - no point of no return
+- **State preservation** - previous states can be restored
+- **Draft mode** - AH produces drafts, human finalizes
+- **Reversibility check** - before any action, verify it can be undone.  If not, require explicit warning and confirmation
 
 **It's working when:** The system operates at high speed and broad scope because reversibility provides a safety net.  Users experiment freely, knowing they can roll back.  The system does more, not less, because the architecture supports it.
 

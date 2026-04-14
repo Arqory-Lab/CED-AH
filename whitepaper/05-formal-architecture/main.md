@@ -2,7 +2,7 @@
 
 [← Part 4](../04-amplified-humanity/main.md) | [Back to Index](../00-overview/main.md) | [Next: Part 6 →](../06-design-principles/main.md)
 
-**What this part does:** Lays out the CED framework's complete logical structure.  One transcendental axiom, six defended commitments, four bridging principles, and the derived design imperatives.  Every claim is tagged by epistemic status so you know exactly what's inescapable, what's defended but contestable, and what's derived.
+**What this part does:** Lays out the CED framework's complete logical structure.  One transcendental axiom, six defended commitments, four bridging principles, and the derived design imperatives.  Every claim is tagged by epistemic status so you know exactly what's inescapable, what's defended but contestable and what's derived.
 
 **What you need first:** [Part 3](../03-coherence-foundation/main.md) introduces coherence as the first principle. [Part 4](../04-amplified-humanity/main.md) establishes computation as instrument.  This part formalizes both.
 
@@ -19,7 +19,7 @@ The framework is organized by epistemic status, how certain each claim is, and w
 | **3** | 4 bridges (B1–B4)     | Connecting claims   | Show the bridge premise is false |
 | **4** | Design imperatives    | Derived conclusions | Reject a premise in Tiers 1–3    |
 
-This structure matters because intellectual honesty requires distinguishing between what is genuinely unavoidable and what is strongly argued but contestable.  A framework that claims certainty everywhere will be discredited when over-ambitious claims are exposed.  Gödel's incompleteness theorems (1931) established that any sufficiently powerful formal system contains truths it cannot prove — a structural limitation this framework respects by explicitly marking which claims are self-presupposing (T1), which are defended but contestable (Tier 2), and which are derived (Tier 4).  Meadows's analysis of leverage points in complex systems (1999) informs the architecture's design: the highest-leverage interventions operate at the level of paradigms and goals, not parameters — which is precisely where the tier structure concentrates its foundational claims.
+This structure matters because intellectual honesty requires distinguishing between what is genuinely unavoidable and what is strongly argued but contestable.  A framework that claims certainty everywhere will be discredited when over-ambitious claims are exposed.  Gödel's incompleteness theorems (1931) established that any sufficiently powerful formal system contains truths it cannot prove.  This is a structural limitation this framework respects by explicitly marking which claims are self presupposing (T1), which are defended but contestable (Tier 2), and which are derived (Tier 4).  Meadows's analysis of leverage points in complex systems (1999) informs the architecture's design: the highest leverage interventions operate at the level of paradigms and goals, not parameters, which is precisely where the tier structure concentrates its foundational claims.
 
 ---
 
