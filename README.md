@@ -22,6 +22,12 @@ Current AI development proceeds without philosophical foundation.  The dominant 
 
 Without a coherent first principle, the field cannot distinguish systems that serve human flourishing from systems that erode it.  Metrics improve while meaning evaporates.  Capability grows while agency atrophies.  The discourse generates heat but not light.
 
+## The Third Position
+
+The AI debate has two dominant positions.  The first treats AI as a potential threat requiring restriction.  The second treats it as a net benefit requiring acceleration.  Both accept the same unexamined premise: that computational systems are or could become agents.
+
+CED-AH rejects the shared premise.  Computational systems are neither threats to contain nor gifts to accelerate.  They are **instruments to design well** — with accountability falling to those who design and deploy them.  This is not a compromise between the two positions.  It is a different starting point, and it leads to different questions, different designs, and different outcomes.
+
 ## What This Project Provides
 
 CED-AH delivers a **complete philosophical framework**, from first principles through practical design imperatives, for evaluating and building computational systems that increase human coherence rather than diminish it.
@@ -58,14 +64,14 @@ This is not a position paper.  It is an **evidence-backed, modular, community-ch
 
 4. **Human decision-making authority is non-negotiable.**  Entities without agency cannot legitimately hold authority.  Transferring decisions to computational systems is abdication, not delegation.
 
-5. **Accountability follows the deployment decision.**  No computational system may operate consequentially without a designated accountable entity — a human person or legally recognized organization — who answers for the system's effects.  Instruments don't bear accountability; the entities that deploy them do.  This is not a governance recommendation.  It is the second of the framework's two foundational commitments, derived from the same coherence criterion that produces the instrument classification.
+5. **Accountability follows the deployment decision.**  No computational system may operate consequentially without a designated accountable entity, a human person or legally recognized organization, who answers for the system's effects.  Instruments don't bear accountability; the entities that deploy them do.  This is not a governance recommendation.  It is the second of the framework's two foundational commitments, derived from the same coherence criterion that produces the instrument classification.
 
 ### The Two Commitments
 
 The framework derives two foundational safety commitments from a single first principle:
 
-1. **The Instrument Thesis:** Computational systems are instruments for human flourishing — artifacts that amplify human capability while preserving human agency.
-2. **The Accountability Principle:** The entity that deploys a computational system bears accountability for its effects — the same way an organization bears accountability for the actions of its employees.
+1. **The Instrument Thesis:** Computational systems are instruments for human flourishing, artifacts that amplify human capability while preserving human agency.
+2. **The Accountability Principle:** The entity that deploys a computational system bears accountability for its effects, the same way an organization bears accountability for the actions of its employees.
 
 These commitments interlock: the Instrument Thesis defines what these systems are and what design constraints follow.  The Accountability Principle defines who answers when those constraints are violated.  Together, they produce the Five Design Imperatives that specify what safe systems look like and who answers when they fail.
 
@@ -219,7 +225,7 @@ This roadmap reflects current intent and is subject to change.  Items in "Explor
 
 ## About The Arqory Research Institute
 
-The Arqory™ Research Institute is a nonprofit research organization dedicated to establishing philosophical foundations for human-centered computational systems.  We are independent, self-funded, and committed to publishing our safety research openly.
+The Arqory™ Research Institute is a nonprofit research organization dedicated to establishing philosophical foundations for human-centered computational systems.  We are independent, self-funded and committed to publishing our safety research openly.
 
 Our dual-entity structure, nonprofit research, commercial deployment, ensures that safety work remains independent while infrastructure development is commercially sustainable.  Both entities operate under a Delaware parent and share a single mission: computational systems that amplify human flourishing.
 
@@ -247,7 +253,7 @@ If you reference this work in academic or professional contexts:
                   systems are instruments for human flourishing) and the accountability
                   principle (deploying entities bear responsibility for system effects),
                   and produces five enforceable design imperatives: authority retention,
-                  capability growth, transparency, calibrated honesty, and reversibility.}
+                  capability growth, transparency, calibrated honesty and reversibility.}
 }
 ```
 

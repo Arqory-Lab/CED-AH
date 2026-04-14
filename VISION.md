@@ -51,9 +51,13 @@ We would rather be honestly uncertain than confidently wrong.
 
 ---
 
-## Our Approach: How CED-AH Differs
+## Our Approach: The Third Position
 
-Most AI safety work starts from a technical problem: how do we constrain a potentially dangerous system?  CED-AH starts from a philosophical question: **what should the relationship between humans and computational systems be?**
+The AI debate has two dominant positions.  The first treats AI as a potential threat requiring restriction.  The second treats it as a net benefit requiring acceleration.  Both have produced valuable work.  Both accept the same unexamined premise: that computational systems are or could become agents.
+
+CED-AH occupies a third position.  We reject the shared premise.  Computational systems are neither threats to contain nor gifts to accelerate.  They are **instruments to design well** — with accountability falling to those who design and deploy them.  This is not a compromise between restriction and acceleration.  It is a different starting point entirely.
+
+Where most AI safety work starts from a technical problem — how do we constrain a potentially dangerous system? — CED-AH starts from a philosophical question: **what should the relationship between humans and computational systems be?**
 
 This difference in starting point leads to fundamentally different conclusions:
 
