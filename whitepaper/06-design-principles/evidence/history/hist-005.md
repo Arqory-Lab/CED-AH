@@ -73,12 +73,12 @@ For design, Taleb's framework implies that systems should be built with slack, o
 
 ## Related Evidence
 
-- [hist-003](hist-003.md) — Tensions with (Perrow emphasizes the inevitability of catastrophic failure in complex systems; Taleb argues for designing systems that benefit from smaller failures)
-- [hist-001](hist-001.md) — Extends (Leveson's systems safety framework provides the engineering complement to Taleb's philosophical framework)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's skill atrophy is an instance of fragilization through replacement)
-- [emp-014](emp-014.md) — Reinforces (Ericsson's deliberate practice framework describes the mechanism through which capability grows through managed stress — the human-scale antifragility process)
-- [emp-019](emp-019.md) — Reinforces (Klein's expert pattern recognition develops through experience with challenging situations — another instance of antifragile capability development)
-- [hist-002](hist-002.md) — Provides necessary context (Meadows' system dynamics provides the systems vocabulary for describing antifragile and fragile system behaviors)
+- [hist-003](../../../07-applications-failures/evidence/history/hist-003.md) — Tensions with (Perrow emphasizes the inevitability of catastrophic failure in complex systems; Taleb argues for designing systems that benefit from smaller failures)
+- [hist-001](../../../07-applications-failures/evidence/history/hist-001.md) — Extends (Leveson's systems safety framework provides the engineering complement to Taleb's philosophical framework)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's skill atrophy is an instance of fragilization through replacement)
+- [emp-014](../empirical/emp-014.md) — Reinforces (Ericsson's deliberate practice framework describes the mechanism through which capability grows through managed stress — the human-scale antifragility process)
+- [emp-019](../../../04-amplified-humanity/evidence/empirical/emp-019.md) — Reinforces (Klein's expert pattern recognition develops through experience with challenging situations — another instance of antifragile capability development)
+- [hist-002](../../../05-formal-architecture/evidence/history/hist-002.md) — Provides necessary context (Meadows' system dynamics provides the systems vocabulary for describing antifragile and fragile system behaviors)
 
 ---
 

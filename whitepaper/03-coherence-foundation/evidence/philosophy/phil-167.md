@@ -76,10 +76,10 @@ This paradox is directly relevant to CED-AH's open challenge process. CED-AH inv
 ## Related Evidence
 
 - [phil-160](phil-160.md) — Tensions with (Popper explicitly critiques Hegel as an enemy of the open society; CED-AH draws on both Hegel and Popper and must navigate this tension)
-- [phil-161](phil-161.md) — Tensions with (Popper critiques Marx's historical materialism as historicist and unfalsifiable; CED-AH draws on Marx's descriptive analysis while Popper rejects his methodology)
+- [phil-161](../../../01-two-futures/evidence/philosophy/phil-161.md) — Tensions with (Popper critiques Marx's historical materialism as historicist and unfalsifiable; CED-AH draws on Marx's descriptive analysis while Popper rejects his methodology)
 - [phil-162](phil-162.md) — Tensions with and partially reinforces (Nietzsche's critique of rationalism is the kind of challenge that Popper's paradox of tolerance addresses — both share anti-dogmatism but Nietzsche targets reason itself)
-- [phil-168](phil-168.md) — Tensions with (Kuhn's account of paradigm shifts challenges Popper's falsificationism — if science progresses through revolutions rather than incremental refutation, Popper's methodology is incomplete)
-- [phil-163](phil-163.md) — Reinforces (Dewey's democratic epistemology supports Popper's open society — both argue that knowledge advances through collaborative, critical engagement rather than authoritative pronouncement)
+- [phil-168](../../../02-ai-conversation/evidence/philosophy/phil-168.md) — Tensions with (Kuhn's account of paradigm shifts challenges Popper's falsificationism — if science progresses through revolutions rather than incremental refutation, Popper's methodology is incomplete)
+- [phil-163](../../../06-design-principles/evidence/philosophy/phil-163.md) — Reinforces (Dewey's democratic epistemology supports Popper's open society — both argue that knowledge advances through collaborative, critical engagement rather than authoritative pronouncement)
 - [phil-120](phil-120.md) — Tensions with (Aquinas's natural law claims certainty about moral first principles — exactly the kind of foundationalism that Popper's critical rationalism rejects)
 
 ---

@@ -73,13 +73,13 @@ The book also provides a sustained critique of the "substitution myth" — the a
 
 ## Related Evidence
 
-- [emp-001](emp-001.md) — Provides necessary context (Bainbridge's ironies describe the failure modes that joint cognitive systems engineering aims to prevent)
-- [emp-002](emp-002.md) — Reinforces (Billings' human-centered automation provides domain-specific design principles compatible with the joint cognitive systems framework)
-- [emp-004](emp-004.md) — Reinforces (Endsley's lessons learned are consistent with Woods and Hollnagel's analysis of coordination and adaptation failures)
-- [hist-001](hist-001.md) — Extends (Leveson's STAMP model provides the organizational and regulatory context for joint cognitive systems)
-- [hist-003](hist-003.md) — Provides necessary context (Perrow's normal accidents describe the systemic failures that resilience engineering aims to address)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Provides necessary context (Bainbridge's ironies describe the failure modes that joint cognitive systems engineering aims to prevent)
+- [emp-002](../empirical/emp-002.md) — Reinforces (Billings' human-centered automation provides domain-specific design principles compatible with the joint cognitive systems framework)
+- [emp-004](../empirical/emp-004.md) — Reinforces (Endsley's lessons learned are consistent with Woods and Hollnagel's analysis of coordination and adaptation failures)
+- [hist-001](../../../07-applications-failures/evidence/history/hist-001.md) — Extends (Leveson's STAMP model provides the organizational and regulatory context for joint cognitive systems)
+- [hist-003](../../../07-applications-failures/evidence/history/hist-003.md) — Provides necessary context (Perrow's normal accidents describe the systemic failures that resilience engineering aims to address)
 - [hist-005](hist-005.md) — Reinforces (Taleb's antifragility concept aligns with resilience engineering's emphasis on adaptive capacity)
-- [emp-011](emp-011.md) — Extends (Shneiderman's HCAI framework provides a more recent and accessible version of similar ideas)
+- [emp-011](../empirical/emp-011.md) — Extends (Shneiderman's HCAI framework provides a more recent and accessible version of similar ideas)
 
 ---
 

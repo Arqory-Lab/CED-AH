@@ -69,7 +69,7 @@ Importantly for CED-AH, Christian's account reveals the assumptions embedded in 
 - [tech-009](tech-009.md) — Extends (Russell's framework is featured prominently in Christian's narrative)
 - [tech-001](tech-001.md) — Provides necessary context (the concrete problems paper is a key source for Christian)
 - [tech-006](tech-006.md) — Extends (Gabriel's "whose values" question is addressed in Christian's coverage of fairness)
-- [phil-037](phil-037.md) — Reinforces (Winner's thesis that artifacts have politics applies to the alignment discourse's embedded assumptions)
+- [phil-037](../../../01-two-futures/evidence/philosophy/phil-037.md) — Reinforces (Winner's thesis that artifacts have politics applies to the alignment discourse's embedded assumptions)
 
 ---
 

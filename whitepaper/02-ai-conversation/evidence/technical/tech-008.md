@@ -69,8 +69,8 @@ CED-AH can respond on two levels:
 
 - [tech-003](tech-003.md) — Extends (Ngo et al. update Bostrom's concerns for the deep learning paradigm)
 - [tech-001](tech-001.md) — Extends (the paper addresses concrete problems in a deep learning context)
-- [phil-032](phil-032.md) — Tensions with (Shanahan's role-play analysis challenges the literal reading of system "goals")
-- [phil-030](phil-030.md) — Tensions with (Searle's syntax/semantics distinction challenges whether internal representations constitute genuine goals)
+- [phil-032](../philosophy/phil-032.md) — Tensions with (Shanahan's role-play analysis challenges the literal reading of system "goals")
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Tensions with (Searle's syntax/semantics distinction challenges whether internal representations constitute genuine goals)
 - [tech-009](tech-009.md) — Extends (Russell's framework addresses some of the same concerns through cooperative design)
 
 ---

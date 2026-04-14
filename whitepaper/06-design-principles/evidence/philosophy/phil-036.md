@@ -67,11 +67,11 @@ The book is notable for its cross-cultural depth (drawing seriously on Confucian
 
 ## Related Evidence
 
-- [phil-035](phil-035.md) — Reinforces (Jonas' ethics of responsibility shares Vallor's concern with technology's transformation of human existence)
-- [phil-037](phil-037.md) — Reinforces (Winner's argument that artifacts have politics complements Vallor's argument that technologies shape character)
-- [phil-038](phil-038.md) — Extends (Zuboff's surveillance capitalism analysis instantiates the character-degrading technology Vallor warns about)
-- [phil-033](phil-033.md) — Provides necessary context (Floridi's information ethics offers a complementary framework from a different ethical tradition)
-- [phil-011](phil-011.md) — Reinforces (Sosa's virtue epistemology provides the epistemological complement to Vallor's virtue ethics)
+- [phil-035](../../../08-implications-action/evidence/philosophy/phil-035.md) — Reinforces (Jonas' ethics of responsibility shares Vallor's concern with technology's transformation of human existence)
+- [phil-037](../../../01-two-futures/evidence/philosophy/phil-037.md) — Reinforces (Winner's argument that artifacts have politics complements Vallor's argument that technologies shape character)
+- [phil-038](../../../01-two-futures/evidence/philosophy/phil-038.md) — Extends (Zuboff's surveillance capitalism analysis instantiates the character-degrading technology Vallor warns about)
+- [phil-033](../../../08-implications-action/evidence/philosophy/phil-033.md) — Provides necessary context (Floridi's information ethics offers a complementary framework from a different ethical tradition)
+- [phil-011](../../../03-coherence-foundation/evidence/philosophy/phil-011.md) — Reinforces (Sosa's virtue epistemology provides the epistemological complement to Vallor's virtue ethics)
 
 ---
 

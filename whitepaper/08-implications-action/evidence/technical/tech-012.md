@@ -77,12 +77,12 @@ The paper's most significant contribution beyond the SMACTR framework is its ana
 
 ## Related Evidence
 
-- [tech-011](tech-011.md) — Reinforces (VSD provides the values framework; SMACTR provides the auditing process that ensures VSD values are maintained post-deployment)
-- [tech-013](tech-013.md) — Extends (Selbst et al.'s critique of fairness abstraction challenges the adequacy of fairness-focused auditing — CED-AH's coherence criterion responds to this challenge)
-- [tech-014](tech-014.md) — Reinforces (Shneiderman's HCAI guidelines provide the design-level complement to SMACTR's organizational-level auditing)
-- [hist-001](hist-001.md) — Reinforces by analogy (Leveson's STAMP provides a parallel auditing methodology for safety-critical systems)
-- [hist-009](hist-009.md) — Extends (Ostrom's polycentric governance provides the institutional framework within which algorithmic auditing operates)
-- [emp-004](emp-004.md) — Provides necessary context (Endsley's lessons learned identify the human-factors criteria that auditing must evaluate)
+- [tech-011](../../../06-design-principles/evidence/technical/tech-011.md) — Reinforces (VSD provides the values framework; SMACTR provides the auditing process that ensures VSD values are maintained post-deployment)
+- [tech-013](../../../07-applications-failures/evidence/technical/tech-013.md) — Extends (Selbst et al.'s critique of fairness abstraction challenges the adequacy of fairness-focused auditing — CED-AH's coherence criterion responds to this challenge)
+- [tech-014](../../../06-design-principles/evidence/technical/tech-014.md) — Reinforces (Shneiderman's HCAI guidelines provide the design-level complement to SMACTR's organizational-level auditing)
+- [hist-001](../../../07-applications-failures/evidence/history/hist-001.md) — Reinforces by analogy (Leveson's STAMP provides a parallel auditing methodology for safety-critical systems)
+- [hist-009](../history/hist-009.md) — Extends (Ostrom's polycentric governance provides the institutional framework within which algorithmic auditing operates)
+- [emp-004](../../../06-design-principles/evidence/empirical/emp-004.md) — Provides necessary context (Endsley's lessons learned identify the human-factors criteria that auditing must evaluate)
 
 ---
 

@@ -73,9 +73,9 @@ The challenge is particularly serious because it comes from within the informati
 
 ## Related Evidence
 
-- [phil-033](phil-033.md) — Extends (IE builds on the framework introduced in this paper)
-- [phil-027](phil-027.md) — Tensions with (Floridi's later characterization of GPT-3 as "agentless" is hard to reconcile with this paper)
-- [phil-023](phil-023.md) — Reinforces (Dennett's intentional stance provides a parallel argument for attributing agency to systems)
+- [phil-033](../../../08-implications-action/evidence/philosophy/phil-033.md) — Extends (IE builds on the framework introduced in this paper)
+- [phil-027](../../../02-ai-conversation/evidence/philosophy/phil-027.md) — Tensions with (Floridi's later characterization of GPT-3 as "agentless" is hard to reconcile with this paper)
+- [phil-023](../../../02-ai-conversation/evidence/philosophy/phil-023.md) — Reinforces (Dennett's intentional stance provides a parallel argument for attributing agency to systems)
 - [phil-030](phil-030.md) — Tensions with (Searle's Chinese Room argues that functional agency without understanding is not genuine agency)
 - [phil-029](phil-029.md) — Tensions with (Nagel's phenomenological argument supports CED-AH's requirement that agents must have subjective experience)
 - [phil-021](phil-021.md) — Tensions with (Block's P-consciousness distinction implies that functional agency without P-consciousness lacks a crucial dimension)

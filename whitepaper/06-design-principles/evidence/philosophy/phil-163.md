@@ -77,11 +77,11 @@ This has direct implications for the design of computational systems in educatio
 
 ## Related Evidence
 
-- [phil-164](phil-164.md) — Reinforces (Wittgenstein's concept of "language games" and meaning-as-use is compatible with Dewey's pragmatism — both reject the idea that meaning or knowledge consists in correspondence with abstract truths, favoring instead an account grounded in practice and use)
-- [phil-166](phil-166.md) — Extends (Arendt's concept of "action" — initiating the genuinely new — provides a richer account of what education at its best achieves than Dewey's more process-oriented concept of growth)
-- [phil-160](phil-160.md) — Reinforces (Hegel's concept of Geist — rational truth as social achievement — supports Dewey's democratic epistemology, though through a different philosophical framework)
-- [phil-167](phil-167.md) — Reinforces (Popper's critical rationalism — knowledge advances through refutation — supports the democratic, challenge-based epistemology that Dewey articulates for education)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the Deweyan prediction: operators who do not actively engage with the domain — who receive outputs passively — lose the capability to act independently)
+- [phil-164](../../../02-ai-conversation/evidence/philosophy/phil-164.md) — Reinforces (Wittgenstein's concept of "language games" and meaning-as-use is compatible with Dewey's pragmatism — both reject the idea that meaning or knowledge consists in correspondence with abstract truths, favoring instead an account grounded in practice and use)
+- [phil-166](../../../04-amplified-humanity/evidence/philosophy/phil-166.md) — Extends (Arendt's concept of "action" — initiating the genuinely new — provides a richer account of what education at its best achieves than Dewey's more process-oriented concept of growth)
+- [phil-160](../../../03-coherence-foundation/evidence/philosophy/phil-160.md) — Reinforces (Hegel's concept of Geist — rational truth as social achievement — supports Dewey's democratic epistemology, though through a different philosophical framework)
+- [phil-167](../../../03-coherence-foundation/evidence/philosophy/phil-167.md) — Reinforces (Popper's critical rationalism — knowledge advances through refutation — supports the democratic, challenge-based epistemology that Dewey articulates for education)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the Deweyan prediction: operators who do not actively engage with the domain — who receive outputs passively — lose the capability to act independently)
 
 ---
 

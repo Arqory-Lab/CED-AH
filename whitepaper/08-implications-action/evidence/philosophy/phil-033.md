@@ -67,11 +67,11 @@ The book is notable for its rigor, its willingness to challenge conventional eth
 
 ## Related Evidence
 
-- [phil-034](phil-034.md) — Extends (Floridi and Sanders develop the artificial agent argument that IE builds on)
-- [phil-027](phil-027.md) — Tensions with (Floridi's later GPT-3 analysis adopts a more skeptical tone about AI agency than IE)
+- [phil-034](../../../04-amplified-humanity/evidence/philosophy/phil-034.md) — Extends (Floridi and Sanders develop the artificial agent argument that IE builds on)
+- [phil-027](../../../02-ai-conversation/evidence/philosophy/phil-027.md) — Tensions with (Floridi's later GPT-3 analysis adopts a more skeptical tone about AI agency than IE)
 - [phil-035](phil-035.md) — Reinforces (Jonas' ethics of responsibility shares IE's concern with technology's ethical implications)
-- [phil-036](phil-036.md) — Provides necessary context (Vallor's virtue ethics offers an alternative ethical framework for technology)
-- [phil-038](phil-038.md) — Extends (Zuboff's surveillance capitalism analysis instantiates IE's concerns about informational entropy)
+- [phil-036](../../../06-design-principles/evidence/philosophy/phil-036.md) — Provides necessary context (Vallor's virtue ethics offers an alternative ethical framework for technology)
+- [phil-038](../../../01-two-futures/evidence/philosophy/phil-038.md) — Extends (Zuboff's surveillance capitalism analysis instantiates IE's concerns about informational entropy)
 
 ---
 

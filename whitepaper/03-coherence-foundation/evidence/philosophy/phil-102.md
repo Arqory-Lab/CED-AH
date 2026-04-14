@@ -78,9 +78,7 @@ The *Organon* also establishes the concept of a **system of knowledge** as a str
 
 - [phil-100](phil-100.md) — Reinforces (the *Nicomachean Ethics* provides the normative dimension that the *Organon* lacks — flourishing as the content of coherence beyond mere consistency)
 - [phil-001](phil-001.md) — Extends (modern coherentism in epistemology develops the insight that coherence is essential to knowledge, moving beyond Aristotle's foundationalist framework)
-- [phil-105](phil-105.md) — Tensions with (Plato's *Meno* raises the question of how knowledge of first principles is possible — a question Aristotle answers with nous and Plato answers with recollection, neither fully satisfactorily)
-- [phil-140](phil-140.md) — Extends (Kant's *Critique of Pure Reason* develops a post-Aristotelian account of the conditions for the possibility of knowledge — including the logical consistency Aristotle identified but with a transcendental rather than ontological grounding)
-- [math-001](math-001.md) — Extends (if produced: formal verification of CED-AH's axiom structure would provide the modern mathematical complement to Aristotle's logical foundations)
+- [phil-105](../../../02-ai-conversation/evidence/philosophy/phil-105.md) — Tensions with (Plato's *Meno* raises the question of how knowledge of first principles is possible — a question Aristotle answers with nous and Plato answers with recollection, neither fully satisfactorily)
 
 ---
 

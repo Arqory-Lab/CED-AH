@@ -75,12 +75,12 @@ The mapping reveals that CED-AH's framework covers most of Weidinger et al.'s ri
 
 ## Related Evidence
 
-- [tech-002](tech-002.md) — Extends (RLHF is one proposed mitigation for several of the risks Weidinger et al. identify)
-- [tech-006](tech-006.md) — Reinforces (Gabriel, a co-author, brings the value alignment analysis to bear on risk)
-- [tech-001](tech-001.md) — Provides necessary context (the concrete problems paper addresses an earlier generation of the same concerns)
-- [phil-038](phil-038.md) — Reinforces (Zuboff's surveillance capitalism analysis provides the systemic context for many of the risks)
-- [phil-036](phil-036.md) — Reinforces (Vallor's moral deskilling thesis is the philosophical articulation of the over-reliance harm Weidinger et al. identify)
-- [phil-032](phil-032.md) — Reinforces (Shanahan's analysis of how we talk about LLMs addresses the anthropomorphism risk)
+- [tech-002](../../../02-ai-conversation/evidence/technical/tech-002.md) — Extends (RLHF is one proposed mitigation for several of the risks Weidinger et al. identify)
+- [tech-006](../../../02-ai-conversation/evidence/technical/tech-006.md) — Reinforces (Gabriel, a co-author, brings the value alignment analysis to bear on risk)
+- [tech-001](../../../02-ai-conversation/evidence/technical/tech-001.md) — Provides necessary context (the concrete problems paper addresses an earlier generation of the same concerns)
+- [phil-038](../../../01-two-futures/evidence/philosophy/phil-038.md) — Reinforces (Zuboff's surveillance capitalism analysis provides the systemic context for many of the risks)
+- [phil-036](../../../06-design-principles/evidence/philosophy/phil-036.md) — Reinforces (Vallor's moral deskilling thesis is the philosophical articulation of the over-reliance harm Weidinger et al. identify)
+- [phil-032](../../../02-ai-conversation/evidence/philosophy/phil-032.md) — Reinforces (Shanahan's analysis of how we talk about LLMs addresses the anthropomorphism risk)
 
 ---
 

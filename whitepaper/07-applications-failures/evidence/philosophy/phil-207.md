@@ -55,8 +55,8 @@ Citron and Wittes argue that Section 230 of the Communications Decency Act has b
 ## Related Evidence
 
 - [phil-208](phil-208.md) — Extends (Rozenshtein updates the Section 230 analysis to 2024)
-- [hist-200](hist-200.md) — Contextualizes (Wu's centralization cycle provides the historical pattern that Section 230 enabled)
-- [phil-200](phil-200.md) — Reinforces (Nissenbaum's "ownership without liability" barrier is the philosophical generalization of the Section 230 problem)
+- [hist-200](../history/hist-200.md) — Contextualizes (Wu's centralization cycle provides the historical pattern that Section 230 enabled)
+- [phil-200](../../../08-implications-action/evidence/philosophy/phil-200.md) — Reinforces (Nissenbaum's "ownership without liability" barrier is the philosophical generalization of the Section 230 problem)
 
 ---
 

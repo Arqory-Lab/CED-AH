@@ -75,11 +75,11 @@ This account of respect has implications for CED-AH's understanding of what "tre
 ## Related Evidence
 
 - [phil-125](phil-125.md) — Provides foundational framework (the *Groundwork* identifies the categorical imperative; the *Critique of Practical Reason* justifies it and develops the autonomy/heteronomy distinction more rigorously)
-- [phil-007](phil-007.md) — Provides epistemological framework (the *Critique of Pure Reason* establishes the phenomena/noumena distinction that makes Kantian freedom and autonomy possible)
+- [phil-007](../../../03-coherence-foundation/evidence/philosophy/phil-007.md) — Provides epistemological framework (the *Critique of Pure Reason* establishes the phenomena/noumena distinction that makes Kantian freedom and autonomy possible)
 - [phil-106](phil-106.md) — Reinforces (Epictetus's prohairesis as inviolable rational self-governance is the Stoic predecessor of Kant's autonomy — both identify rational self-determination as the core of moral agency)
-- [phil-100](phil-100.md) — Tensions with and reinforces (Aristotle's phronesis emphasizes context-sensitive practical wisdom; Kant's practical reason emphasizes universal principle — CED-AH needs both)
-- [phil-122](phil-122.md) — Tensions with (Spinoza's adequate/inadequate ideas distinction offers an alternative account of rational self-governance that does not require Kantian noumenal freedom)
-- [emp-001](emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document what happens when the autonomous rational judgment Kant identifies as constitutive of moral agency is eroded by automated systems)
+- [phil-100](../../../03-coherence-foundation/evidence/philosophy/phil-100.md) — Tensions with and reinforces (Aristotle's phronesis emphasizes context-sensitive practical wisdom; Kant's practical reason emphasizes universal principle — CED-AH needs both)
+- [phil-122](../../../03-coherence-foundation/evidence/philosophy/phil-122.md) — Tensions with (Spinoza's adequate/inadequate ideas distinction offers an alternative account of rational self-governance that does not require Kantian noumenal freedom)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document what happens when the autonomous rational judgment Kant identifies as constitutive of moral agency is eroded by automated systems)
 
 ---
 

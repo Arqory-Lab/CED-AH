@@ -76,12 +76,12 @@ The *Meno* also contains an important nuance that complicates a simple dismissal
 
 ## Related Evidence
 
-- [phil-104](phil-104.md) — Reinforces (the *Republic*'s Divided Line develops the epistemological hierarchy that the *Meno*'s true belief/knowledge distinction initiates)
-- [phil-102](phil-102.md) — Extends (Aristotle's *Posterior Analytics* develops the concept of demonstrative knowledge as the form of knowledge that goes beyond true belief — making explicit the kind of "account" that Plato's logos requires)
-- [phil-021](phil-021.md) — Reinforces (Searle's Chinese Room argument is, in effect, a modern version of the *Meno*'s distinction applied to computation: the Chinese Room produces correct outputs — true beliefs — without understanding why they are correct — knowledge)
-- [phil-100](phil-100.md) — Extends (Aristotle's account of phronesis develops Plato's insight that genuine knowledge involves more than correct output — it requires practical wisdom that cannot be reduced to rule-following)
-- [emp-003](emp-003.md) — Reinforces by analogy (Carr's *Glass Cage* documents the condition of workers who rely on correct system outputs — true beliefs provided by automation — without developing the understanding that would make them independently capable)
-- [tech-001](tech-001.md) — Reinforces (to the extent that AI benchmark evaluations measure output accuracy without assessing understanding, they measure true belief, not knowledge — precisely the distinction Plato warns is insufficient)
+- [phil-104](../../../03-coherence-foundation/evidence/philosophy/phil-104.md) — Reinforces (the *Republic*'s Divided Line develops the epistemological hierarchy that the *Meno*'s true belief/knowledge distinction initiates)
+- [phil-102](../../../03-coherence-foundation/evidence/philosophy/phil-102.md) — Extends (Aristotle's *Posterior Analytics* develops the concept of demonstrative knowledge as the form of knowledge that goes beyond true belief — making explicit the kind of "account" that Plato's logos requires)
+- [phil-021](../../../04-amplified-humanity/evidence/philosophy/phil-021.md) — Reinforces (Searle's Chinese Room argument is, in effect, a modern version of the *Meno*'s distinction applied to computation: the Chinese Room produces correct outputs — true beliefs — without understanding why they are correct — knowledge)
+- [phil-100](../../../03-coherence-foundation/evidence/philosophy/phil-100.md) — Extends (Aristotle's account of phronesis develops Plato's insight that genuine knowledge involves more than correct output — it requires practical wisdom that cannot be reduced to rule-following)
+- [emp-003](../../../01-two-futures/evidence/empirical/emp-003.md) — Reinforces by analogy (Carr's *Glass Cage* documents the condition of workers who rely on correct system outputs — true beliefs provided by automation — without developing the understanding that would make them independently capable)
+- [tech-001](../technical/tech-001.md) — Reinforces (to the extent that AI benchmark evaluations measure output accuracy without assessing understanding, they measure true belief, not knowledge — precisely the distinction Plato warns is insufficient)
 
 ---
 

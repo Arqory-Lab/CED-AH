@@ -74,12 +74,12 @@ Marcus repeatedly returns to the theme of **role** (prosōpon) and **duty** (kat
 
 ## Related Evidence
 
-- [phil-106](phil-106.md) — Provides foundational framework (Marcus applies Epictetus's distinction between what is and is not "up to us" to the specific challenge of governance — the practical application of the theoretical framework)
+- [phil-106](../../../04-amplified-humanity/evidence/philosophy/phil-106.md) — Provides foundational framework (Marcus applies Epictetus's distinction between what is and is not "up to us" to the specific challenge of governance — the practical application of the theoretical framework)
 - [phil-100](phil-100.md) — Reinforces (Aristotle's account of phronesis as practical wisdom exercised in particular circumstances parallels Marcus's account of rational judgment maintained under the pressure of imperial governance)
 - [phil-104](phil-104.md) — Tensions with (Plato's Philosopher-King rules through wisdom achieved once and applied thereafter; Marcus's philosopher-emperor must *maintain* wisdom continuously against forces that erode it — a more realistic and demanding account)
-- [hist-014](hist-014.md) — Reinforces by analogy (Vaughan's analysis of the normalization of deviance at NASA documents exactly the institutional erosion of coherence that Marcus struggled against individually — the gradual drift from principled standards under the pressure of organizational dynamics)
-- [emp-001](emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document the cognitive equivalent of Marcus's struggle: the difficulty of maintaining vigilant, skilled judgment when circumstances (or automated systems) press toward inattention and complacency)
-- [hist-009](hist-009.md) — Extends (Ostrom's institutional governance frameworks provide the modern organizational counterpart to Marcus's individual governance framework — polycentric governance as the institutional analogue of personal Stoic discipline)
+- [hist-014](../../../07-applications-failures/evidence/history/hist-014.md) — Reinforces by analogy (Vaughan's analysis of the normalization of deviance at NASA documents exactly the institutional erosion of coherence that Marcus struggled against individually — the gradual drift from principled standards under the pressure of organizational dynamics)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document the cognitive equivalent of Marcus's struggle: the difficulty of maintaining vigilant, skilled judgment when circumstances (or automated systems) press toward inattention and complacency)
+- [hist-009](../../../08-implications-action/evidence/history/hist-009.md) — Extends (Ostrom's institutional governance frameworks provide the modern organizational counterpart to Marcus's individual governance framework — polycentric governance as the institutional analogue of personal Stoic discipline)
 
 ---
 

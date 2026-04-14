@@ -82,11 +82,11 @@ The book also provides a taxonomy of system archetypes — common behavioral pat
 
 ## Related Evidence
 
-- [hist-001](hist-001.md) — Extends (Leveson applies systems thinking specifically to safety engineering)
-- [hist-003](hist-003.md) — Reinforces (Perrow's analysis of complex system failures exemplifies the system dynamics Meadows describes)
-- [hist-005](hist-005.md) — Extends (Taleb's antifragility framework addresses how systems respond to stressors — a specific dynamic within Meadows' broader framework)
-- [emp-020](emp-020.md) — Reinforces (Simon's architecture of complexity provides a complementary perspective on complex system organization)
-- [hist-008](hist-008.md) — Extends (Lessig's "code is law" thesis addresses how information architecture shapes behavior — a specific instantiation of Meadows' information flow leverage point)
+- [hist-001](../../../07-applications-failures/evidence/history/hist-001.md) — Extends (Leveson applies systems thinking specifically to safety engineering)
+- [hist-003](../../../07-applications-failures/evidence/history/hist-003.md) — Reinforces (Perrow's analysis of complex system failures exemplifies the system dynamics Meadows describes)
+- [hist-005](../../../06-design-principles/evidence/history/hist-005.md) — Extends (Taleb's antifragility framework addresses how systems respond to stressors — a specific dynamic within Meadows' broader framework)
+- [emp-020](../empirical/emp-020.md) — Reinforces (Simon's architecture of complexity provides a complementary perspective on complex system organization)
+- [hist-008](../../../08-implications-action/evidence/history/hist-008.md) — Extends (Lessig's "code is law" thesis addresses how information architecture shapes behavior — a specific instantiation of Meadows' information flow leverage point)
 
 ---
 

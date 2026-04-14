@@ -70,8 +70,8 @@ The paper is philosophically sophisticated and written by a researcher embedded 
 - [tech-003](tech-003.md) — Provides necessary context (Bostrom's value-loading proposal is one of the alignment targets Gabriel analyzes)
 - [tech-002](tech-002.md) — Reinforces (RLHF's reliance on human preferences is one instantiation of Gabriel's "expressed preferences" target)
 - [tech-009](tech-009.md) — Extends (Russell's assistance games framework addresses value specification through a different mechanism)
-- [phil-035](phil-035.md) — Reinforces (Jonas' ethics of responsibility converges with Gabriel's concern about who bears authority for value choices)
-- [phil-036](phil-036.md) — Extends (Vallor's virtue ethics offers a framework for thinking about which values matter)
+- [phil-035](../../../08-implications-action/evidence/philosophy/phil-035.md) — Reinforces (Jonas' ethics of responsibility converges with Gabriel's concern about who bears authority for value choices)
+- [phil-036](../../../06-design-principles/evidence/philosophy/phil-036.md) — Extends (Vallor's virtue ethics offers a framework for thinking about which values matter)
 
 ---
 

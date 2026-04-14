@@ -67,10 +67,10 @@ The paper also addresses consequences: Floridi and Chiriatti warn that GPT-3's c
 
 - [phil-032](phil-032.md) — Extends (Shanahan's 2024 analysis provides a more sustained and updated philosophical treatment of LLMs)
 - [phil-025](phil-025.md) — Reinforces (Dreyfus' original critique of AI is updated for the LLM era by Floridi and Chiriatti)
-- [phil-030](phil-030.md) — Reinforces (Searle's Chinese Room argument is the classical version of the "processing without understanding" thesis)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Reinforces (Searle's Chinese Room argument is the classical version of the "processing without understanding" thesis)
 - [phil-023](phil-023.md) — Tensions with (Dennett's intentional stance would argue that whether GPT-3 "really" understands is the wrong question)
-- [phil-034](phil-034.md) — Tensions with (Floridi's own earlier work on artificial moral agents complicates his GPT-3 assessment)
-- [phil-033](phil-033.md) — Provides necessary context (Floridi's information ethics framework informs the analysis)
+- [phil-034](../../../04-amplified-humanity/evidence/philosophy/phil-034.md) — Tensions with (Floridi's own earlier work on artificial moral agents complicates his GPT-3 assessment)
+- [phil-033](../../../08-implications-action/evidence/philosophy/phil-033.md) — Provides necessary context (Floridi's information ethics framework informs the analysis)
 
 ---
 

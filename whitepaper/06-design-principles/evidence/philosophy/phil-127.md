@@ -78,13 +78,13 @@ Hamilton's argument about accountability is directly relevant to CED-AH. One of 
 
 ## Related Evidence
 
-- [phil-124](phil-124.md) — Provides foundational framework (Montesquieu's separation of powers is the direct theoretical source for Madison's institutional design — the *Federalist Papers* are the practical application of Montesquieu's principles)
-- [phil-123](phil-123.md) — Provides foundational framework (Locke's social contract theory — consent, natural rights, the right of revolution — is the normative foundation that the *Federalist Papers* operationalize institutionally)
-- [phil-125](phil-125.md) — Reinforces (Kant's moral philosophy provides the individual-level complement to the *Federalist Papers*' institutional-level analysis — both converge on the necessity of structuring authority to preserve rational autonomy)
-- [hist-009](hist-009.md) — Extends (Ostrom's polycentric governance frameworks provide the contemporary institutional theory that generalizes Madison's constitutional design to multi-level, multi-center governance structures)
-- [hist-014](hist-014.md) — Reinforces by analogy (Vaughan's normalization of deviance at NASA documents the institutional corruption that Madison's structural safeguards are designed to prevent — and the limits of structural design when institutional culture erodes)
-- [phil-107](phil-107.md) — Tensions with (Marcus Aurelius's philosopher-emperor model relies on individual virtue; Madison explicitly designs for the absence of virtue — CED-AH needs both individual commitment and structural safeguard)
-- [phil-100](phil-100.md) — Provides predecessor context (Aristotle's *Politics* establishes the tradition of institutional design for human flourishing that the *Federalist Papers* develop for the modern constitutional republic)
+- [phil-124](../../../08-implications-action/evidence/philosophy/phil-124.md) — Provides foundational framework (Montesquieu's separation of powers is the direct theoretical source for Madison's institutional design — the *Federalist Papers* are the practical application of Montesquieu's principles)
+- [phil-123](../../../04-amplified-humanity/evidence/philosophy/phil-123.md) — Provides foundational framework (Locke's social contract theory — consent, natural rights, the right of revolution — is the normative foundation that the *Federalist Papers* operationalize institutionally)
+- [phil-125](../../../04-amplified-humanity/evidence/philosophy/phil-125.md) — Reinforces (Kant's moral philosophy provides the individual-level complement to the *Federalist Papers*' institutional-level analysis — both converge on the necessity of structuring authority to preserve rational autonomy)
+- [hist-009](../../../08-implications-action/evidence/history/hist-009.md) — Extends (Ostrom's polycentric governance frameworks provide the contemporary institutional theory that generalizes Madison's constitutional design to multi-level, multi-center governance structures)
+- [hist-014](../../../07-applications-failures/evidence/history/hist-014.md) — Reinforces by analogy (Vaughan's normalization of deviance at NASA documents the institutional corruption that Madison's structural safeguards are designed to prevent — and the limits of structural design when institutional culture erodes)
+- [phil-107](../../../03-coherence-foundation/evidence/philosophy/phil-107.md) — Tensions with (Marcus Aurelius's philosopher-emperor model relies on individual virtue; Madison explicitly designs for the absence of virtue — CED-AH needs both individual commitment and structural safeguard)
+- [phil-100](../../../03-coherence-foundation/evidence/philosophy/phil-100.md) — Provides predecessor context (Aristotle's *Politics* establishes the tradition of institutional design for human flourishing that the *Federalist Papers* develop for the modern constitutional republic)
 
 ---
 

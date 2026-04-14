@@ -59,8 +59,8 @@ Wu's central observation: *every development in the history of the American info
 
 - [hist-201](hist-201.md) — Reinforces (Zittrain explains the mechanism — generativity — by which open systems create conditions for centralization)
 - [hist-202](hist-202.md) — Reinforces (Benkler documents the decentralizing potential that the Cycle recaptures)
-- [phil-207](phil-207.md) — Extends (Citron & Wittes document the legal mechanism — Section 230 — that enabled the internet phase of Wu's Cycle)
-- [phil-209](phil-209.md) — Extends (Gillespie documents the platform phase of the Cycle in detail)
+- [phil-207](../philosophy/phil-207.md) — Extends (Citron & Wittes document the legal mechanism — Section 230 — that enabled the internet phase of Wu's Cycle)
+- [phil-209](../philosophy/phil-209.md) — Extends (Gillespie documents the platform phase of the Cycle in detail)
 
 ---
 

@@ -68,10 +68,10 @@ The failure of the *Principia* is not a failure of execution — Whitehead and R
 
 ## Related Evidence
 
-- [math-100](math-100.md) — Extends (Godel's incompleteness theorems are the direct response to the *Principia*'s foundationalist ambition — the *Principia* is the thesis, Godel is the antithesis, CED-AH's open coherentism is a synthesis)
-- [phil-121](phil-121.md) — Reinforces (Descartes's epistemological foundationalism is the philosophical counterpart of the *Principia*'s mathematical foundationalism — both seek a self-sufficient foundation, both fail)
-- [phil-160](phil-160.md) — Reinforces (Hegel's "the true is the whole" anticipated the Godelian insight that no part can validate the whole — Hegel's holistic coherentism is the philosophical alternative to foundationalism)
-- [phil-164](phil-164.md) — Reinforces (Wittgenstein — who was Russell's student — developed the rule-following paradox, which shows that formal rules cannot determine their own application, paralleling Godel's demonstration that formal systems cannot prove their own consistency)
+- [math-100](../../../05-formal-architecture/evidence/mathematics/math-100.md) — Extends (Godel's incompleteness theorems are the direct response to the *Principia*'s foundationalist ambition — the *Principia* is the thesis, Godel is the antithesis, CED-AH's open coherentism is a synthesis)
+- [phil-121](../philosophy/phil-121.md) — Reinforces (Descartes's epistemological foundationalism is the philosophical counterpart of the *Principia*'s mathematical foundationalism — both seek a self-sufficient foundation, both fail)
+- [phil-160](../philosophy/phil-160.md) — Reinforces (Hegel's "the true is the whole" anticipated the Godelian insight that no part can validate the whole — Hegel's holistic coherentism is the philosophical alternative to foundationalism)
+- [phil-164](../../../02-ai-conversation/evidence/philosophy/phil-164.md) — Reinforces (Wittgenstein — who was Russell's student — developed the rule-following paradox, which shows that formal rules cannot determine their own application, paralleling Godel's demonstration that formal systems cannot prove their own consistency)
 
 ---
 

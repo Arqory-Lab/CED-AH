@@ -73,9 +73,9 @@ Marchetti and Maassarani argue for a multi-layered governance approach combining
 
 - [hist-007](hist-007.md) — Provides necessary context (Jasanoff's governance philosophy provides the theoretical framework for evaluating the landscape Marchetti & Maassarani describe)
 - [hist-008](hist-008.md) — Extends (Lessig's "code is law" analysis explains why governance must address technical architecture, not just policy)
-- [emp-024](emp-024.md) — Extends (Tutt's "FDA for algorithms" provides a specific regulatory proposal within the landscape Marchetti & Maassarani survey)
+- [emp-024](../empirical/emp-024.md) — Extends (Tutt's "FDA for algorithms" provides a specific regulatory proposal within the landscape Marchetti & Maassarani survey)
 - [hist-010](hist-010.md) — Provides complementary framework (Ostrom's polycentric governance offers a model for managing the fragmentation Marchetti & Maassarani identify)
-- [emp-023](emp-023.md) — Reinforces (O'Neil's case studies illustrate the harms that inadequate governance fails to prevent)
+- [emp-023](../../../07-applications-failures/evidence/empirical/emp-023.md) — Reinforces (O'Neil's case studies illustrate the harms that inadequate governance fails to prevent)
 
 ---
 

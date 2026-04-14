@@ -72,10 +72,10 @@ On governance, Ibn Khaldun stated that "injustice ruins civilization" — rulers
 ## Related Evidence
 
 - [hist-100](hist-100.md) — Reinforces (Tocqueville's soft despotism is the Western parallel to the Khaldunian thesis; together they bracket CED-AH's substitution concern from both Islamic and Western intellectual traditions)
-- [phil-171](../../01-two-futures/evidence/philosophy/phil-171.md) — Reinforces (Wiener's "comfortable hammock" warning is a 20th-century cybernetic restatement of the Khaldunian thesis)
-- [phil-038](../../01-two-futures/evidence/philosophy/phil-038.md) — Extends (Zuboff's surveillance capitalism documents a modern technological instantiation of the comfort-as-substitution dynamic)
-- [emp-034](../../01-two-futures/evidence/empirical/emp-034.md) — Extends (Raisch & Krakowski's automation-augmentation paradox provides empirical evidence for the Khaldunian pattern in organizational contexts)
-- [hist-012](../../01-two-futures/evidence/history/hist-012.md) — Reinforces (Mindell's robotics history shows the same pattern: the most effective systems are not the most autonomous but the most thoughtfully collaborative)
+- [phil-171](../philosophy/phil-171.md) — Reinforces (Wiener's "comfortable hammock" warning is a 20th-century cybernetic restatement of the Khaldunian thesis)
+- [phil-038](../philosophy/phil-038.md) — Extends (Zuboff's surveillance capitalism documents a modern technological instantiation of the comfort-as-substitution dynamic)
+- [emp-034](../empirical/emp-034.md) — Extends (Raisch & Krakowski's automation-augmentation paradox provides empirical evidence for the Khaldunian pattern in organizational contexts)
+- [hist-012](hist-012.md) — Reinforces (Mindell's robotics history shows the same pattern: the most effective systems are not the most autonomous but the most thoughtfully collaborative)
 
 ---
 

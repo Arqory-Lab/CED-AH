@@ -76,12 +76,12 @@ This analysis of institutional corruption maps onto CED-AH's concern about the g
 
 ## Related Evidence
 
-- [phil-123](phil-123.md) — Reinforces (Locke's consent theory provides the normative foundation — authority must be legitimate — while Montesquieu provides the structural mechanism — authority must be distributed and checked)
-- [phil-127](phil-127.md) — Extends (the Federalist Papers are the direct application of Montesquieu's separation of powers to American constitutional design — Madison's arguments about institutional checks develop Montesquieu's principles in specific institutional detail)
-- [hist-014](hist-014.md) — Reinforces by analogy (Vaughan's normalization of deviance documents exactly the institutional corruption Montesquieu describes — the gradual drift from structural standards under organizational pressure)
-- [hist-009](hist-009.md) — Extends (Ostrom's polycentric governance framework generalizes Montesquieu's separation of powers to multi-level, multi-center governance structures — the contemporary institutional analogue)
-- [phil-107](phil-107.md) — Tensions with (Marcus Aurelius's model of coherent governance relies on individual virtue; Montesquieu explicitly argues that structural design must substitute for unreliable individual virtue)
-- [phil-106](phil-106.md) — Provides predecessor context (Epictetus's eph' hēmin/ouk eph' hēmin distinction identifies the individual-level domain of authority that Montesquieu's institutional design aims to protect at the structural level)
+- [phil-123](../../../04-amplified-humanity/evidence/philosophy/phil-123.md) — Reinforces (Locke's consent theory provides the normative foundation — authority must be legitimate — while Montesquieu provides the structural mechanism — authority must be distributed and checked)
+- [phil-127](../../../06-design-principles/evidence/philosophy/phil-127.md) — Extends (the Federalist Papers are the direct application of Montesquieu's separation of powers to American constitutional design — Madison's arguments about institutional checks develop Montesquieu's principles in specific institutional detail)
+- [hist-014](../../../07-applications-failures/evidence/history/hist-014.md) — Reinforces by analogy (Vaughan's normalization of deviance documents exactly the institutional corruption Montesquieu describes — the gradual drift from structural standards under organizational pressure)
+- [hist-009](../history/hist-009.md) — Extends (Ostrom's polycentric governance framework generalizes Montesquieu's separation of powers to multi-level, multi-center governance structures — the contemporary institutional analogue)
+- [phil-107](../../../03-coherence-foundation/evidence/philosophy/phil-107.md) — Tensions with (Marcus Aurelius's model of coherent governance relies on individual virtue; Montesquieu explicitly argues that structural design must substitute for unreliable individual virtue)
+- [phil-106](../../../04-amplified-humanity/evidence/philosophy/phil-106.md) — Provides predecessor context (Epictetus's eph' hēmin/ouk eph' hēmin distinction identifies the individual-level domain of authority that Montesquieu's institutional design aims to protect at the structural level)
 
 ---
 

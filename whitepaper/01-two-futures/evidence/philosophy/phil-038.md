@@ -71,10 +71,10 @@ Zuboff's analysis is grounded in extensive empirical research (patents, internal
 ## Related Evidence
 
 - [phil-037](phil-037.md) — Reinforces (Winner's argument that artifacts have politics is the theoretical foundation Zuboff's analysis empirically confirms)
-- [phil-035](phil-035.md) — Reinforces (Jonas' ethics of responsibility provides the normative framework for condemning the practices Zuboff describes)
-- [phil-036](phil-036.md) — Reinforces (Vallor's moral deskilling thesis describes the character-level effects of the systemic practices Zuboff documents)
-- [phil-033](phil-033.md) — Provides necessary context (Floridi's information ethics addresses the broader informational environment Zuboff's analysis focuses on)
-- [phil-027](phil-027.md) — Extends (Floridi's concerns about "epistemic pollution" from LLMs may represent the next phase of the dynamics Zuboff identifies)
+- [phil-035](../../../08-implications-action/evidence/philosophy/phil-035.md) — Reinforces (Jonas' ethics of responsibility provides the normative framework for condemning the practices Zuboff describes)
+- [phil-036](../../../06-design-principles/evidence/philosophy/phil-036.md) — Reinforces (Vallor's moral deskilling thesis describes the character-level effects of the systemic practices Zuboff documents)
+- [phil-033](../../../08-implications-action/evidence/philosophy/phil-033.md) — Provides necessary context (Floridi's information ethics addresses the broader informational environment Zuboff's analysis focuses on)
+- [phil-027](../../../02-ai-conversation/evidence/philosophy/phil-027.md) — Extends (Floridi's concerns about "epistemic pollution" from LLMs may represent the next phase of the dynamics Zuboff identifies)
 
 ---
 

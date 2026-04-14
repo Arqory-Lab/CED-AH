@@ -76,10 +76,10 @@ Descartes also distinguishes between the mechanical operations of bodies (which 
 
 - [phil-120](phil-120.md) — Tensions with (Aquinas's natural law epistemology, grounded in participatory reason, contrasts with Descartes's individualistic foundationalism; both claim reason discovers truth, but through radically different epistemological architectures)
 - [phil-122](phil-122.md) — Tensions with and extends (Spinoza accepts Descartes's commitment to rational demonstration but rejects dualism in favor of monism — mind and body are not two substances but two attributes of one substance)
-- [phil-125](phil-125.md) — Extends (Kant's critical philosophy attempts to resolve the foundationalism-coherentism tension by grounding knowledge in the transcendental conditions of experience — neither Cartesian foundations nor pure coherence)
+- [phil-125](../../../04-amplified-humanity/evidence/philosophy/phil-125.md) — Extends (Kant's critical philosophy attempts to resolve the foundationalism-coherentism tension by grounding knowledge in the transcendental conditions of experience — neither Cartesian foundations nor pure coherence)
 - [phil-007](phil-007.md) — Extends (Kant's *Critique of Pure Reason* provides the most influential response to Cartesian epistemology — preserving the rationalist ambition while transforming its method)
-- [phil-021](phil-021.md) — Reinforces (Searle's Chinese Room argument provides a modern defense of the Cartesian intuition that computational processing is not understanding — without requiring Cartesian substance dualism)
-- [phil-031](phil-031.md) — Extends (Searle's biological naturalism preserves the Cartesian insight that mind is not reducible to mechanism while rejecting substance dualism in favor of a physicalist ontology)
+- [phil-021](../../../04-amplified-humanity/evidence/philosophy/phil-021.md) — Reinforces (Searle's Chinese Room argument provides a modern defense of the Cartesian intuition that computational processing is not understanding — without requiring Cartesian substance dualism)
+- [phil-031](../../../04-amplified-humanity/evidence/philosophy/phil-031.md) — Extends (Searle's biological naturalism preserves the Cartesian insight that mind is not reducible to mechanism while rejecting substance dualism in favor of a physicalist ontology)
 - [phil-100](phil-100.md) — Provides predecessor context (Aristotle's account of nous and the active intellect is the historical source for the rational/mechanical distinction that Descartes transforms into mind/body dualism)
 
 ---

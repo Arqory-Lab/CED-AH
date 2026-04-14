@@ -80,10 +80,9 @@ The **Philosopher-King** doctrine (Books V–VII) argues that the ideal city mus
 
 - [phil-100](phil-100.md) — Extends (Aristotle's *Nicomachean Ethics* develops Plato's coherence insight into a more fully articulated account of flourishing, replacing the Theory of Forms with a naturalistic teleology)
 - [phil-102](phil-102.md) — Extends (Aristotle's *Organon* formalizes the logical dimensions of coherence that Plato's Divided Line points toward but does not systematize)
-- [phil-105](phil-105.md) — Reinforces (the *Meno*'s distinction between true belief and knowledge develops the epistemological themes present in the *Republic*'s Divided Line)
+- [phil-105](../../../02-ai-conversation/evidence/philosophy/phil-105.md) — Reinforces (the *Meno*'s distinction between true belief and knowledge develops the epistemological themes present in the *Republic*'s Divided Line)
 - [phil-001](phil-001.md) — Extends (modern coherentism in epistemology is a descendant of Plato's insight that knowledge requires systematic coherence, though it abandons Plato's foundationalism)
-- [phil-140](phil-140.md) — Extends (Kant's moral philosophy develops the Platonic insight that reason should govern the whole soul — reformulated as the categorical imperative's demand that rational will govern inclination)
-- [emp-001](emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation describe a condition analogous to the Cave: operators who see only the shadows of system displays without understanding the underlying processes)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation describe a condition analogous to the Cave: operators who see only the shadows of system displays without understanding the underlying processes)
 
 ---
 

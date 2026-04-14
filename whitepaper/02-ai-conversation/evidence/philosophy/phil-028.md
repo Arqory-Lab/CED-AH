@@ -69,7 +69,7 @@ The book concludes that GOFAI's "very idea" is philosophically coherent but prob
 
 - [phil-025](phil-025.md) — Reinforces (Dreyfus' critique provides the phenomenological depth that Haugeland's analytic treatment complements)
 - [phil-026](phil-026.md) — Extends (Dreyfus' updated critique addresses the connectionist systems Haugeland could only gesture toward)
-- [phil-030](phil-030.md) — Reinforces (Searle's Chinese Room is the thought-experimental version of Haugeland's original/derived intentionality point)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Reinforces (Searle's Chinese Room is the thought-experimental version of Haugeland's original/derived intentionality point)
 - [phil-023](phil-023.md) — Tensions with (Dennett rejects the original/derived intentionality distinction)
 - [phil-032](phil-032.md) — Extends (Shanahan addresses whether Haugeland-type concerns apply to LLMs)
 

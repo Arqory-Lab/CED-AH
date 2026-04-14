@@ -65,11 +65,11 @@ Jonas also develops a sophisticated account of responsibility as the fundamental
 
 ## Related Evidence
 
-- [phil-036](phil-036.md) — Reinforces (Vallor's virtue ethics shares Jonas' concern with technology's impact on human character and flourishing)
-- [phil-037](phil-037.md) — Reinforces (Winner's argument that artifacts have politics converges with Jonas' claim that technology embeds values)
-- [phil-038](phil-038.md) — Extends (Zuboff's surveillance capitalism analysis is a concrete instantiation of the irresponsible technology development Jonas warns against)
+- [phil-036](../../../06-design-principles/evidence/philosophy/phil-036.md) — Reinforces (Vallor's virtue ethics shares Jonas' concern with technology's impact on human character and flourishing)
+- [phil-037](../../../01-two-futures/evidence/philosophy/phil-037.md) — Reinforces (Winner's argument that artifacts have politics converges with Jonas' claim that technology embeds values)
+- [phil-038](../../../01-two-futures/evidence/philosophy/phil-038.md) — Extends (Zuboff's surveillance capitalism analysis is a concrete instantiation of the irresponsible technology development Jonas warns against)
 - [phil-033](phil-033.md) — Provides necessary context (Floridi's information ethics offers a complementary but differently grounded ethical framework)
-- [phil-034](phil-034.md) — Tensions with (Floridi and Sanders' artificial agents may complicate Jonas' assumption that only human agents bear responsibility)
+- [phil-034](../../../04-amplified-humanity/evidence/philosophy/phil-034.md) — Tensions with (Floridi and Sanders' artificial agents may complicate Jonas' assumption that only human agents bear responsibility)
 
 ---
 

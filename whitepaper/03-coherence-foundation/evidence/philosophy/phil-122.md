@@ -85,9 +85,9 @@ This account of freedom maps onto CED-AH's concept of amplification. A system th
 - [phil-121](phil-121.md) — Tensions with and extends (Spinoza accepts Descartes's rational method but rejects dualism; the *Ethics* is in part a systematic response to the *Meditations*, replacing substance dualism with substance monism)
 - [phil-120](phil-120.md) — Tensions with (Spinoza's God/Nature replaces Aquinas's transcendent Creator; both identify reality as rationally coherent, but through incompatible metaphysical architectures)
 - [phil-100](phil-100.md) — Extends (Spinoza's conatus generalizes Aristotle's concept of telos — the striving to maintain being extends the teleological framework from biology to all of nature)
-- [phil-106](phil-106.md) — Reinforces (Epictetus's distinction between what is "up to us" and what is not parallels Spinoza's distinction between adequate and inadequate ideas — both locate freedom in rational understanding)
-- [phil-125](phil-125.md) — Tensions with (Kant's critical philosophy rejects Spinoza's metaphysical rationalism while preserving the commitment to rational autonomy as the basis of moral agency)
-- [emp-001](emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document the operational consequences of what Spinoza diagnoses philosophically: replacing adequate understanding with passive reception of outputs leads to "bondage" — degraded capability and dependency)
+- [phil-106](../../../04-amplified-humanity/evidence/philosophy/phil-106.md) — Reinforces (Epictetus's distinction between what is "up to us" and what is not parallels Spinoza's distinction between adequate and inadequate ideas — both locate freedom in rational understanding)
+- [phil-125](../../../04-amplified-humanity/evidence/philosophy/phil-125.md) — Tensions with (Kant's critical philosophy rejects Spinoza's metaphysical rationalism while preserving the commitment to rational autonomy as the basis of moral agency)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document the operational consequences of what Spinoza diagnoses philosophically: replacing adequate understanding with passive reception of outputs leads to "bondage" — degraded capability and dependency)
 
 ---
 

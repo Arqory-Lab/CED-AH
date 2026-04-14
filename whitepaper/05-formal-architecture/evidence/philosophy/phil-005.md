@@ -64,9 +64,9 @@ The work bridges analytic epistemology and cognitive science, insisting that phi
 
 ## Related Evidence
 
-- [phil-001](phil-001.md) — Tensions with (Goldman's reliabilism vs. BonJour's coherentism)
-- [phil-012](phil-012.md) — Extends (Thagard's computational models of coherence may bridge Goldman's process-focus with coherentist commitments)
-- [phil-008](phil-008.md) — Tensions with (Lehrer's internalist coherentism vs. Goldman's externalist reliabilism)
+- [phil-001](../../../03-coherence-foundation/evidence/philosophy/phil-001.md) — Tensions with (Goldman's reliabilism vs. BonJour's coherentism)
+- [phil-012](../../../03-coherence-foundation/evidence/philosophy/phil-012.md) — Extends (Thagard's computational models of coherence may bridge Goldman's process-focus with coherentist commitments)
+- [phil-008](../../../03-coherence-foundation/evidence/philosophy/phil-008.md) — Tensions with (Lehrer's internalist coherentism vs. Goldman's externalist reliabilism)
 
 ---
 

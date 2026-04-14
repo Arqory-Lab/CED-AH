@@ -86,8 +86,8 @@ The genius of Ostrom's framework is its generality: these principles apply not j
 - [hist-007](hist-007.md) — Reinforces (Jasanoff's participatory governance aligns with Ostrom's collective-choice arrangements)
 - [hist-008](hist-008.md) — Extends (Lessig's analysis of architectural governance complements Ostrom's institutional governance)
 - [hist-009](hist-009.md) — Provides necessary context (Marchetti & Maassarani's governance landscape shows the fragmentation that Ostrom's polycentric model could address)
-- [hist-002](hist-002.md) — Reinforces (Meadows' systems thinking provides the analytical framework for understanding commons as complex adaptive systems)
-- [emp-023](emp-023.md) — Provides counterexample (O'Neil's WMDs illustrate what happens when governance fails — the negative case that Ostrom's positive principles address)
+- [hist-002](../../../05-formal-architecture/evidence/history/hist-002.md) — Reinforces (Meadows' systems thinking provides the analytical framework for understanding commons as complex adaptive systems)
+- [emp-023](../../../07-applications-failures/evidence/empirical/emp-023.md) — Provides counterexample (O'Neil's WMDs illustrate what happens when governance fails — the negative case that Ostrom's positive principles address)
 
 ---
 

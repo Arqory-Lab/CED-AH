@@ -71,10 +71,10 @@ The book's most provocative claim is that these accidents are "normal" — not i
 
 - [hist-001](hist-001.md) — Extends (Leveson's STAMP model provides a more systematic analytical method building on Perrow's insights)
 - [hist-004](hist-004.md) — Reinforces (Reason's organizational accident model provides complementary analysis of how systems fail)
-- [hist-002](hist-002.md) — Provides necessary context (Meadows' systems dynamics provides the theoretical foundation for understanding complex interactions)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies describe operator-level consequences of the system dynamics Perrow identifies)
-- [hist-005](hist-005.md) — Tensions with (Taleb's antifragility argues that some systems can gain from disorder — challenging Perrow's emphasis on inevitability)
-- [hist-006](hist-006.md) — Extends (Woods & Hollnagel's joint cognitive systems address how humans adapt within the complex systems Perrow describes)
+- [hist-002](../../../05-formal-architecture/evidence/history/hist-002.md) — Provides necessary context (Meadows' systems dynamics provides the theoretical foundation for understanding complex interactions)
+- [emp-001](../empirical/emp-001.md) — Reinforces (Bainbridge's ironies describe operator-level consequences of the system dynamics Perrow identifies)
+- [hist-005](../../../06-design-principles/evidence/history/hist-005.md) — Tensions with (Taleb's antifragility argues that some systems can gain from disorder — challenging Perrow's emphasis on inevitability)
+- [hist-006](../../../06-design-principles/evidence/history/hist-006.md) — Extends (Woods & Hollnagel's joint cognitive systems address how humans adapt within the complex systems Perrow describes)
 
 ---
 

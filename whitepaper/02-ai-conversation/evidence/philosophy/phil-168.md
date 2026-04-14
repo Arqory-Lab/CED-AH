@@ -74,11 +74,11 @@ The incommensurability thesis raises a difficult question for CED-AH: if CED-AH 
 
 ## Related Evidence
 
-- [phil-167](phil-167.md) — Tensions with (Popper's falsificationism presents a competing account of scientific progress — gradual refutation vs. Kuhnian revolution; CED-AH draws on both and must navigate the tension)
-- [phil-160](phil-160.md) — Partially reinforces (Hegel's dialectic — thesis, antithesis, synthesis — provides a structural model for paradigm change that is compatible with Kuhn's account, though Kuhn does not use dialectical language)
-- [phil-162](phil-162.md) — Partially reinforces (Nietzsche's genealogical critique of philosophical frameworks anticipates Kuhn's insight that intellectual paradigms serve the interests and values of their practitioners, not merely objective truth)
-- [phil-163](phil-163.md) — Reinforces (Dewey's pragmatist epistemology — knowledge as the intelligent reconstruction of experience — is compatible with Kuhn's account of paradigm-dependent inquiry, though Dewey is more optimistic about rational convergence)
-- [phil-122](phil-122.md) — Extends (Spinoza's geometrical method anticipated the idea that a complete intellectual framework structures all inquiry within it — a proto-paradigmatic commitment)
+- [phil-167](../../../03-coherence-foundation/evidence/philosophy/phil-167.md) — Tensions with (Popper's falsificationism presents a competing account of scientific progress — gradual refutation vs. Kuhnian revolution; CED-AH draws on both and must navigate the tension)
+- [phil-160](../../../03-coherence-foundation/evidence/philosophy/phil-160.md) — Partially reinforces (Hegel's dialectic — thesis, antithesis, synthesis — provides a structural model for paradigm change that is compatible with Kuhn's account, though Kuhn does not use dialectical language)
+- [phil-162](../../../03-coherence-foundation/evidence/philosophy/phil-162.md) — Partially reinforces (Nietzsche's genealogical critique of philosophical frameworks anticipates Kuhn's insight that intellectual paradigms serve the interests and values of their practitioners, not merely objective truth)
+- [phil-163](../../../06-design-principles/evidence/philosophy/phil-163.md) — Reinforces (Dewey's pragmatist epistemology — knowledge as the intelligent reconstruction of experience — is compatible with Kuhn's account of paradigm-dependent inquiry, though Dewey is more optimistic about rational convergence)
+- [phil-122](../../../03-coherence-foundation/evidence/philosophy/phil-122.md) — Extends (Spinoza's geometrical method anticipated the idea that a complete intellectual framework structures all inquiry within it — a proto-paradigmatic commitment)
 
 ---
 

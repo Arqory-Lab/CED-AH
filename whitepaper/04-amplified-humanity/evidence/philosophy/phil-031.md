@@ -68,7 +68,7 @@ Searle also addresses the "systems reply" to the Chinese Room at greater length,
 - [phil-030](phil-030.md) — Extends (this book develops the Chinese Room argument into a comprehensive theory)
 - [phil-029](phil-029.md) — Reinforces (Nagel's phenomenological argument supports Searle's claim that consciousness is irreducibly subjective)
 - [phil-022](phil-022.md) — Reinforces (Chalmers' hard problem converges with Searle's insistence that consciousness is not functionally reducible, though they diverge on solutions)
-- [phil-023](phil-023.md) — Tensions with (Dennett's deflationary account of consciousness is Searle's primary philosophical opponent)
+- [phil-023](../../../02-ai-conversation/evidence/philosophy/phil-023.md) — Tensions with (Dennett's deflationary account of consciousness is Searle's primary philosophical opponent)
 - [phil-024](phil-024.md) — Tensions with (Dennett's Multiple Drafts model denies the irreducible reality Searle attributes to consciousness)
 - [phil-021](phil-021.md) — Reinforces (Block's P-consciousness corresponds to what Searle insists is real and irreducible)
 

@@ -63,8 +63,8 @@ The authors frame these problems as challenges for "agents" operating in "enviro
 
 - [tech-003](tech-003.md) — Provides necessary context (Bostrom's superintelligence thesis is the background motivation for the concrete problems approach)
 - [tech-009](tech-009.md) — Extends (Russell's assistance games framework addresses some of the same problems from a different angle)
-- [tech-010](tech-010.md) — Extends (Weidinger et al. provide a more comprehensive risk taxonomy for LLMs)
-- [phil-030](phil-030.md) — Tensions with (Searle's instrument thesis challenges the agent framing the paper assumes)
+- [tech-010](../../../07-applications-failures/evidence/technical/tech-010.md) — Extends (Weidinger et al. provide a more comprehensive risk taxonomy for LLMs)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Tensions with (Searle's instrument thesis challenges the agent framing the paper assumes)
 
 ---
 

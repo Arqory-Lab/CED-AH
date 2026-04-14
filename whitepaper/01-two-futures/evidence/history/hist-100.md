@@ -84,12 +84,12 @@ This prescription has implications for CED-AH's community strategy and open-sour
 
 ## Related Evidence
 
-- [phil-171](phil-171.md) — Reinforces (Wiener's "comfortable hammock" warning directly parallels Tocqueville's soft despotism — both identify the danger of comfortable dependency as more insidious than overt oppression)
-- [phil-161](phil-161.md) — Reinforces (Marx's analysis of deskilling through machinery provides the economic dimension of the pattern Tocqueville identifies politically — both show how systems of convenience can erode human capability)
-- [phil-160](phil-160.md) — Extends (Hegel's master/slave dialectic provides the philosophical mechanism for the inversion Tocqueville describes — the master becomes dependent, the slave develops capability)
-- [phil-169](phil-169.md) — Reinforces (Mill's argument for individuality in *On Liberty* directly addresses Tocqueville's concern about majoritarian conformity — Mill explicitly cites Tocqueville)
-- [phil-167](phil-167.md) — Reinforces (Popper's defense of the open society is, in part, a response to the same concern Tocqueville raised — the danger of comfortable conformity undermining democratic capacity)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the soft despotism dynamic — automation that makes tasks easy produces operators who cannot perform when the automation fails)
+- [phil-171](../philosophy/phil-171.md) — Reinforces (Wiener's "comfortable hammock" warning directly parallels Tocqueville's soft despotism — both identify the danger of comfortable dependency as more insidious than overt oppression)
+- [phil-161](../philosophy/phil-161.md) — Reinforces (Marx's analysis of deskilling through machinery provides the economic dimension of the pattern Tocqueville identifies politically — both show how systems of convenience can erode human capability)
+- [phil-160](../../../03-coherence-foundation/evidence/philosophy/phil-160.md) — Extends (Hegel's master/slave dialectic provides the philosophical mechanism for the inversion Tocqueville describes — the master becomes dependent, the slave develops capability)
+- [phil-169](../../../03-coherence-foundation/evidence/philosophy/phil-169.md) — Reinforces (Mill's argument for individuality in *On Liberty* directly addresses Tocqueville's concern about majoritarian conformity — Mill explicitly cites Tocqueville)
+- [phil-167](../../../03-coherence-foundation/evidence/philosophy/phil-167.md) — Reinforces (Popper's defense of the open society is, in part, a response to the same concern Tocqueville raised — the danger of comfortable conformity undermining democratic capacity)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the soft despotism dynamic — automation that makes tasks easy produces operators who cannot perform when the automation fails)
 
 ---
 

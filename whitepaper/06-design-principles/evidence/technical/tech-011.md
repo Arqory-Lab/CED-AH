@@ -72,11 +72,11 @@ Friedman and Hendry provide extensive case studies: VSD applied to cookie manage
 ## Related Evidence
 
 - [tech-014](tech-014.md) — Reinforces (Shneiderman's HCAI guidelines provide complementary design methodology focused on human-centered AI specifically)
-- [tech-012](tech-012.md) — Extends (Raji et al.'s algorithmic auditing provides the accountability mechanisms that VSD-based design requires)
-- [tech-013](tech-013.md) — Tensions with (Selbst et al.'s critique of abstraction challenges VSD's claim that values can be operationalized independently of sociotechnical context)
-- [emp-011](emp-011.md) — Reinforces (Shneiderman's HCAI framework shares VSD's commitment to values-based design)
-- [emp-002](emp-002.md) — Reinforces by analogy (Billings' human-centered aviation design is a domain-specific VSD application avant la lettre)
-- [phil-003](phil-003.md) — Provides philosophical grounding (MacIntyre's concept of practices and internal goods provides the ethical theory that VSD's methodology operationalizes)
+- [tech-012](../../../08-implications-action/evidence/technical/tech-012.md) — Extends (Raji et al.'s algorithmic auditing provides the accountability mechanisms that VSD-based design requires)
+- [tech-013](../../../07-applications-failures/evidence/technical/tech-013.md) — Tensions with (Selbst et al.'s critique of abstraction challenges VSD's claim that values can be operationalized independently of sociotechnical context)
+- [emp-011](../empirical/emp-011.md) — Reinforces (Shneiderman's HCAI framework shares VSD's commitment to values-based design)
+- [emp-002](../empirical/emp-002.md) — Reinforces by analogy (Billings' human-centered aviation design is a domain-specific VSD application avant la lettre)
+- [phil-003](../../../03-coherence-foundation/evidence/philosophy/phil-003.md) — Provides philosophical grounding (MacIntyre's concept of practices and internal goods provides the ethical theory that VSD's methodology operationalizes)
 
 ---
 

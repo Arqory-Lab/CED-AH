@@ -74,11 +74,11 @@ The private language argument bears on the question of whether LLMs have "inner 
 
 ## Related Evidence
 
-- [phil-021](phil-021.md) — Reinforces (Searle's Chinese Room argument is the analytic philosophy equivalent of Wittgenstein's practice-based argument — both deny that syntactic manipulation constitutes semantic understanding, though by different philosophical routes)
-- [phil-163](phil-163.md) — Reinforces (Dewey's pragmatism, like Wittgenstein's later philosophy, grounds meaning in practice and use rather than in abstract correspondence — both support the claim that language use divorced from lived practice is not genuine meaning)
-- [phil-165](phil-165.md) — Extends (Heidegger's analysis of technology as "enframing" provides the phenomenological complement to Wittgenstein's linguistic analysis — where Wittgenstein shows that LLMs do not mean, Heidegger shows that technology restructures how humans relate to the world)
+- [phil-021](../../../04-amplified-humanity/evidence/philosophy/phil-021.md) — Reinforces (Searle's Chinese Room argument is the analytic philosophy equivalent of Wittgenstein's practice-based argument — both deny that syntactic manipulation constitutes semantic understanding, though by different philosophical routes)
+- [phil-163](../../../06-design-principles/evidence/philosophy/phil-163.md) — Reinforces (Dewey's pragmatism, like Wittgenstein's later philosophy, grounds meaning in practice and use rather than in abstract correspondence — both support the claim that language use divorced from lived practice is not genuine meaning)
+- [phil-165](../../../01-two-futures/evidence/philosophy/phil-165.md) — Extends (Heidegger's analysis of technology as "enframing" provides the phenomenological complement to Wittgenstein's linguistic analysis — where Wittgenstein shows that LLMs do not mean, Heidegger shows that technology restructures how humans relate to the world)
 - [phil-032](phil-032.md) — Extends (Shanahan's 2024 paper on LLMs explicitly engages with Wittgensteinian questions about language use and forms of life in the context of contemporary AI)
-- [phil-122](phil-122.md) — Tensions with (Spinoza's parallelism might suggest that any sufficiently organized physical system expresses thought — a position that would challenge Wittgenstein's restriction of meaning to participants in forms of life)
+- [phil-122](../../../03-coherence-foundation/evidence/philosophy/phil-122.md) — Tensions with (Spinoza's parallelism might suggest that any sufficiently organized physical system expresses thought — a position that would challenge Wittgenstein's restriction of meaning to participants in forms of life)
 
 ---
 

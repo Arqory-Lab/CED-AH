@@ -83,10 +83,10 @@ Aquinas further argues that natural law is universal (applicable to all human be
 ## Related Evidence
 
 - [phil-100](phil-100.md) — Provides predecessor context (Aristotle's *Nicomachean Ethics* is the primary philosophical source for Aquinas's account of human flourishing and practical reason; Aquinas's natural law theory is, in significant part, a Christianization of Aristotelian ethics)
-- [phil-125](phil-125.md) — Tensions with (Kant rejects Thomistic natural law in favor of the categorical imperative; both arrive at the dignity of rational agency by different routes — Aquinas through participation in divine reason, Kant through autonomous self-legislation)
+- [phil-125](../../../04-amplified-humanity/evidence/philosophy/phil-125.md) — Tensions with (Kant rejects Thomistic natural law in favor of the categorical imperative; both arrive at the dignity of rational agency by different routes — Aquinas through participation in divine reason, Kant through autonomous self-legislation)
 - [phil-122](phil-122.md) — Tensions with (Spinoza's monism rejects Aquinas's theistic dualism while arriving at a structurally similar conclusion about the rational coherence of reality)
 - [phil-104](phil-104.md) — Provides predecessor context (Plato's theory of Forms is a primary source for Aquinas's account of eternal law as the rational archetype of created order)
-- [phil-021](phil-021.md) — Extends (Searle's Chinese Room argument provides the modern philosophical defense of the Thomistic-Aristotelian claim that computational processing does not constitute understanding)
+- [phil-021](../../../04-amplified-humanity/evidence/philosophy/phil-021.md) — Extends (Searle's Chinese Room argument provides the modern philosophical defense of the Thomistic-Aristotelian claim that computational processing does not constitute understanding)
 
 ---
 

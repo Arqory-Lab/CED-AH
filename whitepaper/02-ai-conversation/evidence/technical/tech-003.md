@@ -75,9 +75,9 @@ CED-AH must engage with Bostrom at the strongest version of his argument. The fr
 - [tech-009](tech-009.md) — Extends (Russell addresses many of the same concerns with a more constructive framework)
 - [tech-004](tech-004.md) — Provides necessary context (Christian's overview situates Bostrom within the broader alignment discourse)
 - [tech-006](tech-006.md) — Qualifies (Gabriel's "whose values" question applies to Bostrom's value-loading proposal)
-- [phil-030](phil-030.md) — Tensions with (Searle's Chinese Room challenges the ontological basis for superintelligent agency)
-- [phil-022](phil-022.md) — Tensions with (Chalmers' hard problem raises questions about whether superintelligence would be conscious)
-- [phil-023](phil-023.md) — Provides necessary context (Dennett's intentional stance is compatible with Bostrom's agency attributions)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Tensions with (Searle's Chinese Room challenges the ontological basis for superintelligent agency)
+- [phil-022](../../../04-amplified-humanity/evidence/philosophy/phil-022.md) — Tensions with (Chalmers' hard problem raises questions about whether superintelligence would be conscious)
+- [phil-023](../philosophy/phil-023.md) — Provides necessary context (Dennett's intentional stance is compatible with Bostrom's agency attributions)
 
 ---
 

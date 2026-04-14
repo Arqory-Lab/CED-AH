@@ -75,10 +75,10 @@ Each error type arises from different cognitive mechanisms and requires differen
 
 - [hist-001](hist-001.md) — Tensions with (Leveson critiques the Swiss cheese model while building on Reason's active/latent distinction)
 - [hist-003](hist-003.md) — Reinforces (Perrow's normal accidents provide the systems-level complement to Reason's organizational analysis)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies describe the operator-level consequences that arise from Reason's latent conditions)
-- [emp-017](emp-017.md) — Extends (Kahneman's cognitive bias research provides the psychological foundations for Reason's error taxonomy)
-- [emp-004](emp-004.md) — Extends (Endsley updates Reason's framework for autonomous systems)
-- [hist-006](hist-006.md) — Extends (Woods & Hollnagel provide a resilience-oriented alternative to Reason's barrier model)
+- [emp-001](../empirical/emp-001.md) — Reinforces (Bainbridge's ironies describe the operator-level consequences that arise from Reason's latent conditions)
+- [emp-017](../../../04-amplified-humanity/evidence/empirical/emp-017.md) — Extends (Kahneman's cognitive bias research provides the psychological foundations for Reason's error taxonomy)
+- [emp-004](../../../06-design-principles/evidence/empirical/emp-004.md) — Extends (Endsley updates Reason's framework for autonomous systems)
+- [hist-006](../../../06-design-principles/evidence/history/hist-006.md) — Extends (Woods & Hollnagel provide a resilience-oriented alternative to Reason's barrier model)
 
 ---
 

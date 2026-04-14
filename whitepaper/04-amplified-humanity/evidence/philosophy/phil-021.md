@@ -67,7 +67,7 @@ Block's distinction has become foundational in consciousness studies and has dir
 - [phil-024](phil-024.md) — Tensions with (Dennett's functionalism challenges the coherence of Block's P-consciousness)
 - [phil-029](phil-029.md) — Reinforces (Nagel's "What is it like to be a bat?" is the original phenomenological argument Block builds on)
 - [phil-030](phil-030.md) — Reinforces (Searle's Chinese Room argues that functional equivalence does not entail understanding)
-- [phil-032](phil-032.md) — Extends (Shanahan's analysis of LLMs applies Block's distinction to contemporary systems)
+- [phil-032](../../../02-ai-conversation/evidence/philosophy/phil-032.md) — Extends (Shanahan's analysis of LLMs applies Block's distinction to contemporary systems)
 
 ---
 

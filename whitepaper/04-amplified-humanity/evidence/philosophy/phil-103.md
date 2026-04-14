@@ -79,11 +79,11 @@ Aristotle's treatment of **phantasia** (imagination, representation) in Book III
 
 ## Related Evidence
 
-- [phil-100](phil-100.md) — Reinforces (the *Nicomachean Ethics*' account of flourishing as activity presupposes the psychological capacities analyzed in *De Anima* — flourishing requires the exercise of specifically human soul-capacities)
+- [phil-100](../../../03-coherence-foundation/evidence/philosophy/phil-100.md) — Reinforces (the *Nicomachean Ethics*' account of flourishing as activity presupposes the psychological capacities analyzed in *De Anima* — flourishing requires the exercise of specifically human soul-capacities)
 - [phil-101](phil-101.md) — Reinforces (the *Politics*' instrument/agent distinction is grounded in the *De Anima*'s analysis of what constitutes a genuinely ensouled agent versus a mere tool)
 - [phil-031](phil-031.md) — Extends (Searle's biological naturalism is the most prominent modern descendant of Aristotle's hylomorphism as applied to the question of computational mentality)
 - [phil-021](phil-021.md) — Reinforces (Searle's Chinese Room argument provides a modern thought experiment against computational understanding that is structurally compatible with hylomorphic psychology)
-- [phil-104](phil-104.md) — Tensions with (Plato's dualism, as presented in the *Republic* and *Phaedo*, offers an alternative to hylomorphism — one that might paradoxically be more hospitable to computational mentality, since if mind is separable from body, it could in principle be realized in any substrate)
+- [phil-104](../../../03-coherence-foundation/evidence/philosophy/phil-104.md) — Tensions with (Plato's dualism, as presented in the *Republic* and *Phaedo*, offers an alternative to hylomorphism — one that might paradoxically be more hospitable to computational mentality, since if mind is separable from body, it could in principle be realized in any substrate)
 
 ---
 

@@ -77,11 +77,11 @@ Locke distinguishes between express consent (explicit agreement to join a politi
 ## Related Evidence
 
 - [phil-125](phil-125.md) — Extends (Kant's moral philosophy provides a non-theological foundation for human dignity and autonomy that can ground the Authority Retention imperative without Locke's theological premises)
-- [phil-124](phil-124.md) — Reinforces (Montesquieu's separation of powers develops the institutional dimension of Locke's consent theory — legitimate authority must be distributed and checked)
-- [phil-127](phil-127.md) — Extends (the Federalist Papers translate Lockean principles into practical institutional design — consent, accountability, and the distribution of authority in a constitutional republic)
+- [phil-124](../../../08-implications-action/evidence/philosophy/phil-124.md) — Reinforces (Montesquieu's separation of powers develops the institutional dimension of Locke's consent theory — legitimate authority must be distributed and checked)
+- [phil-127](../../../06-design-principles/evidence/philosophy/phil-127.md) — Extends (the Federalist Papers translate Lockean principles into practical institutional design — consent, accountability, and the distribution of authority in a constitutional republic)
 - [phil-106](phil-106.md) — Reinforces (Epictetus's account of prohairesis as the inviolable domain of rational choice parallels Locke's self-ownership — both identify a domain of personal authority that cannot be legitimately transferred)
 - [phil-101](phil-101.md) — Provides predecessor context (Aristotle's instrument/agent distinction provides the metaphysical basis for Locke's political claim: instruments cannot hold authority because they lack the rational agency that authority requires)
-- [hist-009](hist-009.md) — Extends (Ostrom's institutional governance frameworks provide the contemporary institutional analogue of Locke's consent-based governance — polycentric governance structures that distribute authority while maintaining accountability)
+- [hist-009](../../../08-implications-action/evidence/history/hist-009.md) — Extends (Ostrom's institutional governance frameworks provide the contemporary institutional analogue of Locke's consent-based governance — polycentric governance structures that distribute authority while maintaining accountability)
 
 ---
 

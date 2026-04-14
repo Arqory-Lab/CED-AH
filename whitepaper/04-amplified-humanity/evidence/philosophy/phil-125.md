@@ -81,12 +81,12 @@ Kant's account of autonomy supports CED-AH's claim that moral agency requires bo
 ## Related Evidence
 
 - [phil-126](phil-126.md) — Extends (the *Critique of Practical Reason* develops and deepens the *Groundwork*'s arguments about moral agency, autonomy, and the relationship between rationality and freedom)
-- [phil-007](phil-007.md) — Extends (Kant's *Critique of Pure Reason* provides the epistemological framework within which the *Groundwork*'s moral philosophy operates — the distinction between phenomena and noumena grounds the possibility of freedom)
-- [phil-120](phil-120.md) — Tensions with (Kant rejects Thomistic natural law; both arrive at human dignity by different routes — Aquinas through participatory reason, Kant through autonomous self-legislation)
-- [phil-100](phil-100.md) — Tensions with and reinforces (Aristotle's virtue ethics and Kant's deontology disagree on method — virtue vs. duty — but converge on the irreducibility of rational agency as the seat of moral worth)
+- [phil-007](../../../03-coherence-foundation/evidence/philosophy/phil-007.md) — Extends (Kant's *Critique of Pure Reason* provides the epistemological framework within which the *Groundwork*'s moral philosophy operates — the distinction between phenomena and noumena grounds the possibility of freedom)
+- [phil-120](../../../03-coherence-foundation/evidence/philosophy/phil-120.md) — Tensions with (Kant rejects Thomistic natural law; both arrive at human dignity by different routes — Aquinas through participatory reason, Kant through autonomous self-legislation)
+- [phil-100](../../../03-coherence-foundation/evidence/philosophy/phil-100.md) — Tensions with and reinforces (Aristotle's virtue ethics and Kant's deontology disagree on method — virtue vs. duty — but converge on the irreducibility of rational agency as the seat of moral worth)
 - [phil-106](phil-106.md) — Reinforces (Epictetus's account of prohairesis as inviolable rational self-governance is the Stoic predecessor of Kant's concept of autonomy)
 - [phil-123](phil-123.md) — Reinforces (Locke's consent theory and self-ownership provide the political dimension of Kant's moral individualism — both ground human authority in the rational agency of the individual)
-- [phil-122](phil-122.md) — Tensions with (Kant rejects Spinoza's determinism and metaphysical rationalism while preserving the commitment to rational autonomy)
+- [phil-122](../../../03-coherence-foundation/evidence/philosophy/phil-122.md) — Tensions with (Kant rejects Spinoza's determinism and metaphysical rationalism while preserving the commitment to rational autonomy)
 
 ---
 

@@ -94,11 +94,11 @@ Wiener's warnings were not speculative; they were analytical predictions based o
 
 - [phil-161](phil-161.md) — Reinforces (Marx's analysis of machinery deskilling workers provides the 19th-century industrial precedent for the pattern Wiener identifies in 20th-century automated systems — both show technology deployed to replace rather than amplify human capability)
 - [phil-165](phil-165.md) — Reinforces (Heidegger's concept of "enframing" — technology revealing the world as standing-reserve — provides the phenomenological dimension of the concern Wiener articulates in cybernetic terms)
-- [phil-170](phil-170.md) — Extends (Darwin's biological coherence provides the physical grounding for the feedback and coherence concepts that Wiener develops in cybernetic terms — Wiener explicitly drew on biological systems as models for machine feedback)
-- [phil-172](phil-172.md) — Reinforces (Polanyi's tacit knowledge demonstrates a specific dimension of human capability that cannot be captured in computational systems — a dimension that Wiener's amplification framework should preserve)
-- [hist-100](hist-100.md) — Reinforces (Tocqueville's "soft despotism" — a paternalistic power that "stupefies" the people — provides the political equivalent of Wiener's "comfortable hammock" warning about technological passivity)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for Wiener's warnings — automation that replaces human skill produces operators who cannot intervene when automation fails)
-- [phil-166](phil-166.md) — Extends (Arendt's concept of action — the distinctly human capacity to begin something new — provides the philosophical account of what is at stake in Wiener's warning about reducing humans to machine components)
+- [phil-170](../../../03-coherence-foundation/evidence/philosophy/phil-170.md) — Extends (Darwin's biological coherence provides the physical grounding for the feedback and coherence concepts that Wiener develops in cybernetic terms — Wiener explicitly drew on biological systems as models for machine feedback)
+- [phil-172](../../../04-amplified-humanity/evidence/philosophy/phil-172.md) — Reinforces (Polanyi's tacit knowledge demonstrates a specific dimension of human capability that cannot be captured in computational systems — a dimension that Wiener's amplification framework should preserve)
+- [hist-100](../history/hist-100.md) — Reinforces (Tocqueville's "soft despotism" — a paternalistic power that "stupefies" the people — provides the political equivalent of Wiener's "comfortable hammock" warning about technological passivity)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for Wiener's warnings — automation that replaces human skill produces operators who cannot intervene when automation fails)
+- [phil-166](../../../04-amplified-humanity/evidence/philosophy/phil-166.md) — Extends (Arendt's concept of action — the distinctly human capacity to begin something new — provides the philosophical account of what is at stake in Wiener's warning about reducing humans to machine components)
 
 ---
 

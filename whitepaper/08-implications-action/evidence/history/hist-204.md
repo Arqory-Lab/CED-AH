@@ -74,10 +74,10 @@ Key trial evidence included Meta internal communications comparing platform effe
 - [phil-205](../philosophy/phil-205.md) — Reinforces (Taddeo's "moral gambit" of deploying systems while diffusing responsibility is precisely what this verdict rejects)
 - [phil-201](../philosophy/phil-201.md) — Reinforces (Thompson's "many hands problem" is the accountability diffusion the conduct/content distinction resolves)
 - [hist-008](hist-008.md) — Extends (Lessig's "code is law" — platform architecture as regulation is now being treated as platform conduct subject to tort liability)
-- [hist-200](../../07-applications-failures/evidence/history/hist-200.md) — Provides context (Wu's centralization cycle is the historical backdrop)
-- [hist-201](../../07-applications-failures/evidence/history/hist-201.md) — Provides context (Zittrain's generativity concerns materialized)
-- [hist-202](../../07-applications-failures/evidence/history/hist-202.md) — Provides context (Benkler's commons production eroded by centralization)
-- [hist-203](../../07-applications-failures/evidence/history/hist-203.md) — Provides context (McChesney's capitalist recapture now facing legal pushback)
+- [hist-200](../../../07-applications-failures/evidence/history/hist-200.md) — Provides context (Wu's centralization cycle is the historical backdrop)
+- [hist-201](../../../07-applications-failures/evidence/history/hist-201.md) — Provides context (Zittrain's generativity concerns materialized)
+- [hist-202](../../../07-applications-failures/evidence/history/hist-202.md) — Provides context (Benkler's commons production eroded by centralization)
+- [hist-203](../../../07-applications-failures/evidence/history/hist-203.md) — Provides context (McChesney's capitalist recapture now facing legal pushback)
 - [phil-210](../philosophy/phil-210.md) — Extends (Kaye's Speech Police global accountability gap — this case represents a domestic legal response)
 
 ---

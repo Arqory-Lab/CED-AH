@@ -82,12 +82,12 @@ Marx is careful to distinguish between machinery as such and the capitalist use 
 
 ## Related Evidence
 
-- [phil-160](phil-160.md) — Extends (Marx adopts Hegel's dialectical method and materializes it — the master/slave dialectic becomes the capitalist/worker relation; the dialectic of ideas becomes the dialectic of material production)
+- [phil-160](../../../03-coherence-foundation/evidence/philosophy/phil-160.md) — Extends (Marx adopts Hegel's dialectical method and materializes it — the master/slave dialectic becomes the capitalist/worker relation; the dialectic of ideas becomes the dialectic of material production)
 - [phil-165](phil-165.md) — Reinforces (Heidegger's concept of "enframing" — technology revealing the world as standing-reserve — provides a phenomenological complement to Marx's political-economic analysis of how technology restructures the human relationship to the world)
-- [phil-166](phil-166.md) — Extends (Arendt's distinction between labor, work, and action provides a more differentiated account of human activity than Marx's focus on labor — and identifies what is lost when human activity is reduced to its laboring dimension)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the deskilling pattern Marx identifies — automation that replaces operator skill produces operators who cannot intervene when automation fails)
-- [phil-123](phil-123.md) — Tensions with (Locke's labor theory of property, which grounds property rights in individual labor, is the target of Marx's critique — Marx argues that capitalist property is based not on the owner's labor but on the appropriation of others' labor)
-- [hist-009](hist-009.md) — Extends (Ostrom's institutional analysis shows how common-pool resource governance can avoid the concentration of control that Marx identifies as the structural consequence of capitalist technology deployment)
+- [phil-166](../../../04-amplified-humanity/evidence/philosophy/phil-166.md) — Extends (Arendt's distinction between labor, work, and action provides a more differentiated account of human activity than Marx's focus on labor — and identifies what is lost when human activity is reduced to its laboring dimension)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the deskilling pattern Marx identifies — automation that replaces operator skill produces operators who cannot intervene when automation fails)
+- [phil-123](../../../04-amplified-humanity/evidence/philosophy/phil-123.md) — Tensions with (Locke's labor theory of property, which grounds property rights in individual labor, is the target of Marx's critique — Marx argues that capitalist property is based not on the owner's labor but on the appropriation of others' labor)
+- [hist-009](../../../08-implications-action/evidence/history/hist-009.md) — Extends (Ostrom's institutional analysis shows how common-pool resource governance can avoid the concentration of control that Marx identifies as the structural consequence of capitalist technology deployment)
 
 ---
 

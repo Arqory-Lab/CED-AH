@@ -52,8 +52,8 @@ David Kaye, former UN Special Rapporteur on the promotion and protection of the 
 
 ## Related Evidence
 
-- [phil-209](phil-209.md) — Reinforces (Gillespie documents the domestic dynamics Kaye examines globally)
-- [phil-207](phil-207.md) — Contextualizes (Citron & Wittes provide the U.S. legal analysis that Kaye extends globally)
+- [phil-209](../../../07-applications-failures/evidence/philosophy/phil-209.md) — Reinforces (Gillespie documents the domestic dynamics Kaye examines globally)
+- [phil-207](../../../07-applications-failures/evidence/philosophy/phil-207.md) — Contextualizes (Citron & Wittes provide the U.S. legal analysis that Kaye extends globally)
 
 ---
 

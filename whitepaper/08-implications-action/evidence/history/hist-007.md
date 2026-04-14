@@ -68,8 +68,8 @@ Jasanoff argues that effective technology governance requires three things that 
 - [hist-008](hist-008.md) — Extends (Lessig's "code is law" provides the specific mechanism by which technical architecture implements governance)
 - [hist-009](hist-009.md) — Extends (Marchetti & Maassarani document the contemporary global AI governance landscape that Jasanoff's framework helps analyze)
 - [hist-010](hist-010.md) — Reinforces (Ostrom's polycentric governance provides a complementary model for participatory technology governance)
-- [emp-023](emp-023.md) — Reinforces (O'Neil's algorithmic harm case studies illustrate the consequences of governance failures Jasanoff identifies)
-- [hist-002](hist-002.md) — Provides necessary context (Meadows' leverage points framework helps identify where Jasanoff's governance interventions are most effective)
+- [emp-023](../../../07-applications-failures/evidence/empirical/emp-023.md) — Reinforces (O'Neil's algorithmic harm case studies illustrate the consequences of governance failures Jasanoff identifies)
+- [hist-002](../../../05-formal-architecture/evidence/history/hist-002.md) — Provides necessary context (Meadows' leverage points framework helps identify where Jasanoff's governance interventions are most effective)
 
 ---
 

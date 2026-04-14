@@ -68,9 +68,9 @@ The broader argument of *The Whale and the Reactor* extends beyond artifacts to 
 ## Related Evidence
 
 - [phil-038](phil-038.md) — Extends (Zuboff's surveillance capitalism analysis is a sustained case study of how digital artifacts embed exploitative politics)
-- [phil-035](phil-035.md) — Reinforces (Jonas' ethics of responsibility converges with Winner's call for deliberate engagement with technology's consequences)
-- [phil-036](phil-036.md) — Reinforces (Vallor's analysis of how technologies shape human character complements Winner's analysis of how they shape political order)
-- [phil-033](phil-033.md) — Provides necessary context (Floridi's information ethics addresses the broader ethical implications of information technologies)
+- [phil-035](../../../08-implications-action/evidence/philosophy/phil-035.md) — Reinforces (Jonas' ethics of responsibility converges with Winner's call for deliberate engagement with technology's consequences)
+- [phil-036](../../../06-design-principles/evidence/philosophy/phil-036.md) — Reinforces (Vallor's analysis of how technologies shape human character complements Winner's analysis of how they shape political order)
+- [phil-033](../../../08-implications-action/evidence/philosophy/phil-033.md) — Provides necessary context (Floridi's information ethics addresses the broader ethical implications of information technologies)
 
 ---
 

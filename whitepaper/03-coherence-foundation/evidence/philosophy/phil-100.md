@@ -75,10 +75,9 @@ Book X completes the argument by identifying **contemplation** (theoria) as the 
 ## Related Evidence
 
 - [phil-003](phil-003.md) — Extends (MacIntyre's *After Virtue* is the most influential modern recovery of the Aristotelian virtue ethics tradition; MacIntyre's concept of "practices" develops Aristotle's account of virtue-constitutive activities for the modern context)
-- [phil-101](phil-101.md) — Reinforces (Aristotle's *Politics* extends the flourishing argument to the political community and introduces the instrument/agent distinction)
+- [phil-101](../../../04-amplified-humanity/evidence/philosophy/phil-101.md) — Reinforces (Aristotle's *Politics* extends the flourishing argument to the political community and introduces the instrument/agent distinction)
 - [phil-104](phil-104.md) — Provides predecessor context (Plato's *Republic* offers an earlier account of justice as internal harmony that Aristotle responds to and transforms)
-- [phil-140](phil-140.md) — Extends (Kant's moral philosophy provides a deontological complement to Aristotle's teleological ethics; both converge on the irreducibility of human rational agency)
-- [emp-001](emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document what happens when the capacities Aristotle identifies as constitutive of flourishing — skilled judgment, active engagement — are removed by automation)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document what happens when the capacities Aristotle identifies as constitutive of flourishing — skilled judgment, active engagement — are removed by automation)
 
 ---
 

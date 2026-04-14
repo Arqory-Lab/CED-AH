@@ -74,12 +74,12 @@ Polanyi's rejection of the positivist ideal has direct implications for AI. If t
 
 ## Related Evidence
 
-- [phil-171](phil-171.md) — Reinforces (Wiener's concern about delegating decisions to machines is deepened by Polanyi's analysis — what is lost in delegation is not just authority but the tacit knowledge that authority requires)
-- [phil-164](phil-164.md) — Reinforces (Wittgenstein's argument that meaning requires context and form of life parallels Polanyi's argument that knowledge requires tacit, personal engagement — both challenge the formalizability of understanding)
+- [phil-171](../../../01-two-futures/evidence/philosophy/phil-171.md) — Reinforces (Wiener's concern about delegating decisions to machines is deepened by Polanyi's analysis — what is lost in delegation is not just authority but the tacit knowledge that authority requires)
+- [phil-164](../../../02-ai-conversation/evidence/philosophy/phil-164.md) — Reinforces (Wittgenstein's argument that meaning requires context and form of life parallels Polanyi's argument that knowledge requires tacit, personal engagement — both challenge the formalizability of understanding)
 - [phil-166](phil-166.md) — Extends (Arendt's concept of action — the distinctly human capacity to begin something new — requires the kind of personal judgment and tacit capability that Polanyi describes)
-- [emp-019](emp-019.md) — Reinforces (Klein's naturalistic decision-making research provides empirical evidence for Polanyi's tacit knowledge thesis — experts in complex domains rely on pattern recognition and intuition that they cannot fully articulate)
-- [emp-013](emp-013.md) — Reinforces (de Groot's chess expertise research demonstrates that master-level chess involves tacit pattern recognition that cannot be reduced to explicit rules — a paradigm case of Polanyian tacit knowledge)
-- [math-100](math-100.md) — Extends (Godel's incompleteness theorems show that formal systems cannot capture all mathematical truths — a formal parallel to Polanyi's claim that explicit knowledge cannot capture all human knowledge)
+- [emp-019](../empirical/emp-019.md) — Reinforces (Klein's naturalistic decision-making research provides empirical evidence for Polanyi's tacit knowledge thesis — experts in complex domains rely on pattern recognition and intuition that they cannot fully articulate)
+- [emp-013](../empirical/emp-013.md) — Reinforces (de Groot's chess expertise research demonstrates that master-level chess involves tacit pattern recognition that cannot be reduced to explicit rules — a paradigm case of Polanyian tacit knowledge)
+- [math-100](../../../05-formal-architecture/evidence/mathematics/math-100.md) — Extends (Godel's incompleteness theorems show that formal systems cannot capture all mathematical truths — a formal parallel to Polanyi's claim that explicit knowledge cannot capture all human knowledge)
 - [phil-125](phil-125.md) — Tensions with (Kant's critical philosophy seeks to identify the universal, impersonal structures of knowledge — the categories and forms that are the same for all knowers — whereas Polanyi emphasizes the personal, particular, tacit dimension)
 
 ---

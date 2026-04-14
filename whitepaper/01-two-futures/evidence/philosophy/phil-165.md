@@ -75,10 +75,10 @@ CED-AH can be read as an attempt to instantiate Heidegger's "saving power" in th
 ## Related Evidence
 
 - [phil-161](phil-161.md) — Reinforces (Marx's analysis of how machinery restructures the labor process is the political-economic complement to Heidegger's phenomenological analysis of how technology restructures the human relationship to the world — both identify a structural transformation, not merely a tool-use relationship)
-- [phil-164](phil-164.md) — Extends (Wittgenstein's analysis of language games provides the linguistic dimension that Heidegger's phenomenological analysis lacks — where Heidegger shows that technology restructures our mode of revealing, Wittgenstein shows that LLMs do not participate in the forms of life that give language its meaning)
-- [phil-166](phil-166.md) — Extends (Arendt — who was Heidegger's student — develops the political dimension of the enframing diagnosis, showing how the reduction of human activity to labor and behavior mirrors the reduction of humans to standing-reserve)
-- [phil-160](phil-160.md) — Tensions with (Hegel's dialectic suggests that enframing could be overcome through dialectical development — Heidegger rejects dialectical optimism as itself part of the technological worldview)
-- [phil-122](phil-122.md) — Tensions with (Spinoza's monism, which sees reality as a single rational substance, may support enframing rather than challenging it — if reality is rationally transparent, then ordering it as standing-reserve may be a natural extension of reason)
+- [phil-164](../../../02-ai-conversation/evidence/philosophy/phil-164.md) — Extends (Wittgenstein's analysis of language games provides the linguistic dimension that Heidegger's phenomenological analysis lacks — where Heidegger shows that technology restructures our mode of revealing, Wittgenstein shows that LLMs do not participate in the forms of life that give language its meaning)
+- [phil-166](../../../04-amplified-humanity/evidence/philosophy/phil-166.md) — Extends (Arendt — who was Heidegger's student — develops the political dimension of the enframing diagnosis, showing how the reduction of human activity to labor and behavior mirrors the reduction of humans to standing-reserve)
+- [phil-160](../../../03-coherence-foundation/evidence/philosophy/phil-160.md) — Tensions with (Hegel's dialectic suggests that enframing could be overcome through dialectical development — Heidegger rejects dialectical optimism as itself part of the technological worldview)
+- [phil-122](../../../03-coherence-foundation/evidence/philosophy/phil-122.md) — Tensions with (Spinoza's monism, which sees reality as a single rational substance, may support enframing rather than challenging it — if reality is rationally transparent, then ordering it as standing-reserve may be a natural extension of reason)
 
 ---
 

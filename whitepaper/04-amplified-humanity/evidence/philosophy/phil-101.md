@@ -78,12 +78,12 @@ Aristotle also distinguishes between **instruments** (organa) and **assistants**
 
 ## Related Evidence
 
-- [phil-100](phil-100.md) — Reinforces (the *Nicomachean Ethics* provides the account of flourishing that gives the instrument thesis its normative force: instruments should serve human flourishing)
+- [phil-100](../../../03-coherence-foundation/evidence/philosophy/phil-100.md) — Reinforces (the *Nicomachean Ethics* provides the account of flourishing that gives the instrument thesis its normative force: instruments should serve human flourishing)
 - [phil-103](phil-103.md) — Extends (the *De Anima* provides Aristotle's analysis of soul/mind, which grounds his distinction between ensouled and unensouled entities — and therefore between agents and instruments)
 - [phil-021](phil-021.md) — Extends (Searle's Chinese Room argument provides the modern philosophical defense of the claim that computational information processing does not constitute understanding — the contemporary descendant of Aristotle's instrument thesis)
 - [phil-031](phil-031.md) — Extends (Searle's biological naturalism argues that mental states require specific biological substrates — a position with deep Aristotelian roots via hylomorphism)
-- [hist-012](hist-012.md) — Reinforces (Mindell's historical research demonstrates that "full autonomy is a myth" in robotics — the empirical confirmation that Aristotle's conceptual analysis of instruments predicts)
-- [phil-104](phil-104.md) — Provides predecessor context (Plato's *Republic* distinguishes classes by their function, which Aristotle develops into the instrument/agent distinction)
+- [hist-012](../../../01-two-futures/evidence/history/hist-012.md) — Reinforces (Mindell's historical research demonstrates that "full autonomy is a myth" in robotics — the empirical confirmation that Aristotle's conceptual analysis of instruments predicts)
+- [phil-104](../../../03-coherence-foundation/evidence/philosophy/phil-104.md) — Provides predecessor context (Plato's *Republic* distinguishes classes by their function, which Aristotle develops into the instrument/agent distinction)
 
 ---
 

@@ -73,7 +73,7 @@ This is potentially the strongest evidence item in the batch because it bridges 
 - [phil-001](phil-001.md) — Extends (Thagard provides the formal model for BonJour's philosophical coherentism)
 - [phil-003](phil-003.md) — Extends (Thagard formalizes aspects of Davidson's web-of-belief picture)
 - [phil-004](phil-004.md) — Extends (Thagard's constraint satisfaction is compatible with Elgin's reflective equilibrium)
-- [phil-005](phil-005.md) — Extends (Thagard's computational models may bridge Goldman's process-reliability with coherentist structures)
+- [phil-005](../../../05-formal-architecture/evidence/philosophy/phil-005.md) — Extends (Thagard's computational models may bridge Goldman's process-reliability with coherentist structures)
 - [phil-009](phil-009.md) — Extends (Thagard provides the formal model that Quine's web-of-belief metaphor lacks)
 - [phil-006](phil-006.md) — Potentially resolves (Thagard's framework may provide the experiential constraint Haack finds missing in pure coherentism, via perceptual coherence)
 

@@ -81,11 +81,11 @@ Russell explicitly argues that this framework makes systems "provably beneficial
 ## Related Evidence
 
 - [tech-003](tech-003.md) — Extends (Russell addresses the same existential risk concerns as Bostrom but with a constructive response)
-- [tech-007](tech-007.md) — Extends (inverse reward design is part of the Russell research program)
+- [tech-007](../../../06-design-principles/evidence/technical/tech-007.md) — Extends (inverse reward design is part of the Russell research program)
 - [tech-006](tech-006.md) — Reinforces (Gabriel's value alignment analysis applies to Russell's preference-based framework)
-- [tech-005](tech-005.md) — Provides necessary context (RLHF is a complementary approach to the value-learning Russell proposes)
-- [phil-035](phil-035.md) — Reinforces (Jonas' ethics of responsibility converges with Russell's insistence on human authority)
-- [phil-036](phil-036.md) — Qualifies (Vallor's capability concern applies — Russell's framework does not address moral deskilling)
+- [tech-005](../../../06-design-principles/evidence/technical/tech-005.md) — Provides necessary context (RLHF is a complementary approach to the value-learning Russell proposes)
+- [phil-035](../../../08-implications-action/evidence/philosophy/phil-035.md) — Reinforces (Jonas' ethics of responsibility converges with Russell's insistence on human authority)
+- [phil-036](../../../06-design-principles/evidence/philosophy/phil-036.md) — Qualifies (Vallor's capability concern applies — Russell's framework does not address moral deskilling)
 
 ---
 

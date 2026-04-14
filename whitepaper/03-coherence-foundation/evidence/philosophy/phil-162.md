@@ -78,7 +78,7 @@ The will to power offers a competing account of agency that challenges CED-AH's 
 
 - [phil-169](phil-169.md) — Partially reinforces as adversarial (Mill's utilitarianism offers a different competing framework — where Nietzsche challenges CED-AH's universalism from the perspective of radical individualism, Mill challenges it from the perspective of aggregate welfare)
 - [phil-160](phil-160.md) — Tensions with (Hegel's systematic philosophy — "the true is the whole" — is precisely the kind of grand systematic claim that Nietzsche's genealogical method targets)
-- [phil-125](phil-125.md) — Tensions with (Kant's moral universalism is Nietzsche's primary target; if CED-AH inherits Kantian universalism, it inherits the Nietzschean critique)
+- [phil-125](../../../04-amplified-humanity/evidence/philosophy/phil-125.md) — Tensions with (Kant's moral universalism is Nietzsche's primary target; if CED-AH inherits Kantian universalism, it inherits the Nietzschean critique)
 - [phil-167](phil-167.md) — Tensions with (Popper's defense of rationalism and open inquiry is in tension with Nietzsche's suspicion of rationalist claims — but both share a commitment to anti-dogmatism)
 - [phil-120](phil-120.md) — Tensions with (Aquinas's natural law represents the medieval universalism that Nietzsche traces genealogically to slave morality and Christian values)
 

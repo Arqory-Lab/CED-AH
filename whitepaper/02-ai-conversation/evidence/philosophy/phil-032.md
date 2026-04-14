@@ -68,11 +68,11 @@ The paper also addresses practical consequences: if we systematically misattribu
 ## Related Evidence
 
 - [phil-027](phil-027.md) — Reinforces (Floridi and Chiriatti's "agentless" characterization of GPT-3 converges with Shanahan's "role-play" analysis)
-- [phil-030](phil-030.md) — Reinforces (the Chinese Room argument is the classical precursor to Shanahan's contemporary analysis)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Reinforces (the Chinese Room argument is the classical precursor to Shanahan's contemporary analysis)
 - [phil-023](phil-023.md) — Tensions with (Dennett's intentional stance would argue that the role-play is all there is — there is no "real" understanding behind the performance)
 - [phil-025](phil-025.md) — Reinforces (Dreyfus' critique of GOFAI is updated for the LLM era by Shanahan's careful analysis)
 - [phil-026](phil-026.md) — Reinforces (Dreyfus' concerns about embodiment and care apply to the systems Shanahan analyzes)
-- [phil-021](phil-021.md) — Reinforces (Block's A/P-consciousness distinction provides the philosophical framework for understanding what the "role-play" lacks)
+- [phil-021](../../../04-amplified-humanity/evidence/philosophy/phil-021.md) — Reinforces (Block's A/P-consciousness distinction provides the philosophical framework for understanding what the "role-play" lacks)
 
 ---
 

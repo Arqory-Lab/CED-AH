@@ -78,12 +78,11 @@ In *Discourses* III.3, Epictetus describes the "material of the good person" as 
 
 ## Related Evidence
 
-- [phil-107](phil-107.md) — Reinforces (Marcus Aurelius applies Epictetus's framework to practical governance — maintaining rational judgment under the pressures of imperial rule)
-- [phil-100](phil-100.md) — Extends (Aristotle's account of phronesis provides the content for what prohairesis exercises — practical wisdom about what constitutes flourishing)
+- [phil-107](../../../03-coherence-foundation/evidence/philosophy/phil-107.md) — Reinforces (Marcus Aurelius applies Epictetus's framework to practical governance — maintaining rational judgment under the pressures of imperial rule)
+- [phil-100](../../../03-coherence-foundation/evidence/philosophy/phil-100.md) — Extends (Aristotle's account of phronesis provides the content for what prohairesis exercises — practical wisdom about what constitutes flourishing)
 - [phil-101](phil-101.md) — Reinforces (the instrument/agent distinction grounds the claim that computational systems, lacking prohairesis, are instruments — entities without the capacity for rational choice)
-- [phil-140](phil-140.md) — Extends (Kant's moral philosophy develops the Stoic insight that rational agency is the seat of moral worth into a systematic deontological ethics)
-- [emp-001](emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document what happens when the Epictetean domain of rational judgment is eroded by automation — the agency that remains is diminished)
-- [hist-015](hist-015.md) — Reinforces (Zuboff's automate/informate distinction is the organizational-level analogue of the Epictetean eph' hēmin/ouk eph' hēmin distinction: does the technology support or supplant the worker's domain of judgment?)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces by analogy (Bainbridge's ironies of automation document what happens when the Epictetean domain of rational judgment is eroded by automation — the agency that remains is diminished)
+- [hist-015](../../../01-two-futures/evidence/history/hist-015.md) — Reinforces (Zuboff's automate/informate distinction is the organizational-level analogue of the Epictetean eph' hēmin/ouk eph' hēmin distinction: does the technology support or supplant the worker's domain of judgment?)
 
 ---
 

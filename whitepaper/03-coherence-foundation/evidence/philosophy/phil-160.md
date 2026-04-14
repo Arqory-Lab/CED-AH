@@ -81,11 +81,11 @@ This social dimension of rationality is relevant to CED-AH's open-source, commun
 ## Related Evidence
 
 - [phil-122](phil-122.md) — Extends (Spinoza's substance monism provides the metaphysical ground that Hegel's dialectic dynamizes — where Spinoza sees coherence as static substance, Hegel sees it as dynamic process)
-- [phil-125](phil-125.md) — Provides predecessor context (Kant's critical philosophy is Hegel's primary interlocutor; Hegel's dialectic is in part an attempt to overcome the dualisms — phenomenon/noumenon, understanding/reason — that Kant's system generates)
-- [phil-161](phil-161.md) — Extends (Marx adopts and materializes Hegel's dialectical method, applying it to economic production and the relationship between labor and machinery)
+- [phil-125](../../../04-amplified-humanity/evidence/philosophy/phil-125.md) — Provides predecessor context (Kant's critical philosophy is Hegel's primary interlocutor; Hegel's dialectic is in part an attempt to overcome the dualisms — phenomenon/noumenon, understanding/reason — that Kant's system generates)
+- [phil-161](../../../01-two-futures/evidence/philosophy/phil-161.md) — Extends (Marx adopts and materializes Hegel's dialectical method, applying it to economic production and the relationship between labor and machinery)
 - [phil-167](phil-167.md) — Tensions with (Popper's *The Open Society and Its Enemies* includes a sustained critique of Hegel's philosophy as "historicist" and potentially authoritarian — CED-AH must navigate this tension)
 - [phil-121](phil-121.md) — Tensions with (Descartes's foundationalism is precisely the epistemological approach that Hegel's holistic coherentism rejects — "the true is the whole" is anti-Cartesian)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the master/slave inversion: operators who delegate to automation lose the skills needed to intervene when automation fails)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies of automation provide empirical evidence for the master/slave inversion: operators who delegate to automation lose the skills needed to intervene when automation fails)
 
 ---
 

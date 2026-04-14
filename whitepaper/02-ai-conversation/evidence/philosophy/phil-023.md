@@ -65,11 +65,11 @@ Specifically, CED-AH's Agency Test requires phenomenological experience, self-ge
 
 ## Related Evidence
 
-- [phil-024](phil-024.md) — Extends (Dennett's later work develops the functionalist account of consciousness)
-- [phil-021](phil-021.md) — Tensions with (Block's A/P-consciousness distinction is precisely what Dennett's deflationism rejects)
-- [phil-022](phil-022.md) — Tensions with (Chalmers' hard problem is the paradigmatic target of Dennett's deflationism)
-- [phil-029](phil-029.md) — Tensions with (Nagel's phenomenological argument asserts the reality of what Dennett deflates)
-- [phil-030](phil-030.md) — Tensions with (Searle's Chinese Room argues for original vs. derived intentionality, which Dennett denies)
+- [phil-024](../../../04-amplified-humanity/evidence/philosophy/phil-024.md) — Extends (Dennett's later work develops the functionalist account of consciousness)
+- [phil-021](../../../04-amplified-humanity/evidence/philosophy/phil-021.md) — Tensions with (Block's A/P-consciousness distinction is precisely what Dennett's deflationism rejects)
+- [phil-022](../../../04-amplified-humanity/evidence/philosophy/phil-022.md) — Tensions with (Chalmers' hard problem is the paradigmatic target of Dennett's deflationism)
+- [phil-029](../../../04-amplified-humanity/evidence/philosophy/phil-029.md) — Tensions with (Nagel's phenomenological argument asserts the reality of what Dennett deflates)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Tensions with (Searle's Chinese Room argues for original vs. derived intentionality, which Dennett denies)
 - [phil-027](phil-027.md) — Provides necessary context (Floridi's analysis of LLMs navigates Dennett's framework in a contemporary setting)
 
 ---

@@ -66,9 +66,9 @@ Lessig argues that this makes the design of digital architecture a profoundly po
 ## Related Evidence
 
 - [hist-007](hist-007.md) — Provides necessary context (Jasanoff's STS framework provides the broader governance analysis within which Lessig's specific thesis operates)
-- [hist-002](hist-002.md) — Reinforces (Meadows identifies information flow structure as a high-leverage intervention point — Lessig shows that code determines information flow structure)
-- [emp-028](emp-028.md) — Extends (Pasquale's *Black Box Society* applies Lessig's analysis specifically to algorithmic opacity)
-- [emp-024](emp-024.md) — Extends (Tutt's "FDA for algorithms" proposes regulatory mechanisms to address the governance gap Lessig identifies)
+- [hist-002](../../../05-formal-architecture/evidence/history/hist-002.md) — Reinforces (Meadows identifies information flow structure as a high-leverage intervention point — Lessig shows that code determines information flow structure)
+- [emp-028](../../../07-applications-failures/evidence/empirical/emp-028.md) — Extends (Pasquale's *Black Box Society* applies Lessig's analysis specifically to algorithmic opacity)
+- [emp-024](../empirical/emp-024.md) — Extends (Tutt's "FDA for algorithms" proposes regulatory mechanisms to address the governance gap Lessig identifies)
 - [hist-010](hist-010.md) — Provides complementary framework (Ostrom's governance principles suggest mechanisms for accountable management of shared digital resources)
 
 ---

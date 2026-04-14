@@ -67,8 +67,8 @@ The new introduction provides a sweeping intellectual history, tracing the dream
 - [phil-028](phil-028.md) — Reinforces (Haugeland provides a complementary philosophical analysis of GOFAI's failure)
 - [phil-032](phil-032.md) — Extends (Shanahan's 2024 analysis brings Dreyfus-type questions to the LLM era)
 - [phil-027](phil-027.md) — Extends (Floridi and Chiriatti's GPT-3 analysis assesses whether LLMs address Dreyfus' concerns)
-- [phil-030](phil-030.md) — Reinforces (Searle's Chinese Room argument is an independent but convergent critique)
-- [phil-029](phil-029.md) — Reinforces (Nagel's phenomenological argument supports the embodiment requirement)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Reinforces (Searle's Chinese Room argument is an independent but convergent critique)
+- [phil-029](../../../04-amplified-humanity/evidence/philosophy/phil-029.md) — Reinforces (Nagel's phenomenological argument supports the embodiment requirement)
 
 ---
 

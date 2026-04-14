@@ -67,8 +67,8 @@ The book was fiercely controversial when published. The AI establishment dismiss
 
 - [phil-026](phil-026.md) — Extends (Dreyfus' updated critique addresses connectionism and neural networks)
 - [phil-028](phil-028.md) — Reinforces (Haugeland's analysis of GOFAI complements Dreyfus' critique)
-- [phil-030](phil-030.md) — Reinforces (Searle's Chinese Room provides an independent argument for the inadequacy of formal symbol manipulation)
-- [phil-029](phil-029.md) — Reinforces (Nagel's phenomenological argument supports Dreyfus' emphasis on subjective experience)
+- [phil-030](../../../04-amplified-humanity/evidence/philosophy/phil-030.md) — Reinforces (Searle's Chinese Room provides an independent argument for the inadequacy of formal symbol manipulation)
+- [phil-029](../../../04-amplified-humanity/evidence/philosophy/phil-029.md) — Reinforces (Nagel's phenomenological argument supports Dreyfus' emphasis on subjective experience)
 - [phil-032](phil-032.md) — Extends (Shanahan's contemporary analysis of LLMs addresses whether Dreyfus' critique applies to modern systems)
 
 ---

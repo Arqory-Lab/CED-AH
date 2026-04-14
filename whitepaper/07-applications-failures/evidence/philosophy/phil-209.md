@@ -53,8 +53,8 @@ Gillespie documents how social media platforms make consequential editorial deci
 ## Related Evidence
 
 - [phil-207](phil-207.md) — Reinforces (Citron & Wittes provide the legal analysis of the immunity that enables the dynamic Gillespie describes)
-- [phil-210](phil-210.md) — Reinforces (Kaye examines the global dimensions of the platform governance Gillespie documents domestically)
-- [hist-200](hist-200.md) — Contextualizes (Wu's centralization cycle explains why platforms evolved toward the curatorial power Gillespie documents)
+- [phil-210](../../../08-implications-action/evidence/philosophy/phil-210.md) — Reinforces (Kaye examines the global dimensions of the platform governance Gillespie documents domestically)
+- [hist-200](../history/hist-200.md) — Contextualizes (Wu's centralization cycle explains why platforms evolved toward the curatorial power Gillespie documents)
 
 ---
 

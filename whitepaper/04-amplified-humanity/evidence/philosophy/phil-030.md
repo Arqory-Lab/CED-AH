@@ -66,11 +66,11 @@ The paper generated an extraordinary critical response. The 27 commentaries repr
 - [phil-031](phil-031.md) — Extends (Searle's *Rediscovery of the Mind* develops the Chinese Room argument into a comprehensive theory)
 - [phil-029](phil-029.md) — Reinforces (Nagel's phenomenological argument supports Searle's claim that understanding requires subjective experience)
 - [phil-021](phil-021.md) — Reinforces (Block's P-consciousness distinction articulates what the Chinese Room lacks)
-- [phil-023](phil-023.md) — Tensions with (Dennett rejects the original/derived intentionality distinction Searle relies on)
+- [phil-023](../../../02-ai-conversation/evidence/philosophy/phil-023.md) — Tensions with (Dennett rejects the original/derived intentionality distinction Searle relies on)
 - [phil-024](phil-024.md) — Tensions with (Dennett's functionalism rejects the syntax/semantics gap)
-- [phil-028](phil-028.md) — Reinforces (Haugeland's original/derived intentionality distinction parallels Searle's argument)
-- [phil-027](phil-027.md) — Reinforces (Floridi's "agentless" characterization of GPT-3 is a contemporary instantiation of Searle's insight)
-- [phil-025](phil-025.md) — Reinforces (Dreyfus' embodiment argument provides independent support for the inadequacy of formal processing)
+- [phil-028](../../../02-ai-conversation/evidence/philosophy/phil-028.md) — Reinforces (Haugeland's original/derived intentionality distinction parallels Searle's argument)
+- [phil-027](../../../02-ai-conversation/evidence/philosophy/phil-027.md) — Reinforces (Floridi's "agentless" characterization of GPT-3 is a contemporary instantiation of Searle's insight)
+- [phil-025](../../../02-ai-conversation/evidence/philosophy/phil-025.md) — Reinforces (Dreyfus' embodiment argument provides independent support for the inadequacy of formal processing)
 
 ---
 

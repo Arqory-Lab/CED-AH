@@ -69,10 +69,10 @@ STAMP has been applied to aviation, healthcare, defense, nuclear power, and auto
 
 - [hist-003](hist-003.md) — Reinforces (Perrow's normal accidents provide complementary evidence for systemic failure)
 - [hist-004](hist-004.md) — Tensions with (Reason's Swiss cheese model is what Leveson argues against as inadequate)
-- [hist-002](hist-002.md) — Provides necessary context (Meadows' systems thinking is the analytical tradition Leveson applies to safety)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies at the operator level; Leveson extends to the system level)
-- [emp-004](emp-004.md) — Reinforces (Endsley's human-automation lessons at the operator level; Leveson provides the organizational context)
-- [hist-005](hist-005.md) — Extends (Taleb's antifragility addresses how systems can gain from disorder — complementary to Leveson's safety framework)
+- [hist-002](../../../05-formal-architecture/evidence/history/hist-002.md) — Provides necessary context (Meadows' systems thinking is the analytical tradition Leveson applies to safety)
+- [emp-001](../empirical/emp-001.md) — Reinforces (Bainbridge's ironies at the operator level; Leveson extends to the system level)
+- [emp-004](../../../06-design-principles/evidence/empirical/emp-004.md) — Reinforces (Endsley's human-automation lessons at the operator level; Leveson provides the organizational context)
+- [hist-005](../../../06-design-principles/evidence/history/hist-005.md) — Extends (Taleb's antifragility addresses how systems can gain from disorder — complementary to Leveson's safety framework)
 
 ---
 

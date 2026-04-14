@@ -76,10 +76,10 @@ Darwin closes with what is perhaps the most eloquent statement of the beauty of 
 
 - [phil-122](phil-122.md) — Reinforces (Spinoza's substance monism provides the metaphysical framework within which Darwin's physical grounding of coherence makes sense — coherence as a property of the one substance, expressed through biological systems)
 - [phil-100](phil-100.md) — Extends (Aristotle's concept of natural teleology — organisms striving toward their proper end/telos — provides the teleological dimension that Darwin's non-teleological natural selection lacks; CED-AH may need both)
-- [phil-161](phil-161.md) — Reinforces (Marx's analysis of how machinery deskills workers provides the social-technological parallel to Darwin's biological analysis — both show systems that enforce coherence/fitness requirements on their components)
-- [phil-171](phil-171.md) — Extends (Wiener's cybernetics provides the conceptual bridge between biological coherence and technological design — feedback mechanisms as the common principle)
-- [math-100](math-100.md) — Tensions with (Godel's incompleteness theorems show that formal systems cannot be both complete and consistent — a formal limit on the kind of perfect coherence that biological systems approximate but never achieve)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies of automation show that coherence requirements apply to human-machine systems as well as biological ones — systems that do not maintain human capability coherence fail)
+- [phil-161](../../../01-two-futures/evidence/philosophy/phil-161.md) — Reinforces (Marx's analysis of how machinery deskills workers provides the social-technological parallel to Darwin's biological analysis — both show systems that enforce coherence/fitness requirements on their components)
+- [phil-171](../../../01-two-futures/evidence/philosophy/phil-171.md) — Extends (Wiener's cybernetics provides the conceptual bridge between biological coherence and technological design — feedback mechanisms as the common principle)
+- [math-100](../../../05-formal-architecture/evidence/mathematics/math-100.md) — Tensions with (Godel's incompleteness theorems show that formal systems cannot be both complete and consistent — a formal limit on the kind of perfect coherence that biological systems approximate but never achieve)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies of automation show that coherence requirements apply to human-machine systems as well as biological ones — systems that do not maintain human capability coherence fail)
 
 ---
 

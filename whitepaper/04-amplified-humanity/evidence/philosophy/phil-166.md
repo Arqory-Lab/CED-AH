@@ -80,12 +80,12 @@ Arendt's critique of "the social" anticipates the concern about algorithmic gove
 
 ## Related Evidence
 
-- [phil-161](phil-161.md) — Extends (Arendt's labor/work/action trichotomy provides a richer account of human activity than Marx's focus on labor — and identifies what is lost when activity is reduced to its laboring dimension)
-- [phil-165](phil-165.md) — Extends (Arendt, who studied under Heidegger, develops the political dimension of his "enframing" concern — where Heidegger diagnoses the reduction of reality to standing-reserve, Arendt diagnoses the reduction of human activity to behavior)
+- [phil-161](../../../01-two-futures/evidence/philosophy/phil-161.md) — Extends (Arendt's labor/work/action trichotomy provides a richer account of human activity than Marx's focus on labor — and identifies what is lost when activity is reduced to its laboring dimension)
+- [phil-165](../../../01-two-futures/evidence/philosophy/phil-165.md) — Extends (Arendt, who studied under Heidegger, develops the political dimension of his "enframing" concern — where Heidegger diagnoses the reduction of reality to standing-reserve, Arendt diagnoses the reduction of human activity to behavior)
 - [phil-123](phil-123.md) — Reinforces (Locke's consent theory of legitimate authority complements Arendt's account of political action — both require a public realm of free agents who engage with one another as equals)
-- [phil-163](phil-163.md) — Reinforces (Dewey's concept of growth through active engagement parallels Arendt's concept of action as the exercise of initiative — both oppose passive reception of predetermined content)
-- [phil-160](phil-160.md) — Tensions with (Hegel's dialectic suggests that history has a rational direction; Arendt's account of action emphasizes radical contingency — genuine novelty that no dialectical scheme can predict)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies of automation document the operational consequence of replacing action with behavior: when operators are reduced from active participants to passive monitors, they lose the capacity to act when action is needed)
+- [phil-163](../../../06-design-principles/evidence/philosophy/phil-163.md) — Reinforces (Dewey's concept of growth through active engagement parallels Arendt's concept of action as the exercise of initiative — both oppose passive reception of predetermined content)
+- [phil-160](../../../03-coherence-foundation/evidence/philosophy/phil-160.md) — Tensions with (Hegel's dialectic suggests that history has a rational direction; Arendt's account of action emphasizes radical contingency — genuine novelty that no dialectical scheme can predict)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies of automation document the operational consequence of replacing action with behavior: when operators are reduced from active participants to passive monitors, they lose the capacity to act when action is needed)
 
 ---
 

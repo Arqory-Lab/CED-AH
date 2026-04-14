@@ -58,7 +58,7 @@ Zittrain warns that the response to the internet's abuse problem (malware, spam,
 
 - [hist-200](hist-200.md) — Reinforces (Wu's Cycle is the historical pattern; Zittrain's generativity is the mechanism)
 - [hist-202](hist-202.md) — Reinforces (Benkler's "wealth of networks" is the value that generativity creates and that centralization captures)
-- [phil-209](phil-209.md) — Extends (Gillespie documents how the intermediary concentration Zittrain warned about materialized in platform content moderation)
+- [phil-209](../philosophy/phil-209.md) — Extends (Gillespie documents how the intermediary concentration Zittrain warned about materialized in platform content moderation)
 
 ---
 

@@ -85,7 +85,7 @@ The Columbia case demonstrates that CED-AH's failure modes are not hypothetical 
 - [hist-003](hist-003.md) — Reinforces (Perrow's normal accidents theory predicts that tightly coupled, interactively complex organizations will produce institutional failures of the kind Columbia exemplifies)
 - [hist-013](hist-013.md) — Reinforces (NTSB aviation accident reports document similar patterns of authority erosion and automation complacency in a different safety-critical domain)
 - [hist-004](hist-004.md) — Extends (Reason's organizational accident model provides a complementary framework for analyzing the latent organizational conditions that enabled the Columbia disaster)
-- [emp-001](emp-001.md) — Provides necessary context (Bainbridge's ironies describe the individual-level cognitive dynamics — skill atrophy, complacency — that manifest at the organizational level in the Columbia case)
+- [emp-001](../empirical/emp-001.md) — Provides necessary context (Bainbridge's ironies describe the individual-level cognitive dynamics — skill atrophy, complacency — that manifest at the organizational level in the Columbia case)
 
 ---
 

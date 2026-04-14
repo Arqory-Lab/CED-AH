@@ -75,12 +75,12 @@ The book documents the progressive deskilling of operators who were once deeply 
 ## Related Evidence
 
 - [hist-012](hist-012.md) — Reinforces (Mindell's history of the autonomy myth in robotics complements Zuboff's history of the automation/informating distinction in workplaces)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies describe the same deskilling dynamic Zuboff documents ethnographically)
-- [emp-003](emp-003.md) — Reinforces (Carr's *Glass Cage* extends Zuboff's analysis to the twenty-first-century context)
-- [emp-032](emp-032.md) — Extends (Brynjolfsson & McAfee's *Second Machine Age* documents the economic consequences at the macro-economic level)
-- [emp-033](emp-033.md) — Reinforces (Davenport & Kirby's augmentation strategies are the business-strategy response to the dynamics Zuboff identified three decades earlier)
-- [emp-034](emp-034.md) — Extends (Raisch & Krakowski's automation-augmentation paradox formalizes the tension Zuboff observed ethnographically)
-- [hist-008](hist-008.md) — Extends (Lessig's "code is law" thesis addresses how technical architecture shapes behavior and power — a theme Zuboff pioneered)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies describe the same deskilling dynamic Zuboff documents ethnographically)
+- [emp-003](../empirical/emp-003.md) — Reinforces (Carr's *Glass Cage* extends Zuboff's analysis to the twenty-first-century context)
+- [emp-032](../empirical/emp-032.md) — Extends (Brynjolfsson & McAfee's *Second Machine Age* documents the economic consequences at the macro-economic level)
+- [emp-033](../empirical/emp-033.md) — Reinforces (Davenport & Kirby's augmentation strategies are the business-strategy response to the dynamics Zuboff identified three decades earlier)
+- [emp-034](../empirical/emp-034.md) — Extends (Raisch & Krakowski's automation-augmentation paradox formalizes the tension Zuboff observed ethnographically)
+- [hist-008](../../../08-implications-action/evidence/history/hist-008.md) — Extends (Lessig's "code is law" thesis addresses how technical architecture shapes behavior and power — a theme Zuboff pioneered)
 
 ---
 

@@ -63,10 +63,10 @@ The paper connects to the broader "cooperative inverse reinforcement learning" (
 
 ## Related Evidence
 
-- [tech-009](tech-009.md) — Extends (Russell's assistance games framework provides the broader theoretical context)
+- [tech-009](../../../02-ai-conversation/evidence/technical/tech-009.md) — Extends (Russell's assistance games framework provides the broader theoretical context)
 - [tech-005](tech-005.md) — Provides necessary context (RLHF is the complementary approach to value specification)
-- [tech-006](tech-006.md) — Reinforces (Gabriel's "whose values" question applies to the designer's reward specification)
-- [tech-001](tech-001.md) — Provides necessary context (reward hacking, one of the concrete problems, is directly addressed by inverse reward design)
+- [tech-006](../../../02-ai-conversation/evidence/technical/tech-006.md) — Reinforces (Gabriel's "whose values" question applies to the designer's reward specification)
+- [tech-001](../../../02-ai-conversation/evidence/technical/tech-001.md) — Provides necessary context (reward hacking, one of the concrete problems, is directly addressed by inverse reward design)
 
 ---
 

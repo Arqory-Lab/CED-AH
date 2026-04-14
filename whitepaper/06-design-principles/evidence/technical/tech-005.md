@@ -63,10 +63,10 @@ The methodology has profound implications: it shifts the locus of value specific
 
 ## Related Evidence
 
-- [tech-002](tech-002.md) — Extends (Bai et al. apply RLHF to conversational AI at scale)
+- [tech-002](../../../02-ai-conversation/evidence/technical/tech-002.md) — Extends (Bai et al. apply RLHF to conversational AI at scale)
 - [tech-007](tech-007.md) — Extends (inverse reward design addresses related problems in value specification)
-- [tech-006](tech-006.md) — Reinforces (Gabriel's "whose values" question applies to the human evaluators in RLHF)
-- [tech-001](tech-001.md) — Provides necessary context (RLHF addresses several of the concrete safety problems)
+- [tech-006](../../../02-ai-conversation/evidence/technical/tech-006.md) — Reinforces (Gabriel's "whose values" question applies to the human evaluators in RLHF)
+- [tech-001](../../../02-ai-conversation/evidence/technical/tech-001.md) — Provides necessary context (RLHF addresses several of the concrete safety problems)
 
 ---
 

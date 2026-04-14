@@ -233,12 +233,21 @@ Our dual-entity structure, nonprofit research, commercial deployment, ensures th
 If you reference this work in academic or professional contexts:
 
 ```bibtex
-@misc{cedag2026,
-  title={CED-AH: Contextual Epistemic Dynamics — Amplified Humanity},
-  author={The Arqory Research Institute},
-  year={2026},
-  url={https://github.com/ced-ah/ced-ah},
-  note={A philosophical framework and safety standard for human-centered computational systems}
+@techreport{cedah2026,
+  title        = {CED-AH: Contextual Epistemic Dynamics {---} Amplified Humanity},
+  author       = {{The Arqory Research Institute}},
+  year         = {2026},
+  month        = apr,
+  institution  = {The Arqory Research Institute},
+  url          = {https://github.com/Arqory-Lab/CED-AH},
+  howpublished = {\url{https://github.com/Arqory-Lab/CED-AH}},
+  note         = {A philosophical framework and safety standard for human-centered computational systems},
+  abstract     = {CED-AH establishes coherence as the first principle for evaluating
+                  computational systems, derives the instrument thesis (computational
+                  systems are instruments for human flourishing) and the accountability
+                  principle (deploying entities bear responsibility for system effects),
+                  and produces five enforceable design imperatives: authority retention,
+                  capability growth, transparency, calibrated honesty, and reversibility.}
 }
 ```
 

@@ -71,7 +71,7 @@ This is a serious challenge. CED-AH's instrument thesis depends on there being a
 
 ## Related Evidence
 
-- [phil-023](phil-023.md) — Extends (this work develops the intentional stance into a full theory of consciousness)
+- [phil-023](../../../02-ai-conversation/evidence/philosophy/phil-023.md) — Extends (this work develops the intentional stance into a full theory of consciousness)
 - [phil-021](phil-021.md) — Tensions with (Dennett rejects Block's P-consciousness as incoherent)
 - [phil-022](phil-022.md) — Tensions with (Dennett rejects Chalmers' hard problem as a conceptual confusion)
 - [phil-029](phil-029.md) — Tensions with (Nagel's phenomenological argument is a primary target of Dennett's deflationism)

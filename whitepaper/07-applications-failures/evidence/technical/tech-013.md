@@ -82,12 +82,12 @@ These mappings extend CED-AH's failure analysis by providing specific, well-docu
 
 ## Related Evidence
 
-- [tech-011](tech-011.md) — Tensions with (VSD claims values can be operationalized in design; Selbst et al. warn that this operationalization risks abstraction failures)
-- [tech-012](tech-012.md) — Extends (Raji et al.'s auditing framework must contend with the traps Selbst et al. identify — an audit that commits the Framing Trap produces false assurance)
-- [tech-014](tech-014.md) — Tensions with (Shneiderman's guidelines provide concrete design recommendations that may risk the Formalism Trap)
-- [hist-001](hist-001.md) — Reinforces (Leveson's systems safety framework addresses the same sociotechnical reality — safety as a system property, not a component property)
-- [hist-003](hist-003.md) — Reinforces (Perrow's normal accidents demonstrate the consequences of abstracting away system complexity)
-- [phil-001](phil-001.md) — Provides philosophical grounding (the coherence criterion is CED-AH's attempt to avoid the traps by defining evaluation at the systemic rather than componential level)
+- [tech-011](../../../06-design-principles/evidence/technical/tech-011.md) — Tensions with (VSD claims values can be operationalized in design; Selbst et al. warn that this operationalization risks abstraction failures)
+- [tech-012](../../../08-implications-action/evidence/technical/tech-012.md) — Extends (Raji et al.'s auditing framework must contend with the traps Selbst et al. identify — an audit that commits the Framing Trap produces false assurance)
+- [tech-014](../../../06-design-principles/evidence/technical/tech-014.md) — Tensions with (Shneiderman's guidelines provide concrete design recommendations that may risk the Formalism Trap)
+- [hist-001](../history/hist-001.md) — Reinforces (Leveson's systems safety framework addresses the same sociotechnical reality — safety as a system property, not a component property)
+- [hist-003](../history/hist-003.md) — Reinforces (Perrow's normal accidents demonstrate the consequences of abstracting away system complexity)
+- [phil-001](../../../03-coherence-foundation/evidence/philosophy/phil-001.md) — Provides philosophical grounding (the coherence criterion is CED-AH's attempt to avoid the traps by defining evaluation at the systemic rather than componential level)
 
 ---
 

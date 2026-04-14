@@ -63,10 +63,10 @@ The paper also introduces "Constitutional AI" methods — using a set of princip
 
 ## Related Evidence
 
-- [tech-005](tech-005.md) — Extends (Christiano et al. provide the foundational RLHF methodology this paper applies)
+- [tech-005](../../../06-design-principles/evidence/technical/tech-005.md) — Extends (Christiano et al. provide the foundational RLHF methodology this paper applies)
 - [tech-006](tech-006.md) — Reinforces (Gabriel's "whose values" question applies directly to the human raters whose preferences shape the system)
 - [tech-001](tech-001.md) — Provides necessary context (the concrete problems paper motivates the safety concerns RLHF attempts to address)
-- [tech-010](tech-010.md) — Extends (Weidinger et al. provide a broader risk taxonomy than "helpful and harmless")
+- [tech-010](../../../07-applications-failures/evidence/technical/tech-010.md) — Extends (Weidinger et al. provide a broader risk taxonomy than "helpful and harmless")
 
 ---
 

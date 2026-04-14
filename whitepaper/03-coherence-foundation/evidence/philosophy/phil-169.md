@@ -78,10 +78,10 @@ Mill's argument for individuality (Chapter III) directly supports CED-AH's Autho
 
 - [phil-162](phil-162.md) — Tensions with and partially reinforces as adversarial (Nietzsche and Mill present different adversarial challenges to CED-AH: Nietzsche challenges universalism from radical individualism; Mill challenges non-negotiable agency from aggregate welfare. Together they bracket CED-AH's position from two opposing directions)
 - [phil-167](phil-167.md) — Reinforces (Mill's argument for freedom of discussion directly supports Popper's defense of the open society — both argue that intellectual progress requires unrestricted critical inquiry)
-- [phil-125](phil-125.md) — Tensions with (Kant's deontological ethics, which grounds moral principles in duty rather than consequences, represents the primary philosophical alternative to Mill's utilitarianism — CED-AH's non-negotiable principles are more Kantian than Millian)
-- [phil-163](phil-163.md) — Reinforces (Dewey's concept of growth through active engagement parallels Mill's argument for individuality — both hold that the exercise of one's own faculties is intrinsically valuable, not merely instrumentally useful)
-- [phil-123](phil-123.md) — Reinforces (Locke's self-ownership and consent theory supports Mill's harm principle and the authority of individuals over their own lives — both contribute to CED-AH's Authority Retention imperative)
-- [phil-166](phil-166.md) — Extends (Arendt's concept of action provides a richer account of what is lost when individuality is sacrificed to utility maximization — the loss is not merely of preference satisfaction but of the distinctively human capacity to begin)
+- [phil-125](../../../04-amplified-humanity/evidence/philosophy/phil-125.md) — Tensions with (Kant's deontological ethics, which grounds moral principles in duty rather than consequences, represents the primary philosophical alternative to Mill's utilitarianism — CED-AH's non-negotiable principles are more Kantian than Millian)
+- [phil-163](../../../06-design-principles/evidence/philosophy/phil-163.md) — Reinforces (Dewey's concept of growth through active engagement parallels Mill's argument for individuality — both hold that the exercise of one's own faculties is intrinsically valuable, not merely instrumentally useful)
+- [phil-123](../../../04-amplified-humanity/evidence/philosophy/phil-123.md) — Reinforces (Locke's self-ownership and consent theory supports Mill's harm principle and the authority of individuals over their own lives — both contribute to CED-AH's Authority Retention imperative)
+- [phil-166](../../../04-amplified-humanity/evidence/philosophy/phil-166.md) — Extends (Arendt's concept of action provides a richer account of what is lost when individuality is sacrificed to utility maximization — the loss is not merely of preference satisfaction but of the distinctively human capacity to begin)
 
 ---
 

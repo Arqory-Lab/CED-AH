@@ -90,12 +90,12 @@ The mapping is not perfect — CED-AH's Capability Growth imperative has no dire
 ## Related Evidence
 
 - [tech-011](tech-011.md) — Reinforces (VSD and HCAI share the commitment to values-based design; VSD provides the methodology, HCAI the specific AI application)
-- [tech-012](tech-012.md) — Extends (Raji et al.'s auditing framework provides the accountability mechanisms HCAI systems require)
-- [tech-013](tech-013.md) — Tensions with (Selbst et al.'s abstraction critique challenges whether HCAI's design guidelines can be applied without committing abstraction errors)
-- [emp-011](emp-011.md) — Reinforces (Shneiderman's HCAI framework, covered in more detail in the expanded 2022 book, is the source from which this evidence is drawn)
-- [emp-002](emp-002.md) — Reinforces by analogy (Billings' human-centered aviation automation is the domain-specific predecessor to Shneiderman's general HCAI framework)
-- [emp-004](emp-004.md) — Reinforces (Endsley's human-automation interaction lessons provide the empirical evidence supporting Shneiderman's design recommendations)
-- [emp-033](emp-033.md) — Reinforces (Davenport & Kirby's augmentation strategies are the business-strategy complement to Shneiderman's design-research recommendations)
+- [tech-012](../../../08-implications-action/evidence/technical/tech-012.md) — Extends (Raji et al.'s auditing framework provides the accountability mechanisms HCAI systems require)
+- [tech-013](../../../07-applications-failures/evidence/technical/tech-013.md) — Tensions with (Selbst et al.'s abstraction critique challenges whether HCAI's design guidelines can be applied without committing abstraction errors)
+- [emp-011](../empirical/emp-011.md) — Reinforces (Shneiderman's HCAI framework, covered in more detail in the expanded 2022 book, is the source from which this evidence is drawn)
+- [emp-002](../empirical/emp-002.md) — Reinforces by analogy (Billings' human-centered aviation automation is the domain-specific predecessor to Shneiderman's general HCAI framework)
+- [emp-004](../empirical/emp-004.md) — Reinforces (Endsley's human-automation interaction lessons provide the empirical evidence supporting Shneiderman's design recommendations)
+- [emp-033](../../../01-two-futures/evidence/empirical/emp-033.md) — Reinforces (Davenport & Kirby's augmentation strategies are the business-strategy complement to Shneiderman's design-research recommendations)
 
 ---
 

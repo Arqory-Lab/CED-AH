@@ -82,12 +82,12 @@ Four cases are particularly significant for CED-AH:
 
 ## Related Evidence
 
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies provide the theoretical framework; NTSB reports provide the empirical confirmation)
-- [emp-003](emp-003.md) — Reinforces (Carr's *Glass Cage* draws extensively on aviation cases)
-- [emp-004](emp-004.md) — Reinforces (Endsley's lessons from human-automation interaction are drawn in part from the same aviation context)
-- [emp-005](emp-005.md) — Reinforces (Parasuraman & Riley's automation misuse framework explains the cognitive mechanisms)
+- [emp-001](../empirical/emp-001.md) — Reinforces (Bainbridge's ironies provide the theoretical framework; NTSB reports provide the empirical confirmation)
+- [emp-003](../../../01-two-futures/evidence/empirical/emp-003.md) — Reinforces (Carr's *Glass Cage* draws extensively on aviation cases)
+- [emp-004](../../../06-design-principles/evidence/empirical/emp-004.md) — Reinforces (Endsley's lessons from human-automation interaction are drawn in part from the same aviation context)
+- [emp-005](../empirical/emp-005.md) — Reinforces (Parasuraman & Riley's automation misuse framework explains the cognitive mechanisms)
 - [hist-011](hist-011.md) — Reinforces (Columbia disaster demonstrates the same patterns at the organizational level)
-- [hist-012](hist-012.md) — Provides broader context (Mindell's history of automation documents the persistent myth of autonomy)
+- [hist-012](../../../01-two-futures/evidence/history/hist-012.md) — Provides broader context (Mindell's history of automation documents the persistent myth of autonomy)
 - [hist-001](hist-001.md) — Provides analytical framework (Leveson's STAMP model provides the systems-theoretic method for analyzing these accidents)
 
 ---

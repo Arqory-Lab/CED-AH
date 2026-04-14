@@ -69,7 +69,7 @@ The book also provides a valuable critique of foundationalism, particularly the 
 
 - [phil-001](phil-001.md) — Reinforces (three independent arguments for coherentism: BonJour, Davidson, Lehrer)
 - [phil-003](phil-003.md) — Reinforces (Davidson's coherentism from a different philosophical tradition)
-- [phil-005](phil-005.md) — Tensions with (Goldman's externalist reliabilism vs. Lehrer's internalist coherentism)
+- [phil-005](../../../05-formal-architecture/evidence/philosophy/phil-005.md) — Tensions with (Goldman's externalist reliabilism vs. Lehrer's internalist coherentism)
 - [phil-010](phil-010.md) — Reinforces (Sellars' rejection of the Given, which Lehrer adopts and extends)
 
 ---

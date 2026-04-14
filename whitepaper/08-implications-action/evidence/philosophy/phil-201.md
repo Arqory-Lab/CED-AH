@@ -59,7 +59,7 @@ Thompson examines and rejects two common responses: (1) **hierarchical responsib
 
 - [phil-200](phil-200.md) — Extends (Nissenbaum adapted Thompson's framework for computing)
 - [phil-203](phil-203.md) — Extends (Santoni de Sio & Mecacci's four gaps include organizational dimensions)
-- [hist-200](hist-200.md) — Illustrates (Wu's centralization cycle creates the organizational complexity Thompson analyzes)
+- [hist-200](../../../07-applications-failures/evidence/history/hist-200.md) — Illustrates (Wu's centralization cycle creates the organizational complexity Thompson analyzes)
 
 ---
 

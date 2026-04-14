@@ -82,8 +82,8 @@ CED-AH's coherence criterion — internal consistency + alignment with flourishi
 - [hist-003](hist-003.md) — Reinforces (Perrow's normal accidents theory predicts incremental failure in tightly coupled organizations)
 - [hist-004](hist-004.md) — Extends (Reason's organizational accident model provides a complementary "resident pathogens" framework)
 - [hist-013](hist-013.md) — Reinforces (NTSB aviation reports document normalization of deviance in aviation)
-- [emp-001](emp-001.md) — Provides necessary context (Bainbridge's ironies describe the individual-level dynamics that manifest at the organizational level)
-- [hist-002](hist-002.md) — Provides analytical framework (Meadows' systems dynamics describes the reinforcing feedback loops driving normalization)
+- [emp-001](../empirical/emp-001.md) — Provides necessary context (Bainbridge's ironies describe the individual-level dynamics that manifest at the organizational level)
+- [hist-002](../../../05-formal-architecture/evidence/history/hist-002.md) — Provides analytical framework (Meadows' systems dynamics describes the reinforcing feedback loops driving normalization)
 
 ---
 

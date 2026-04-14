@@ -72,11 +72,11 @@ Mindell's conclusion is unequivocal: "Full autonomy is a myth. It has always bee
 ## Related Evidence
 
 - [hist-015](hist-015.md) — Reinforces (Zuboff's analysis of computer-mediated work transformation provides the labor-history complement to Mindell's technology-history analysis)
-- [hist-011](hist-011.md) — Reinforces (the Columbia disaster demonstrates what happens when the human-machine collaboration Mindell describes breaks down at the institutional level)
-- [hist-006](hist-006.md) — Extends (Woods & Hollnagel's joint cognitive systems provide the theoretical framework for the human-machine partnerships Mindell documents historically)
-- [emp-001](emp-001.md) — Reinforces (Bainbridge's ironies describe the cognitive dynamics — skill atrophy, complacency — that Mindell's case studies illustrate historically)
-- [emp-002](emp-002.md) — Reinforces (Billings' human-centered aviation automation provides the design principles for the kind of human-machine collaboration Mindell advocates)
-- [emp-004](emp-004.md) — Reinforces (Endsley's lessons from human-automation interaction provide the human-factors evidence supporting Mindell's historical conclusions)
+- [hist-011](../../../07-applications-failures/evidence/history/hist-011.md) — Reinforces (the Columbia disaster demonstrates what happens when the human-machine collaboration Mindell describes breaks down at the institutional level)
+- [hist-006](../../../06-design-principles/evidence/history/hist-006.md) — Extends (Woods & Hollnagel's joint cognitive systems provide the theoretical framework for the human-machine partnerships Mindell documents historically)
+- [emp-001](../../../07-applications-failures/evidence/empirical/emp-001.md) — Reinforces (Bainbridge's ironies describe the cognitive dynamics — skill atrophy, complacency — that Mindell's case studies illustrate historically)
+- [emp-002](../../../06-design-principles/evidence/empirical/emp-002.md) — Reinforces (Billings' human-centered aviation automation provides the design principles for the kind of human-machine collaboration Mindell advocates)
+- [emp-004](../../../06-design-principles/evidence/empirical/emp-004.md) — Reinforces (Endsley's lessons from human-automation interaction provide the human-factors evidence supporting Mindell's historical conclusions)
 
 ---
 

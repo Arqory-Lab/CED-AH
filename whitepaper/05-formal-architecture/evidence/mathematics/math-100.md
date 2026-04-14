@@ -73,12 +73,12 @@ This result has profound implications beyond mathematics. It suggests that forma
 
 ## Related Evidence
 
-- [math-101](math-101.md) — Provides necessary context (Whitehead and Russell's *Principia Mathematica* was the foundationalist project that Godel's theorems defeated — understanding the ambition of the *Principia* is necessary to understand the significance of Godel's result)
-- [phil-172](phil-172.md) — Extends (Polanyi's tacit knowledge thesis provides the epistemological complement to Godel's formal result — where Godel shows that formal systems cannot capture all mathematical truths, Polanyi shows that explicit knowledge cannot capture all human knowledge)
-- [phil-160](phil-160.md) — Reinforces (Hegel's holistic coherentism — "the true is the whole" — anticipated the Godelian insight that no part of a system can validate the whole; truth requires the whole, which no formal subsystem can capture)
-- [phil-167](phil-167.md) — Reinforces (Popper's falsificationism acknowledges that scientific theories cannot be verified from within — they can only be tested against external challenges; Godel's theorem provides the formal basis for this epistemological limitation)
-- [phil-170](phil-170.md) — Tensions with (Darwin's biological coherence is approximate and adaptive, not formally perfect — living systems achieve "good enough" coherence despite the impossibility of formal completeness, suggesting that CED-AH's practical coherence can work despite Godelian limits)
-- [phil-164](phil-164.md) — Reinforces (Wittgenstein's argument that the meaning of rules cannot be captured by further rules — the "rule-following problem" — is the linguistic analogue of Godel's formal incompleteness)
+- [math-101](../../../03-coherence-foundation/evidence/mathematics/math-101.md) — Provides necessary context (Whitehead and Russell's *Principia Mathematica* was the foundationalist project that Godel's theorems defeated — understanding the ambition of the *Principia* is necessary to understand the significance of Godel's result)
+- [phil-172](../../../04-amplified-humanity/evidence/philosophy/phil-172.md) — Extends (Polanyi's tacit knowledge thesis provides the epistemological complement to Godel's formal result — where Godel shows that formal systems cannot capture all mathematical truths, Polanyi shows that explicit knowledge cannot capture all human knowledge)
+- [phil-160](../../../03-coherence-foundation/evidence/philosophy/phil-160.md) — Reinforces (Hegel's holistic coherentism — "the true is the whole" — anticipated the Godelian insight that no part of a system can validate the whole; truth requires the whole, which no formal subsystem can capture)
+- [phil-167](../../../03-coherence-foundation/evidence/philosophy/phil-167.md) — Reinforces (Popper's falsificationism acknowledges that scientific theories cannot be verified from within — they can only be tested against external challenges; Godel's theorem provides the formal basis for this epistemological limitation)
+- [phil-170](../../../03-coherence-foundation/evidence/philosophy/phil-170.md) — Tensions with (Darwin's biological coherence is approximate and adaptive, not formally perfect — living systems achieve "good enough" coherence despite the impossibility of formal completeness, suggesting that CED-AH's practical coherence can work despite Godelian limits)
+- [phil-164](../../../02-ai-conversation/evidence/philosophy/phil-164.md) — Reinforces (Wittgenstein's argument that the meaning of rules cannot be captured by further rules — the "rule-following problem" — is the linguistic analogue of Godel's formal incompleteness)
 
 ---
 

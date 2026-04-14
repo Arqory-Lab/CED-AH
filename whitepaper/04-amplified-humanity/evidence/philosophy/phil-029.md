@@ -65,10 +65,10 @@ Nagel's paper is the philosophical ancestor of Block's A/P-consciousness distinc
 
 - [phil-021](phil-021.md) — Extends (Block's A/P-consciousness distinction develops Nagel's phenomenological argument into a precise conceptual framework)
 - [phil-022](phil-022.md) — Extends (Chalmers' hard problem is a direct descendant of Nagel's irreducibility thesis)
-- [phil-023](phil-023.md) — Tensions with (Dennett rejects the irreducibility of subjective experience)
+- [phil-023](../../../02-ai-conversation/evidence/philosophy/phil-023.md) — Tensions with (Dennett rejects the irreducibility of subjective experience)
 - [phil-024](phil-024.md) — Tensions with (Dennett's Multiple Drafts model denies there is a unified "something it is like")
 - [phil-030](phil-030.md) — Reinforces (Searle's Chinese Room provides a complementary argument from a different direction)
-- [phil-025](phil-025.md) — Reinforces (Dreyfus' embodiment argument supports the link between phenomenological experience and bodily existence)
+- [phil-025](../../../02-ai-conversation/evidence/philosophy/phil-025.md) — Reinforces (Dreyfus' embodiment argument supports the link between phenomenological experience and bodily existence)
 
 ---
 

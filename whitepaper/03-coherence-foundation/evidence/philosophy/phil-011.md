@@ -67,7 +67,7 @@ However, Sosa's reflective level — where agents must coherently understand why
 
 - [phil-001](phil-001.md) — Tensions with (Sosa transcends the coherentism BonJour defends)
 - [phil-002](phil-002.md) — Extends (Sosa offers an alternative to BonJour's later retreat to foundationalism)
-- [phil-005](phil-005.md) — Extends (Sosa's virtue epistemology refines Goldman's reliabilism — reliable processes become intellectual virtues)
+- [phil-005](../../../05-formal-architecture/evidence/philosophy/phil-005.md) — Extends (Sosa's virtue epistemology refines Goldman's reliabilism — reliable processes become intellectual virtues)
 - [phil-006](phil-006.md) — Extends (Sosa's ecumenical approach parallels Haack's foundherentism as a third way)
 
 ---
