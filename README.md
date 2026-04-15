@@ -1,12 +1,12 @@
 <p align="center">
-  <img src=".github/images/readme-banner.svg" alt="CED-AH – Arqory Research Institute" width="700">
+  <img src=".github/images/readme-banner.svg" alt="CED-AH - Arqory Research Institute" width="700">
 </p>
 
-# CED-AH: Contextual Epistemic Dynamics — Amplified Humanity
+# CED-AH: Contextual Epistemic Dynamics - Amplified Humanity
 
 **A philosophical framework and safety standard for human-centered computational systems.**
 
-> *Computational systems should amplify human capability, not replace human agency.  The criterion is coherence.  The goal is flourishing.  The method is amplification.  The authority remains with us — and so does the accountability.*
+> *Computational systems should amplify human capability, not replace human agency.  The criterion is coherence.  The goal is flourishing.  The method is amplification.  The authority remains with us, and so does the accountability.*
 
 [![License: Apache 2.0](https://img.shields.io/badge/Code-Apache_2.0-3B82F6?style=flat-square)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Docs-CC_BY_4.0-3B82F6?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
